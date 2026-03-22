@@ -1,0 +1,435 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="23040" tvg-name="VOD 1" tvg-logo="uploads/channels/channel_1_1728458922_thumb.png",VOD 1
+http://maxotts.maxdigitaltv.com/x-media/C94/master.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="20055" tvg-name="RODHI TV" tvg-logo="uploads/channels/channel_2_1728459238_thumb.png",RODHI TV
+http://maxotts.maxdigitaltv.com/x-media/C207/master.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="20244" tvg-name="ME TV HD" tvg-logo="uploads/channels/channel_3_1728459290_thumb.png",ME TV HD
+http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="43" tvg-name="VOD 4" tvg-logo="uploads/channels/channel_6_1728459674_thumb.png",VOD 4
+http://maxotts.maxdigitaltv.com/x-media/C93/master.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="23034" tvg-name="NEPAL PRESS HD" tvg-logo="uploads/channels/channel_7_1728459758_thumb.png",NEPAL PRESS HD
+http://maxotts.maxdigitaltv.com/x-media/C97/master.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="23027" tvg-name="GOLDEN EYE HD" tvg-logo="uploads/channels/channel_8_1729063469_thumb.png",GOLDEN EYE HD
+http://maxotts.maxdigitaltv.com/x-media/C181/master.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="17573" tvg-name="J MUSIC HD" tvg-logo="uploads/channels/channel-logo-C180-1750072339.png",J MUSIC HD
+http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="303042" tvg-name="SAMATA TV" tvg-logo="uploads/channels/channel_10_1729063798_thumb.png",SAMATA TV
+http://maxotts.maxdigitaltv.com/x-media/C208/master.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="303068" tvg-name="CITY ONE" tvg-logo="uploads/channels/channel_11_1729063612_thumb.png",CITY ONE
+http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="20056" tvg-name="PUBLIC TV 4K" tvg-logo="uploads/channels/channel_12_1729063856_thumb.png",PUBLIC TV 4K
+http://maxotts.maxdigitaltv.com/x-media/C210/master.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="12002" tvg-name="KANTIPUR MAX HD" tvg-logo="uploads/channels/channel_13_1744889974_thumb.png",KANTIPUR MAX HD
+http://maxotts.maxdigitaltv.com/x-media/C183/master.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="85959" tvg-name="TEAM TV HD" tvg-logo="uploads/channels/channel-logo-C196-1757929700.png",TEAM TV HD
+http://maxotts.maxdigitaltv.com/x-media/C196/master.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="12086" tvg-name="NTV PLUS HD" tvg-logo="uploads/channels/channel_15_1729064272_thumb.png",NTV PLUS HD
+http://maxotts.maxdigitaltv.com/x-media/C2/master.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="4545454" tvg-name="NTV HD" tvg-logo="uploads/channels/channel_16_1729064651_thumb.png",NTV HD
+http://maxotts.maxdigitaltv.com/x-media/C1/master.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="11009" tvg-name="MAKALU TELEVISION HD" tvg-logo="uploads/channels/channel_17_1729064812_thumb.png",MAKALU TELEVISION HD
+http://maxotts.maxdigitaltv.com/x-media/C171/master.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="93" tvg-name="KANTIPUR TV HD" tvg-logo="uploads/channels/channel_18_1729064983_thumb.png",KANTIPUR TV HD
+http://maxotts.maxdigitaltv.com/x-media/C11/master.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="83" tvg-name="AP1 HD" tvg-logo="uploads/channels/channel_19_1729065018_thumb.png",AP1 HD
+http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="17564" tvg-name="HIMALAYAN TV HD" tvg-logo="uploads/channels/channel_20_1729065126_thumb.png",HIMALAYAN TV HD
+http://maxotts.maxdigitaltv.com/x-media/C8/master.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="20142" tvg-name="NEWS 24 NEPAL" tvg-logo="uploads/channels/channel_21_1729065168_thumb.png",NEWS 24 NEPAL
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="94" tvg-name="AVENUES TV" tvg-logo="uploads/channels/channel_22_1729065238_thumb.png",AVENUES TV
+http://maxotts.maxdigitaltv.com/x-media/C10/master.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="51" tvg-name="MOUNTAIN TV" tvg-logo="uploads/channels/channel_23_1729065269_thumb.png",MOUNTAIN TV
+http://maxotts.maxdigitaltv.com/x-media/C4/master.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="323290" tvg-name="IMAGE TV HD" tvg-logo="uploads/channels/channel_24_1729065477_thumb.png",IMAGE TV HD
+http://maxotts.maxdigitaltv.com/x-media/C133/master.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="62" tvg-name="NTV NEWS HD" tvg-logo="uploads/channels/channel_25_1729065522_thumb.png",NTV NEWS HD
+http://maxotts.maxdigitaltv.com/x-media/C46/master.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="98976" tvg-name="NTV ITAHARI HD" tvg-logo="uploads/channels/channel_26_1729066602_thumb.png",NTV ITAHARI HD
+http://maxotts.maxdigitaltv.com/x-media/C15/master.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-id="19706" tvg-name="PRIME HD" tvg-logo="uploads/channels/channel_27_1729066643_thumb.png",PRIME HD
+http://maxotts.maxdigitaltv.com/x-media/C198/master.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="80" tvg-name="ABC TELEVISION" tvg-logo="uploads/channels/channel_28_1729066672_thumb.png",ABC TELEVISION
+http://maxotts.maxdigitaltv.com/x-media/C3/master.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="73" tvg-name="NTV KOHALPUR HD" tvg-logo="uploads/channels/channel_29_1729066703_thumb.png",NTV KOHALPUR HD
+http://maxotts.maxdigitaltv.com/x-media/C40/master.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="19678" tvg-name="SAGARMATHA" tvg-logo="uploads/channels/channel_30_1729066733_thumb.png",SAGARMATHA
+http://maxotts.maxdigitaltv.com/x-media/C12/master.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="20529" tvg-name="UNIVERSAL TV HD" tvg-logo="uploads/channels/channel_162_1744698340_thumb.png",UNIVERSAL TV HD
+http://maxotts.maxdigitaltv.com/x-media/C203/master.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="12652" tvg-name="RAJYA TV HD" tvg-logo="uploads/channels/channel_31_1729066777_thumb.png",RAJYA TV HD
+http://maxotts.maxdigitaltv.com/x-media/C161/master.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="21208" tvg-name="BHADAGAUN" tvg-logo="uploads/channels/channel_32_1729066828_thumb.png",BHADAGAUN
+http://maxotts.maxdigitaltv.com/x-media/C143/master.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="17565" tvg-name="KASHMANDAP HD" tvg-logo="uploads/channels/channel_33_1729066864_thumb.png",KASHMANDAP HD
+http://maxotts.maxdigitaltv.com/x-media/C151/master.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="9865895896" tvg-name="YES TV HD" tvg-logo="uploads/channels/channel_34_1729068275_thumb.png",YES TV HD
+http://maxotts.maxdigitaltv.com/x-media/C152/master.m3u8
+#EXTINF:-1 tvg-chno="42" tvg-id="19715" tvg-name="BUSINESS PLUS" tvg-logo="uploads/channels/channel_35_1729068315_thumb.png",BUSINESS PLUS
+http://maxotts.maxdigitaltv.com/x-media/C16/master.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="23007" tvg-name="MITHILA TV" tvg-logo="uploads/channels/channel-logo-C249-1761722307.png",MITHILA TV
+http://maxotts.maxdigitaltv.com/x-media/C249/master.m3u8
+#EXTINF:-1 tvg-chno="46" tvg-id="6013" tvg-name="NAMASTE HD" tvg-logo="uploads/channels/channel_36_1729068881_thumb.png",NAMASTE HD
+http://maxotts.maxdigitaltv.com/x-media/C150/master.m3u8
+#EXTINF:-1 tvg-chno="47" tvg-id="2323" tvg-name="DHAULAGIRI TV" tvg-logo="uploads/channels/channel_210_1744698778_thumb.png",DHAULAGIRI TV
+http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="17575" tvg-name="TV TODAY" tvg-logo="uploads/channels/channel_37_1729068923_thumb.png",TV TODAY
+http://maxotts.maxdigitaltv.com/x-media/C6/master.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="17561" tvg-name="APPAN TV HD" tvg-logo="uploads/channels/channel_38_1729069071_thumb.png",APPAN TV HD
+http://maxotts.maxdigitaltv.com/x-media/C160/master.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="12009" tvg-name="PALIKA TV" tvg-logo="uploads/channels/channel-logo-C174-1769082178.png",PALIKA TV
+http://maxotts.maxdigitaltv.com/x-media/C174/master.m3u8
+#EXTINF:-1 tvg-chno="51" tvg-id="17562" tvg-name="KASTHAMANDAP GOLD HD" tvg-logo="uploads/channels/channel_40_1729072092_thumb.png",KASTHAMANDAP GOLD HD
+http://maxotts.maxdigitaltv.com/x-media/C149/master.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="20085" tvg-name="BUDDHA TV" tvg-logo="uploads/channels/channel_41_1729072172_thumb.png",BUDDHA TV
+http://maxotts.maxdigitaltv.com/x-media/C211/master.m3u8
+#EXTINF:-1 tvg-chno="53" tvg-id="22992" tvg-name="YOHO HD" tvg-logo="uploads/channels/channel_42_1729074296_thumb.png",YOHO HD
+http://maxotts.maxdigitaltv.com/x-media/C148/master.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="23022" tvg-name="TIME TV HD" tvg-logo="uploads/channels/channel_43_1729074345_thumb.png",TIME TV HD
+http://maxotts.maxdigitaltv.com/x-media/C140/master.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="19679" tvg-name="ARANIKO HD" tvg-logo="uploads/channels/channel_44_1729076920_thumb.png",ARANIKO HD
+http://maxotts.maxdigitaltv.com/x-media/C138/master.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="20488" tvg-name="ACE HD" tvg-logo="uploads/channels/channel_45_1729077049_thumb.png",ACE HD
+http://maxotts.maxdigitaltv.com/x-media/C175/master.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="223332" tvg-name="WALLING TV HD" tvg-logo="uploads/channels/channel_46_1729077391_thumb.png",WALLING TV HD
+http://maxotts.maxdigitaltv.com/x-media/C153/master.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="20345" tvg-name="MEGA TV" tvg-logo="uploads/channels/channel_151_1744700608_thumb.png",MEGA TV
+http://maxotts.maxdigitaltv.com/x-media/C242/master.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="2233" tvg-name="SYANGJA TV HD" tvg-logo="uploads/channels/channel_214_1744701539_thumb.png",SYANGJA TV HD
+http://maxotts.maxdigitaltv.com/x-media/C35/master.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="2323" tvg-name="RAY TV" tvg-logo="uploads/channels/channel_215_1744701977_thumb.png",RAY TV
+http://maxotts.maxdigitaltv.com/x-media/C33/master.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="23465" tvg-name="CHANNEL 4 TELEVISION" tvg-logo="uploads/channels/channel_47_1729077427_thumb.png",CHANNEL 4 TELEVISION
+http://maxotts.maxdigitaltv.com/x-media/C137/master.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="507" tvg-name="KALIKA HD" tvg-logo="uploads/channels/channel_48_1729077461_thumb.png",KALIKA HD
+http://maxotts.maxdigitaltv.com/x-media/C142/master.m3u8
+#EXTINF:-1 tvg-chno="63" tvg-id="2333" tvg-name="GNN TV" tvg-logo="uploads/channels/channel_216_1744703594_thumb.png",GNN TV
+http://maxotts.maxdigitaltv.com/x-media/C651/master.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="303030" tvg-name="SAPTRANGI TV HD" tvg-logo="uploads/channels/channel_49_1729077505_thumb.png",SAPTRANGI TV HD
+http://maxotts.maxdigitaltv.com/x-media/C154/master.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="20016" tvg-name="BUDDHA AWAZ HD" tvg-logo="uploads/channels/channel_50_1729077599_thumb.png",BUDDHA AWAZ HD
+http://maxotts.maxdigitaltv.com/x-media/C146/master.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="23432" tvg-name="PCN" tvg-logo="uploads/channels/channel_217_1744703911_thumb.png",PCN
+http://maxotts.maxdigitaltv.com/x-media/C652/master.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="182" tvg-name="SPACE 4K" tvg-logo="uploads/channels/channel_51_1729077663_thumb.png",SPACE 4K
+http://maxotts.maxdigitaltv.com/x-media/C172/master.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="23005" tvg-name="NEPAL MANDAL HD" tvg-logo="uploads/channels/channel_52_1729077736_thumb.png",NEPAL MANDAL HD
+http://maxotts.maxdigitaltv.com/x-media/C145/master.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="322332" tvg-name="NEWA" tvg-logo="uploads/channels/channel_219_1744704697_thumb.png",NEWA
+http://maxotts.maxdigitaltv.com/x-media/C656/master.m3u8
+#EXTINF:-1 tvg-chno="71" tvg-id="20004" tvg-name="OMKAR TV HD" tvg-logo="uploads/channels/channel_53_1729077997_thumb.png",OMKAR TV HD
+http://maxotts.maxdigitaltv.com/x-media/C173/master.m3u8
+#EXTINF:-1 tvg-chno="72" tvg-id="3211" tvg-name="PRISMA TV" tvg-logo="uploads/channels/channel_220_1744705095_thumb.png",PRISMA TV
+http://maxotts.maxdigitaltv.com/x-media/C665/master.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="233232" tvg-name="CAPITAL TV HD" tvg-logo="uploads/channels/channel_54_1729078062_thumb.png",CAPITAL TV HD
+http://maxotts.maxdigitaltv.com/x-media/C166/master.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="20053" tvg-name="SKY HD" tvg-logo="uploads/channels/channel_55_1729078351_thumb.png",SKY HD
+http://maxotts.maxdigitaltv.com/x-media/C156/master.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="23221" tvg-name="7 STAR TV" tvg-logo="uploads/channels/channel_221_1744705548_thumb.png",7 STAR TV
+http://maxotts.maxdigitaltv.com/x-media/C667/master.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="3332" tvg-name="NEPAL NETWORK 4K" tvg-logo="uploads/channels/channel_222_1744706005_thumb.png",NEPAL NETWORK 4K
+http://maxotts.maxdigitaltv.com/x-media/C668/master.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-id="17560" tvg-name="INDIGENOUS HD" tvg-logo="uploads/channels/channel_56_1729078392_thumb.png",INDIGENOUS HD
+http://maxotts.maxdigitaltv.com/x-media/C159/master.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="34342" tvg-name="SATYA TATHYA" tvg-logo="uploads/channels/channel_223_1744706424_thumb.png",SATYA TATHYA
+http://maxotts.maxdigitaltv.com/x-media/C669/master.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="232323" tvg-name="NEPA TV" tvg-logo="uploads/channels/channel_224_1744707844_thumb.png",NEPA TV
+http://maxotts.maxdigitaltv.com/x-media/C670/master.m3u8
+#EXTINF:-1 tvg-chno="80" tvg-id="20590" tvg-name="RAPTI DARPAN HD" tvg-logo="uploads/channels/channel_57_1729078425_thumb.png",RAPTI DARPAN HD
+http://maxotts.maxdigitaltv.com/x-media/C179/master.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="3323" tvg-name="LUMBINI TV" tvg-logo="None",LUMBINI TV
+http://maxotts.maxdigitaltv.com/x-media/C671/master.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="43433" tvg-name="BAGMATI HD" tvg-logo="uploads/channels/channel_58_1729078467_thumb.png",BAGMATI HD
+http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="160" tvg-name="B TV" tvg-logo="uploads/channels/channel_59_1729078859_thumb.png",B TV
+http://maxotts.maxdigitaltv.com/x-media/C169/master.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="147" tvg-name="NATIONAL GOLD HD" tvg-logo="uploads/channels/channel_60_1729078909_thumb.png",NATIONAL GOLD HD
+http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="20020" tvg-name="GLOBAL TELEVISION HD" tvg-logo="uploads/channels/channel_61_1729079096_thumb.png",GLOBAL TELEVISION HD
+http://maxotts.maxdigitaltv.com/x-media/C147/master.m3u8
+#EXTINF:-1 tvg-chno="86" tvg-id="180" tvg-name="SAROKAR TV" tvg-logo="uploads/channels/channel_62_1729079371_thumb.png",SAROKAR TV
+http://maxotts.maxdigitaltv.com/x-media/C130/master.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="232322" tvg-name="TILOTTAMA TV" tvg-logo="uploads/channels/channel_226_1744707203_thumb.png",TILOTTAMA TV
+http://maxotts.maxdigitaltv.com/x-media/C772/master.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="303036" tvg-name="LIFE OK HD" tvg-logo="uploads/channels/channel_63_1729079415_thumb.png",LIFE OK HD
+http://maxotts.maxdigitaltv.com/x-media/C163/master.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="303037" tvg-name="BODHI TV HD" tvg-logo="uploads/channels/channel_64_1729079449_thumb.png",BODHI TV HD
+http://maxotts.maxdigitaltv.com/x-media/C164/master.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="17574" tvg-name="BHAKTI DARSHAN" tvg-logo="uploads/channels/channel_65_1729079489_thumb.png",BHAKTI DARSHAN
+http://maxotts.maxdigitaltv.com/x-media/C5/master.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="23001" tvg-name="RUPANDEHI CHANNEL" tvg-logo="uploads/channels/channel_66_1729079541_thumb.png",RUPANDEHI CHANNEL
+http://maxotts.maxdigitaltv.com/x-media/C144/master.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="161" tvg-name="DEEP TV" tvg-logo="uploads/channels/channel_67_1729079575_thumb.png",DEEP TV
+http://maxotts.maxdigitaltv.com/x-media/C165/master.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="415" tvg-name="DVYA DARSHAN HD" tvg-logo="uploads/channels/channel_68_1729079609_thumb.png",DVYA DARSHAN HD
+http://maxotts.maxdigitaltv.com/x-media/C157/master.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="57" tvg-name="SONY HD" tvg-logo="uploads/channels/channel_69_1729079661_thumb.png",SONY HD
+http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="303055" tvg-name="HUM SITARAY" tvg-logo="uploads/channels/channel_70_1729064577_thumb.png",HUM SITARAY
+http://maxotts.maxdigitaltv.com/x-media/C267/master.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="23038" tvg-name="VENUS ENTERTAINMENT" tvg-logo="uploads/channels/channel_72_1739945507_thumb.png",VENUS ENTERTAINMENT
+http://maxotts.maxdigitaltv.com/x-media/C54/master.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="23003" tvg-name="AUR LIFE HD" tvg-logo="uploads/channels/channel_73_1729064704_thumb.png",AUR LIFE HD
+http://maxotts.maxdigitaltv.com/x-media/C246/master.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="74" tvg-name="SONY SAB HD" tvg-logo="uploads/channels/channel_74_1729079753_thumb.png",SONY SAB HD
+http://maxotts.maxdigitaltv.com/x-media/C64/master.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="88" tvg-name="& TV HD" tvg-logo="uploads/channels/channel_75_1729064765_thumb.png",& TV HD
+http://maxotts.maxdigitaltv.com/x-media/C56/master.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="70" tvg-name="COLORS HD" tvg-logo="uploads/channels/channel_76_1729064811_thumb.png",COLORS HD
+http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="19630" tvg-name="ARY ZINDAGI" tvg-logo="uploads/channels/channel_78_1729064842_thumb.png",ARY ZINDAGI
+http://maxotts.maxdigitaltv.com/x-media/C34/master.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="50" tvg-name="Z TV HD" tvg-logo="uploads/channels/channel-logo-C55-1749789901.png",Z TV HD
+http://maxotts.maxdigitaltv.com/x-media/C55/master.m3u8
+#EXTINF:-1 tvg-chno="112" tvg-id="303058" tvg-name="GREEN ENTERTAINMENT" tvg-logo="uploads/channels/channel_80_1729064963_thumb.png",GREEN ENTERTAINMENT
+http://maxotts.maxdigitaltv.com/x-media/C270/master.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="82" tvg-name="DD NATION HD" tvg-logo="uploads/channels/channel_81_1729079872_thumb.png",DD NATION HD
+http://maxotts.maxdigitaltv.com/x-media/C80/master.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="19716" tvg-name="DANGAL" tvg-logo="uploads/channels/channel_83_1729079956_thumb.png",DANGAL
+http://maxotts.maxdigitaltv.com/x-media/C17/master.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="20071" tvg-name="DANGAL 2" tvg-logo="uploads/channels/channel-logo-C254-1769082283.png",DANGAL 2
+http://maxotts.maxdigitaltv.com/x-media/C254/master.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="303061" tvg-name="EXPRESS HD" tvg-logo="uploads/channels/channel_85_1729065077_thumb.png",EXPRESS HD
+http://maxotts.maxdigitaltv.com/x-media/C273/master.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="23044" tvg-name="SONY PAL" tvg-logo="uploads/channels/channel_106_1737270778_thumb.png",SONY PAL
+http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="16003" tvg-name="AAN TV" tvg-logo="uploads/channels/channel_87_1729065195_thumb.png",AAN TV
+http://maxotts.maxdigitaltv.com/x-media/C125/master.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="64" tvg-name="DD BHARATI" tvg-logo="uploads/channels/channel_90_1729065254_thumb.png",DD BHARATI
+http://maxotts.maxdigitaltv.com/x-media/C43/master.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="20341" tvg-name="SHEMAROO TV" tvg-logo="uploads/channels/channel_91_1729065316_thumb.png",SHEMAROO TV
+http://maxotts.maxdigitaltv.com/x-media/C253/master.m3u8
+#EXTINF:-1 tvg-chno="124" tvg-id="303063" tvg-name="MUN TV" tvg-logo="uploads/channels/channel_92_1729065458_thumb.png",MUN TV
+http://maxotts.maxdigitaltv.com/x-media/C275/master.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="435" tvg-name="STAR BHRT" tvg-logo="uploads/channels/channel_93_1729065508_thumb.png",STAR BHRT
+http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="314434" tvg-name="SHEMAROO UMANG" tvg-logo="uploads/channels/channel-logo-C252-1769082363.png",SHEMAROO UMANG
+http://maxotts.maxdigitaltv.com/x-media/C252/master.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="303002" tvg-name="ANJAN TV" tvg-logo="uploads/channels/channel_95_1729080256_thumb.png",ANJAN TV
+http://maxotts.maxdigitaltv.com/x-media/C30/master.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="36023" tvg-name="STAR +" tvg-logo="uploads/channels/channel_96_1729065666_thumb.png",STAR +
+http://maxotts.maxdigitaltv.com/x-media/C51/master.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="41" tvg-name="PTC PUNJABI" tvg-logo="uploads/channels/channel_97_1729080303_thumb.png",PTC PUNJABI
+http://maxotts.maxdigitaltv.com/x-media/C192/master.m3u8
+#EXTINF:-1 tvg-chno="150" tvg-id="303052" tvg-name="BBC FIRST" tvg-logo="uploads/channels/channel_98_1729066226_thumb.png",BBC FIRST
+http://maxotts.maxdigitaltv.com/x-media/C264/master.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="303053" tvg-name="AMC" tvg-logo="uploads/channels/channel_99_1729066284_thumb.png",AMC
+http://maxotts.maxdigitaltv.com/x-media/C265/master.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="303054" tvg-name="BBC BRIT" tvg-logo="uploads/channels/channel_100_1729066329_thumb.png",BBC BRIT
+http://maxotts.maxdigitaltv.com/x-media/C266/master.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-id="66" tvg-name="SONY MAX HD" tvg-logo="uploads/channels/channel_103_1729081033_thumb.png",SONY MAX HD
+http://maxotts.maxdigitaltv.com/x-media/C62/master.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="23049" tvg-name="GOLDMINES MOVIES" tvg-logo="uploads/channels/channel_105_1729066446_thumb.png",GOLDMINES MOVIES
+http://maxotts.maxdigitaltv.com/x-media/C126/master.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="10014" tvg-name="COLORS CINEPLEX" tvg-logo="uploads/channels/channel_107_1729081213_thumb.png",COLORS CINEPLEX
+http://maxotts.maxdigitaltv.com/x-media/C121/master.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="34344" tvg-name="HOLLYWOOD CINEMA" tvg-logo="uploads/channels/channel_108_1729066562_thumb.png",HOLLYWOOD CINEMA
+http://maxotts.maxdigitaltv.com/x-media/C136/master.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="63" tvg-name="SONY PIX" tvg-logo="uploads/channels/channel_109_1737270604_thumb.png",SONY PIX
+http://maxotts.maxdigitaltv.com/x-media/C42/master.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="303064" tvg-name="INPLUS HD" tvg-logo="uploads/channels/channel_110_1729066603_thumb.png",INPLUS HD
+http://maxotts.maxdigitaltv.com/x-media/C276/master.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="45" tvg-name="Z CINEMA HD" tvg-logo="uploads/channels/channel_111_1729066677_thumb.png",Z CINEMA HD
+http://maxotts.maxdigitaltv.com/x-media/C58/master.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="303045" tvg-name="GOLDMINES" tvg-logo="uploads/channels/channel_112_1729066734_thumb.png",GOLDMINES
+http://maxotts.maxdigitaltv.com/x-media/C37/master.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="65" tvg-name="& PICTURE HD" tvg-logo="uploads/channels/channel_113_1729066777_thumb.png",& PICTURE HD
+http://maxotts.maxdigitaltv.com/x-media/C57/master.m3u8
+#EXTINF:-1 tvg-chno="212" tvg-id="508" tvg-name="HOLLYWOOD MOVIESS HD" tvg-logo="uploads/channels/channel_114_1729066842_thumb.png",HOLLYWOOD MOVIESS HD
+http://maxotts.maxdigitaltv.com/x-media/C247/master.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="23039" tvg-name="S GOLD" tvg-logo="uploads/channels/channel_115_1729081298_thumb.png",S GOLD
+http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="4012" tvg-name="BHOJPURI CINEMA" tvg-logo="uploads/channels/channel_116_1729081339_thumb.png",BHOJPURI CINEMA
+http://maxotts.maxdigitaltv.com/x-media/C19/master.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="502" tvg-name="SONY MAX 2" tvg-logo="uploads/channels/channel_147_1737270122_thumb.png",SONY MAX 2
+http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="23036" tvg-name="GOLDMINES CLASSIC" tvg-logo="uploads/channels/channel_117_1729067340_thumb.png",GOLDMINES CLASSIC
+http://maxotts.maxdigitaltv.com/x-media/C109/master.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="22332" tvg-name="B4U MOVIES" tvg-logo="None",B4U MOVIES
+http://maxotts.maxdigitaltv.com/x-media/C680/master.m3u8
+#EXTINF:-1 tvg-chno="218" tvg-id="2" tvg-name="B4U BHOJPURI" tvg-logo="uploads/channels/channel_126_1729081848_thumb.png",B4U BHOJPURI
+http://maxotts.maxdigitaltv.com/x-media/C20/master.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-id="87" tvg-name="LOTUS MACAU HD" tvg-logo="uploads/channels/channel_122_1729081590_thumb.png",LOTUS MACAU HD
+http://maxotts.maxdigitaltv.com/x-media/C49/master.m3u8
+#EXTINF:-1 tvg-chno="301" tvg-id="2122" tvg-name="B4U MUSIC" tvg-logo="None",B4U MUSIC
+http://maxotts.maxdigitaltv.com/x-media/C512/master.m3u8
+#EXTINF:-1 tvg-chno="302" tvg-id="20922" tvg-name="JALWA" tvg-logo="uploads/channels/channel-logo-C107-1762766914.png",JALWA
+http://maxotts.maxdigitaltv.com/x-media/C107/master.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="30000" tvg-name="9XM" tvg-logo="uploads/channels/channel_127_1729081879_thumb.png",9XM
+http://maxotts.maxdigitaltv.com/x-media/C122/master.m3u8
+#EXTINF:-1 tvg-chno="306" tvg-id="122343" tvg-name="BALLE BALLE" tvg-logo="None",BALLE BALLE
+http://maxotts.maxdigitaltv.com/x-media/C513/master.m3u8
+#EXTINF:-1 tvg-chno="307" tvg-id="20592" tvg-name="CLUB MTV" tvg-logo="uploads/channels/channel_129_1729067584_thumb.png",CLUB MTV
+http://maxotts.maxdigitaltv.com/x-media/C128/master.m3u8
+#EXTINF:-1 tvg-chno="308" tvg-id="20224" tvg-name="MUSIC INDIA" tvg-logo="uploads/channels/channel_130_1739945936_thumb.png",MUSIC INDIA
+http://maxotts.maxdigitaltv.com/x-media/C255/master.m3u8
+#EXTINF:-1 tvg-chno="309" tvg-id="20111" tvg-name="SANGEET BHOJPURI" tvg-logo="uploads/channels/channel_131_1729067647_thumb.png",SANGEET BHOJPURI
+http://maxotts.maxdigitaltv.com/x-media/C256/master.m3u8
+#EXTINF:-1 tvg-chno="310" tvg-id="303067" tvg-name="ICONCERTS" tvg-logo="uploads/channels/channel_132_1729067747_thumb.png",ICONCERTS
+http://maxotts.maxdigitaltv.com/x-media/C279/master.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="2121333" tvg-name="9X JALWA" tvg-logo="None",9X JALWA
+http://maxotts.maxdigitaltv.com/x-media/C514/master.m3u8
+#EXTINF:-1 tvg-chno="317" tvg-id="676733" tvg-name="MASTI" tvg-logo="uploads/channels/channel_133_1729081997_thumb.png",MASTI
+http://maxotts.maxdigitaltv.com/x-media/C197/master.m3u8
+#EXTINF:-1 tvg-chno="401" tvg-id="303054" tvg-name="SONY YAY" tvg-logo="uploads/channels/channel_143_1737270173_thumb.png",SONY YAY
+http://maxotts.maxdigitaltv.com/x-media/C39/master.m3u8
+#EXTINF:-1 tvg-chno="402" tvg-id="21043" tvg-name="CARTOON NETWORK HD" tvg-logo="uploads/channels/channel_135_1729082066_thumb.png",CARTOON NETWORK HD
+http://maxotts.maxdigitaltv.com/x-media/C119/master.m3u8
+#EXTINF:-1 tvg-chno="403" tvg-id="501" tvg-name="POGO" tvg-logo="uploads/channels/channel_136_1729082128_thumb.png",POGO
+http://maxotts.maxdigitaltv.com/x-media/C200/master.m3u8
+#EXTINF:-1 tvg-chno="404" tvg-id="20930" tvg-name="DISCOVERY KIDS" tvg-logo="uploads/channels/channel_146_1738683404_thumb.png",DISCOVERY KIDS
+http://maxotts.maxdigitaltv.com/x-media/C127/master.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="303049" tvg-name="RONGEEN TV" tvg-logo="uploads/channels/channel_138_1729067953_thumb.png",RONGEEN TV
+http://maxotts.maxdigitaltv.com/x-media/C261/master.m3u8
+#EXTINF:-1 tvg-chno="406" tvg-id="303065" tvg-name="PLANET FUN HD" tvg-logo="uploads/channels/channel_134_1729067847_thumb.png",PLANET FUN HD
+http://maxotts.maxdigitaltv.com/x-media/C277/master.m3u8
+#EXTINF:-1 tvg-chno="407" tvg-id="55" tvg-name="LTN FAMILY HD" tvg-logo="uploads/channels/channel-logo-C41-1768996338.png",LTN FAMILY HD
+http://maxotts.maxdigitaltv.com/x-media/C41/master.m3u8
+#EXTINF:-1 tvg-chno="408" tvg-id="58" tvg-name="KIDS ZONE" tvg-logo="uploads/channels/channel_141_1729068147_thumb.png",KIDS ZONE
+http://maxotts.maxdigitaltv.com/x-media/C63/master.m3u8
+#EXTINF:-1 tvg-chno="409" tvg-id="303068" tvg-name="BBC CBEEBIES" tvg-logo="uploads/channels/channel_141_1738736770_thumb.png",BBC CBEEBIES
+http://maxotts.maxdigitaltv.com/x-media/C280/master.m3u8
+#EXTINF:-1 tvg-chno="410" tvg-id="23019" tvg-name="ETV BAL BHARAT" tvg-logo="uploads/channels/channel_142_1738683178_thumb.png",ETV BAL BHARAT
+http://maxotts.maxdigitaltv.com/x-media/C186/master.m3u8
+#EXTINF:-1 tvg-chno="411" tvg-id="20314" tvg-name="KARTOON CHANNEL" tvg-logo="uploads/channels/channel-logo-C102-1768996112.png",KARTOON CHANNEL
+http://maxotts.maxdigitaltv.com/x-media/C102/master.m3u8
+#EXTINF:-1 tvg-chno="412" tvg-id="303069" tvg-name="NICKELODEON" tvg-logo="uploads/channels/channel-logo-C281-1769082448.png",NICKELODEON
+http://maxotts.maxdigitaltv.com/x-media/C281/master.m3u8
+#EXTINF:-1 tvg-chno="414" tvg-id="303070" tvg-name="JIM JAM" tvg-logo="uploads/channels/channel_145_1738736850_thumb.png",JIM JAM
+http://maxotts.maxdigitaltv.com/x-media/C282/master.m3u8
+#EXTINF:-1 tvg-chno="500" tvg-id="213212" tvg-name="KANTIPUR MAX  HD" tvg-logo="uploads/channels/channel_212_1742546009_thumb.png",KANTIPUR MAX  HD
+http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-id="504" tvg-name="KANTIPUR MAX 2 HD" tvg-logo="uploads/channels/channel-logo-C190-1763958788.png",KANTIPUR MAX 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C190/master.m3u8
+#EXTINF:-1 tvg-chno="502" tvg-id="85" tvg-name="SONY SPORTS 1 HD" tvg-logo="uploads/channels/channel_149_1728448757_thumb.png",SONY SPORTS 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
+#EXTINF:-1 tvg-chno="503" tvg-id="78" tvg-name="SONY SPORTS 2 HD" tvg-logo="uploads/channels/channel_150_1729064359_thumb.png",SONY SPORTS 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
+#EXTINF:-1 tvg-chno="504" tvg-id="68" tvg-name="SONY SPORTS 3 HD" tvg-logo="uploads/channels/channel_151_1729064447_thumb.png",SONY SPORTS 3 HD
+http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
+#EXTINF:-1 tvg-chno="505" tvg-id="154" tvg-name="DD SPORTS" tvg-logo="uploads/channels/channel_166_1729085397_thumb.png",DD SPORTS
+http://maxotts.maxdigitaltv.com/x-media/C214/master.m3u8
+#EXTINF:-1 tvg-chno="506" tvg-id="23018" tvg-name="SS 2 HD" tvg-logo="uploads/channels/channel_154_1729068704_thumb.png",SS 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C245/master.m3u8
+#EXTINF:-1 tvg-chno="507" tvg-id="12005" tvg-name="SS 3 HD" tvg-logo="uploads/channels/channel_155_1729068768_thumb.png",SS 3 HD
+http://maxotts.maxdigitaltv.com/x-media/C243/master.m3u8
+#EXTINF:-1 tvg-chno="508" tvg-id="19626" tvg-name="SS 4 HD" tvg-logo="uploads/channels/channel_156_1729068925_thumb.png",SS 4 HD
+http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
+#EXTINF:-1 tvg-chno="509" tvg-id="178" tvg-name="ACTION SPORTS HD" tvg-logo="uploads/channels/channel_157_1729083483_thumb.png",ACTION SPORTS HD
+http://maxotts.maxdigitaltv.com/x-media/C129/master.m3u8
+#EXTINF:-1 tvg-chno="510" tvg-id="54" tvg-name="SONY SPORT 5 HD" tvg-logo="uploads/channels/channel_158_1729064493_thumb.png",SONY SPORT 5 HD
+http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
+#EXTINF:-1 tvg-chno="511" tvg-id="303052" tvg-name="SPORTS 1" tvg-logo="uploads/channels/channel_158_1739941874_thumb.png",SPORTS 1
+http://maxotts.maxdigitaltv.com/x-media/C258/master.m3u8
+#EXTINF:-1 tvg-chno="512" tvg-id="414" tvg-name="SPORTS 2" tvg-logo="uploads/channels/channel_160_1729069126_thumb.png",SPORTS 2
+http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
+#EXTINF:-1 tvg-chno="513" tvg-id="183" tvg-name="SPORTS 3 HD" tvg-logo="uploads/channels/channel_161_1729069197_thumb.png",SPORTS 3 HD
+http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
+#EXTINF:-1 tvg-chno="514" tvg-id="303051" tvg-name="FIGHT BOX HD" tvg-logo="uploads/channels/channel_162_1729069249_thumb.png",FIGHT BOX HD
+http://maxotts.maxdigitaltv.com/x-media/C263/master.m3u8
+#EXTINF:-1 tvg-chno="515" tvg-id="303071" tvg-name="S SPORTS 1 HD" tvg-logo="uploads/channels/channel_166_1742379655_thumb.png",S SPORTS 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
+#EXTINF:-1 tvg-chno="516" tvg-id="122112" tvg-name="S CRICKET HD" tvg-logo="uploads/channels/channel_228_1744889811_thumb.png",S CRICKET HD
+http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
+#EXTINF:-1 tvg-chno="518" tvg-id="23031" tvg-name="S SPORTS HINDI HD" tvg-logo="uploads/channels/channel_152_1742379605_thumb.png",S SPORTS HINDI HD
+http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+#EXTINF:-1 tvg-chno="519" tvg-id="303012" tvg-name="A SPORTS HD" tvg-logo="uploads/channels/channel_165_1729083997_thumb.png",A SPORTS HD
+http://maxotts.maxdigitaltv.com/x-media/C213/master.m3u8
+#EXTINF:-1 tvg-chno="520" tvg-id="19677" tvg-name="SS 1 HD" tvg-logo="uploads/channels/channel-logo-C240-1767595037.png",SS 1 HD
+http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
+#EXTINF:-1 tvg-chno="521" tvg-id="22323" tvg-name="WWE" tvg-logo="uploads/channels/channel-logo-C490-1750072819.png",WWE
+http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
+#EXTINF:-1 tvg-chno="523" tvg-id="12213" tvg-name="LIVE SPORTS HD" tvg-logo="uploads/channels/channel-logo-C412-1749562272.png",LIVE SPORTS HD
+http://maxotts.maxdigitaltv.com/x-media/C412/master.m3u8
+#EXTINF:-1 tvg-chno="524" tvg-id="232353" tvg-name="HIMALAYA PREMIUM HD" tvg-logo="uploads/channels/channel_213_1743485179_thumb.png",HIMALAYA PREMIUM HD
+http://maxotts.maxdigitaltv.com/x-media/C707/master.m3u8
+#EXTINF:-1 tvg-chno="525" tvg-id="184" tvg-name="S SPORTS 2 HD" tvg-logo="uploads/channels/channel-logo-C250-1763381313.png",S SPORTS 2 HD
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+#EXTINF:-1 tvg-chno="601" tvg-id="23013" tvg-name="AAJ TAK" tvg-logo="uploads/channels/channel_168_1729085454_thumb.png",AAJ TAK
+http://maxotts.maxdigitaltv.com/x-media/C110/master.m3u8
+#EXTINF:-1 tvg-chno="602" tvg-id="60" tvg-name="ABP NEWS" tvg-logo="uploads/channels/channel_169_1729085488_thumb.png",ABP NEWS
+http://maxotts.maxdigitaltv.com/x-media/C52/master.m3u8
+#EXTINF:-1 tvg-chno="603" tvg-id="303024" tvg-name="ZEE NEWS" tvg-logo="uploads/channels/channel_170_1729085524_thumb.png",ZEE NEWS
+http://maxotts.maxdigitaltv.com/x-media/C32/master.m3u8
+#EXTINF:-1 tvg-chno="604" tvg-id="334040" tvg-name="NEWS 18 INDIA" tvg-logo="uploads/channels/channel_171_1729085554_thumb.png",NEWS 18 INDIA
+http://maxotts.maxdigitaltv.com/x-media/C44/master.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-id="1" tvg-name="ZEE BIHAR  JHARKHAND" tvg-logo="uploads/channels/channel_172_1729085597_thumb.png",ZEE BIHAR  JHARKHAND
+http://maxotts.maxdigitaltv.com/x-media/C21/master.m3u8
+#EXTINF:-1 tvg-chno="607" tvg-id="52" tvg-name="INDIA TV" tvg-logo="uploads/channels/channel_174_1729085829_thumb.png",INDIA TV
+http://maxotts.maxdigitaltv.com/x-media/C53/master.m3u8
+#EXTINF:-1 tvg-chno="608" tvg-id="303050" tvg-name="ARY NEWS" tvg-logo="uploads/channels/channel_174_1739943676_thumb.png",ARY NEWS
+http://maxotts.maxdigitaltv.com/x-media/C262/master.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-id="72" tvg-name="CGTN" tvg-logo="uploads/channels/channel_175_1738736536_thumb.png",CGTN
+http://maxotts.maxdigitaltv.com/x-media/C48/master.m3u8
+#EXTINF:-1 tvg-chno="610" tvg-id="3" tvg-name="LIVE NEWS FOX" tvg-logo="uploads/channels/channel_176_1738683606_thumb.png",LIVE NEWS FOX
+http://maxotts.maxdigitaltv.com/x-media/C36/master.m3u8
+#EXTINF:-1 tvg-chno="611" tvg-id="92" tvg-name="DEUTSCHE WELLE HD" tvg-logo="uploads/channels/channel_178_1729085992_thumb.png",DEUTSCHE WELLE HD
+http://maxotts.maxdigitaltv.com/x-media/C77/master.m3u8
+#EXTINF:-1 tvg-chno="612" tvg-id="75" tvg-name="FRANCE 24 ENGLISH HD" tvg-logo="uploads/channels/channel_179_1729086020_thumb.png",FRANCE 24 ENGLISH HD
+http://maxotts.maxdigitaltv.com/x-media/C83/master.m3u8
+#EXTINF:-1 tvg-chno="613" tvg-id="23006" tvg-name="EURONEWS ASIA" tvg-logo="uploads/channels/channel_180_1729086080_thumb.png",EURONEWS ASIA
+http://maxotts.maxdigitaltv.com/x-media/C131/master.m3u8
+#EXTINF:-1 tvg-chno="614" tvg-id="91" tvg-name="AL JAZEERA HD" tvg-logo="uploads/channels/channel_181_1729085333_thumb.png",AL JAZEERA HD
+http://maxotts.maxdigitaltv.com/x-media/C75/master.m3u8
+#EXTINF:-1 tvg-chno="615" tvg-id="81" tvg-name="CHANNEL NEWS ASIA HD" tvg-logo="uploads/channels/channel_182_1729085268_thumb.png",CHANNEL NEWS ASIA HD
+http://maxotts.maxdigitaltv.com/x-media/C79/master.m3u8
+#EXTINF:-1 tvg-chno="616" tvg-id="71" tvg-name="NHK WORLD HD" tvg-logo="uploads/channels/channel_183_1729085179_thumb.png",NHK WORLD HD
+http://maxotts.maxdigitaltv.com/x-media/C76/master.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-id="79" tvg-name="TRT WORLD HD" tvg-logo="uploads/channels/channel_184_1729085143_thumb.png",TRT WORLD HD
+http://maxotts.maxdigitaltv.com/x-media/C78/master.m3u8
+#EXTINF:-1 tvg-chno="619" tvg-id="19669" tvg-name="CNN" tvg-logo="uploads/channels/channel_119_1737270213_thumb.png",CNN
+http://maxotts.maxdigitaltv.com/x-media/C241/master.m3u8
+#EXTINF:-1 tvg-chno="620" tvg-id="42" tvg-name="ARIRANG TV HD" tvg-logo="uploads/channels/channel_185_1729085110_thumb.png",ARIRANG TV HD
+http://maxotts.maxdigitaltv.com/x-media/C82/master.m3u8
+#EXTINF:-1 tvg-chno="621" tvg-id="76" tvg-name="VOA" tvg-logo="uploads/channels/channel_186_1729085083_thumb.png",VOA
+http://maxotts.maxdigitaltv.com/x-media/C84/master.m3u8
+#EXTINF:-1 tvg-chno="622" tvg-id="TestNDTV" tvg-name="BBC WORLD NEWS" tvg-logo="uploads/channels/channel-logo-C108-1764667102.png",BBC WORLD NEWS
+http://maxotts.maxdigitaltv.com/x-media/C108/master.m3u8
+#EXTINF:-1 tvg-chno="630" tvg-id="12003" tvg-name="NDTV" tvg-logo="uploads/channels/channel_187_1729085047_thumb.png",NDTV
+http://maxotts.maxdigitaltv.com/x-media/C184/master.m3u8
+#EXTINF:-1 tvg-chno="653" tvg-id="23020" tvg-name="EWTN" tvg-logo="uploads/channels/channel_188_1729084961_thumb.png",EWTN
+http://maxotts.maxdigitaltv.com/x-media/C191/master.m3u8
+#EXTINF:-1 tvg-chno="660" tvg-id="59" tvg-name="RUSSIA TODAY HD" tvg-logo="uploads/channels/channel_190_1729084890_thumb.png",RUSSIA TODAY HD
+http://maxotts.maxdigitaltv.com/x-media/C81/master.m3u8
+#EXTINF:-1 tvg-chno="670" tvg-id="86" tvg-name="TV5 MONDE HD" tvg-logo="uploads/channels/channel_191_1729084721_thumb.png",TV5 MONDE HD
+http://maxotts.maxdigitaltv.com/x-media/C67/master.m3u8
+#EXTINF:-1 tvg-chno="687" tvg-id="23026" tvg-name="XZTV1" tvg-logo="uploads/channels/channel_192_1729084688_thumb.png",XZTV1
+http://maxotts.maxdigitaltv.com/x-media/C193/master.m3u8
+#EXTINF:-1 tvg-chno="702" tvg-id="303056" tvg-name="MASALA TV" tvg-logo="uploads/channels/channel_193_1729069318_thumb.png",MASALA TV
+http://maxotts.maxdigitaltv.com/x-media/C268/master.m3u8
+#EXTINF:-1 tvg-chno="703" tvg-id="49" tvg-name="SONY BBC EARTH HD" tvg-logo="uploads/channels/channel_194_1729084654_thumb.png",SONY BBC EARTH HD
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
+#EXTINF:-1 tvg-chno="704" tvg-id="303066" tvg-name="ENGLISH CLUB" tvg-logo="uploads/channels/channel_195_1729069385_thumb.png",ENGLISH CLUB
+http://maxotts.maxdigitaltv.com/x-media/C278/master.m3u8
+#EXTINF:-1 tvg-chno="705" tvg-id="56" tvg-name="ANIMAL PLANET HD" tvg-logo="uploads/channels/channel_196_1729084084_thumb.png",ANIMAL PLANET HD
+http://maxotts.maxdigitaltv.com/x-media/C87/master.m3u8
+#EXTINF:-1 tvg-chno="707" tvg-id="20047" tvg-name="HISTORY TV" tvg-logo="uploads/channels/channel_197_1729084112_thumb.png",HISTORY TV
+http://maxotts.maxdigitaltv.com/x-media/C202/master.m3u8
+#EXTINF:-1 tvg-chno="708" tvg-id="77" tvg-name="TLC WORLD HD" tvg-logo="uploads/channels/channel_198_1729084136_thumb.png",TLC WORLD HD
+http://maxotts.maxdigitaltv.com/x-media/C88/master.m3u8
+#EXTINF:-1 tvg-chno="709" tvg-id="20302" tvg-name="DISCOVERY WORLD HD" tvg-logo="uploads/channels/channel_199_1729084156_thumb.png",DISCOVERY WORLD HD
+http://maxotts.maxdigitaltv.com/x-media/C91/master.m3u8
+#EXTINF:-1 tvg-chno="710" tvg-id="15006" tvg-name="RT DOCUMENTARY" tvg-logo="uploads/channels/channel-logo-C92-1758617377.png",RT DOCUMENTARY
+http://maxotts.maxdigitaltv.com/x-media/C92/master.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-id="20304" tvg-name="DISCOVERY SCIENCE" tvg-logo="uploads/channels/channel_200_1729084188_thumb.png",DISCOVERY SCIENCE
+http://maxotts.maxdigitaltv.com/x-media/C90/master.m3u8
+#EXTINF:-1 tvg-chno="712" tvg-id="69" tvg-name="DISCOVERY TURBO" tvg-logo="uploads/channels/channel_201_1729084410_thumb.png",DISCOVERY TURBO
+http://maxotts.maxdigitaltv.com/x-media/C89/master.m3u8
+#EXTINF:-1 tvg-chno="713" tvg-id="20293" tvg-name="FOOD FOOD" tvg-logo="uploads/channels/channel_201_1738683090_thumb.png",FOOD FOOD
+http://maxotts.maxdigitaltv.com/x-media/C257/master.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-id="6" tvg-name="FTV HD" tvg-logo="uploads/channels/channel_203_1729084456_thumb.png",FTV HD
+http://maxotts.maxdigitaltv.com/x-media/C47/master.m3u8
+#EXTINF:-1 tvg-chno="801" tvg-id="303001" tvg-name="AASTHA" tvg-logo="uploads/channels/channel_204_1729084485_thumb.png",AASTHA
+http://maxotts.maxdigitaltv.com/x-media/C27/master.m3u8
+#EXTINF:-1 tvg-chno="802" tvg-id="303020" tvg-name="SANSKAR" tvg-logo="uploads/channels/channel_205_1729084527_thumb.png",SANSKAR
+http://maxotts.maxdigitaltv.com/x-media/C28/master.m3u8
+#EXTINF:-1 tvg-chno="803" tvg-id="20135" tvg-name="SATSANG" tvg-logo="uploads/channels/channel_206_1729084563_thumb.png",SATSANG
+http://maxotts.maxdigitaltv.com/x-media/C29/master.m3u8
+#EXTINF:-1 tvg-chno="804" tvg-id="61" tvg-name="PEACE OF MIND" tvg-logo="uploads/channels/channel_207_1729084587_thumb.png",PEACE OF MIND
+http://maxotts.maxdigitaltv.com/x-media/C50/master.m3u8
+#EXTINF:-1 tvg-chno="805" tvg-id="4" tvg-name="SADHNA BHAKTI" tvg-logo="uploads/channels/channel_208_1729084612_thumb.png",SADHNA BHAKTI
+http://maxotts.maxdigitaltv.com/x-media/C31/master.m3u8
+#EXTINF:-1 tvg-chno="813" tvg-id="19718" tvg-name="MADANI" tvg-logo="uploads/channels/channel_209_1729084061_thumb.png",MADANI
+http://maxotts.maxdigitaltv.com/x-media/C194/master.m3u8
+#EXTINF:-1 tvg-chno="814" tvg-id="505" tvg-name="PEACE TV URDU" tvg-logo="uploads/channels/channel_210_1729084035_thumb.png",PEACE TV URDU
+http://maxotts.maxdigitaltv.com/x-media/C189/master.m3u8

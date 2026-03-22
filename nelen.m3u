@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="22020" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Malayalam Entertainment",Mazhavil Manorama HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
+https://login.bheem.tv/bpk-tv/22020/output/index.mpd?
+#EXTINF:-1 tvg-id="22052" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Infotainment",Animal Planet HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8aaf27b53099505a8307b7df2f61b46c:83692149a2e59a8aae8e39ed6a1f6325
+https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
+#EXTINF:-1 tvg-id="22076" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" group-title="Hindi Entertainment",Investigation Discovery HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
+https://login.bheem.tv/bpk-tv/22076/output/index.mpd?
+#EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="Telugu Local",Bheem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
+https://login.bheem.tv/bpk-tv/22094/output/index.mpd?
+#EXTINF:-1 tvg-id="22096" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Kids",Cartoon Network HD+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd?
+#EXTINF:-1 tvg-id="22301" tvg-logo="" group-title="Telugu Local",BCN Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5190427b2c595770a32994d3412ec6e8:caebbaa588560b8713aaf74b6bd43283
+https://login.bheem.tv/bpk-tv/22301/output/index.mpd
+#EXTINF:-1 tvg-id="22302" tvg-logo="" group-title="Telugu Local",BCN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7cf53782c245274ab8535e542ef112c:a00af3fe7ada67409a0522b04eabc276
+https://login.bheem.tv/bpk-tv/22302/output/index.mpd
+#EXTINF:-1 tvg-id="22327" tvg-logo="" group-title="Telugu Local",BCN News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c51805e0247f57d98b93e88ca3b71ee9:d417b5e60aad01e17fd946f5b4a60584
+https://login.bheem.tv/bpk-tv/22327/output/index.mpd
+#EXTINF:-1 tvg-id="22348" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="Tamil Music",Isai Aruvi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90847bc89c0d5eb19c57d70370c3477c:8938c82cd4feec1f586e3c611459a7d4
+https://login.bheem.tv/bpk-tv/22348/output/index.mpd?
+#EXTINF:-1 tvg-id="22362" tvg-logo="" group-title="Telugu Local",Telemax Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb0b89531a15504d8f38d51bc39c7c65:83ec5d4ac0ef2a58830424a440231100
+https://login.bheem.tv/bpk-tv/22362/output/index.mpd
+#EXTINF:-1 tvg-id="22371" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PUBLIC-MOVIES_transperncy.png" group-title="Kannada Movies",Public Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c0717ba03155e57b6a81dc39222ecd4:268e3ebd5b3b3997bf6edbc302ca1991
+https://login.bheem.tv/bpk-tv/22371/output/index.mpd?
+#EXTINF:-1 tvg-id="22373" tvg-logo="https://dtil.tmsimg.com/assets/s143215_ld_h15_aa.png" group-title="Tamil Movies",J Movie
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db45a6ff634252209fd4b66847078456:134f625213a09e244ebceb257c22b2f3
+https://login.bheem.tv/bpk-tv/22373/output/index.mpd?
+#EXTINF:-1 tvg-id="22374" tvg-logo="https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png" group-title="Tamil Music",Jaya Max
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab7b51986d1d5c71ae7a3eccfa387547:90543e8dd493f5dc0e105ce32fd964e0
+https://login.bheem.tv/bpk-tv/22374/output/index.mpd?
+#EXTINF:-1 tvg-id="22376" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jaya%20TV%20HD.png" group-title="Tamil Entertainment",Jaya TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=240e85c531b3557b9f80f460de9d3632:1e152dddc7f6e7d7ff8bbea884907c24
+https://login.bheem.tv/bpk-tv/22376/output/index.mpd?
+#EXTINF:-1 tvg-id="22378" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" group-title="Tamil Entertainment",Chithiram
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
+https://login.bheem.tv/bpk-tv/22378/output/index.mpd?
+#EXTINF:-1 tvg-id="22379" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png" group-title="Tamil Comedy",Sirippoli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0bef7a3d07f5b9c8b4b2de472da7718:3139f66c3e590441bec542fcf16dcaca
+https://login.bheem.tv/bpk-tv/22379/output/index.mpd?
+#EXTINF:-1 tvg-id="22380" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Tamil Entertainment",Vendhar TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d40de25714e5bfea8d4416e122cbe1f:cf4e7638142ca8ee949de71f6c77a85f
+https://login.bheem.tv/bpk-tv/22380/output/index.mpd?
+#EXTINF:-1 tvg-id="22389" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Malayalam Entertainment",Asianet Middle East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
+https://login.bheem.tv/bpk-tv/22389/output/index.mpd?
+#EXTINF:-1 tvg-id="22391" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Amrita%20TV.png" group-title="Malayalam Entertainment",Amrita TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=513e09e96cd355198d22a63f3259452f:8b5c7793bba86d6e885fc08b9ff9e5e0
+https://login.bheem.tv/bpk-tv/22391/output/index.mpd?
+#EXTINF:-1 tvg-id="22411" tvg-logo="https://dtil.tmsimg.com/assets/s143248_ld_h15_aa.png" group-title="Malayalam Entertainment",Kairali We
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a78509d336ba5e58a79f80792b648c47:e4da90d5040db158a71c04e8ac48f2cc
+https://login.bheem.tv/bpk-tv/22411/output/index.mpd
+#EXTINF:-1 tvg-id="22412" tvg-logo="https://dtil.tmsimg.com/assets/s143247_ld_h15_aa.png" group-title="Malayalam Entertainment",Kairali TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
+https://login.bheem.tv/bpk-tv/22412/output/index.mpd
+#EXTINF:-1 tvg-id="22431" tvg-logo="" group-title="Hindi Entertainment",Shemaroo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
+https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
+#EXTINF:-1 tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
+https://login.bheem.tv/bpk-tv/22602/output/index.mpd?
+#EXTINF:-1 tvg-id="22603" tvg-logo="https://dtil.tmsimg.com/assets/s143663_ld_h15_aa.png" group-title="Kids",Pogo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
+https://login.bheem.tv/bpk-tv/22603/output/index.mpd?
+#EXTINF:-1 tvg-id="22646" tvg-logo="https://i.imgur.com/0iNQvoL.png" group-title="Telugu Kids",Discovery Kids Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d406746e3f5f8488ea3b3b9b7006e3:33fcad4800a1e67b1c53622a21bc6fb9
+https://login.bheem.tv/bpk-tv/22646/output/index.mpd?
+#EXTINF:-1 tvg-id="22647" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Discovery%20Science.png" group-title="Infotainment",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
+https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
+#EXTINF:-1 tvg-id="22652" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Tamil Infotainment",Discovery Tamil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6cb0bcbeac25fb286fed851e41de38c:955c54f2cac8783fafccae5e5f9cdf8d
+https://login.bheem.tv/bpk-tv/22652/output/index.mpd
