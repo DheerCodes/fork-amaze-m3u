@@ -97,7 +97,13 @@ https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
 https://mumt02.tangotv.in/BANSALNEWS/index.m3u8
 #EXTINF:-1 tvg-id="",Bhakti Sagar
 https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
-#EXTINF:-1 tvg-id="BigMagic.in@SD",Big Magic
+#EXTINF:-1 tvg-id="",Bharat 24
+https://mumt02.tangotv.in/BHARAT24/index.m3u8
+#EXTINF:-1 tvg-id="",Bharat Express
+https://mumt02.tangotv.in/BHARATEXPRESS/index.m3u8
+#EXTINF:-1 tvg-id="",Bhojpuri Cinema
+https://mumt05.tangotv.in/BHOJPURICINEMA/index.m3u8
+#EXTINF:-1 tvg-id="",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="BrioTV.in@SD",Brio TV
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
