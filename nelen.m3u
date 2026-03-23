@@ -83,7 +83,7 @@ https://login.bheem.tv/bpk-tv/22411/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
-#EXTINF:-1 tvg-id="22431" tvg-logo="" group-title="Hindi Entertainment",Shemaroo TV
+#EXTINF:-1 tvg-id="22431" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Hindi Entertainment",Shemaroo TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
 https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
@@ -103,7 +103,7 @@ https://login.bheem.tv/bpk-tv/22646/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd7754b16f8459f1b3ef2ffac4c2de28:7fbdfce2567136b26042962ca2e46fad
 https://login.bheem.tv/bpk-tv/22647/output/index.mpd?
-#EXTINF:-1 tvg-id="22652" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Tamil Infotainment",Discovery Tamil
+#EXTINF:-1 tvg-id="22652" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Tamil Infotainment",Discovery Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6cb0bcbeac25fb286fed851e41de38c:955c54f2cac8783fafccae5e5f9cdf8d
 https://login.bheem.tv/bpk-tv/22652/output/index.mpd
