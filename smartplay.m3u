@@ -285,6 +285,8 @@ https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="314" tvg-chno="314" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_452_1718712997.png" tvg-language="en" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",TraceLatina
 https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
+#EXTINF:-1 tvg-id="STUDIO18" tvg-chno="315" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C47-1773837122.png" tvg-language="te" group-title="Telugu Local",STUDIO 18
+https://mumbai-edge.smartplaytv.in/Studio18/index.m3u8
 #EXTINF:-1 tvg-id="CITYNEWSTELUGU" tvg-chno="315" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_37_1729844134.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",City News Telugu
 https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
 #EXTINF:-1 tvg-id="318" tvg-chno="318" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C318-1765979431.png" tvg-language="ta" group-title="Tamil Entertainment",Sana Plus HD
@@ -461,6 +463,8 @@ https://mumbai-edge.smartplaytv.in/DDSapthagiri/index.m3u8
 https://mumbai-edge.smartplaytv.in/tarang/index.m3u8
 #EXTINF:-1 tvg-id="ENCORE" tvg-chno="2001" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2001-1770294575.png" tvg-language="en" group-title="English Entertainment",ENCORE
 https://mumbai-edge.smartplaytv.in/ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="2003" tvg-chno="2003" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2003-1773475755.png" tvg-language="hi" group-title="Hindu Devotional",Bhakthisiri
+https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
 #EXTINF:-1 tvg-id="DS9 Music" tvg-chno="2005" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2005-1770460644.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",DS9 Music
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 #EXTINF:-1 tvg-id="DS9 Kathalu" tvg-chno="2006" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2006-1770460706.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",DS9 Kathalu
