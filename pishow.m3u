@@ -77,8 +77,6 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 https://cdn-4.pishow.tv/live/229/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Wow Cinema One
-https://cdn-2.pishow.tv/live/231/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",6TV
 https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Oscar Movies Bhojpuri
@@ -105,12 +103,14 @@ https://cdn-4.pishow.tv/live/270/master.m3u8
 https://cdn-2.pishow.tv/live/271/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News India 24x7
 https://cdn-3.pishow.tv/live/273/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Republic Kannada
-https://cdn-3.pishow.tv/live/298/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Studio One Plus
 https://cdn-1.pishow.tv/live/276/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Subhavarthaa TV
+https://cdn-1.pishow.tv/live/278/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",HMTV
 https://cdn-1.pishow.tv/live/280/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Republic Kannada
+https://cdn-3.pishow.tv/live/298/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NTV
 https://cdn-1.pishow.tv/live/383/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",T News
@@ -127,7 +127,7 @@ https://cdn-1.pishow.tv/live/393/master.m3u8
 https://cdn-6.pishow.tv/live/395/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Bhakthi TV
 https://cdn-1.pishow.tv/live/397/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Mahaa TV
+#EXTINF:-1 tvg-id="" tvg-logo="",Mahaa News
 https://cdn-1.pishow.tv/live/401/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Studio N News
 https://cdn-1.pishow.tv/live/403/master.m3u8
@@ -155,6 +155,8 @@ https://cdn-3.pishow.tv/live/439/master.m3u8
 https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",PTC Chakde
 https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",PTC Punjabi Gold
+https://cdn-7.pishow.tv/live/450/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Angel TV HD
 https://cdn-7.pishow.tv/live/453/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NHK World Japan
@@ -195,7 +197,7 @@ https://cdn-4.pishow.tv/live/1029/master.m3u8
 https://cdn-4.pishow.tv/live/1033/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",BRK News
 https://cdn-1.pishow.tv/live/1037/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Rupashi Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="",Ruposhi Bangla
 https://cdn-4.pishow.tv/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Hindi Khabhar
 https://cdn-2.pishow.tv/live/1041/master.m3u8
@@ -267,7 +269,7 @@ https://cdn-2.pishow.tv/live/1383/master.m3u8
 https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Aastha
 https://cdn-1.pishow.tv/live/1454/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Dharma Sandesh
+#EXTINF:-1 tvg-id="" tvg-logo="",Dharm Sandesh
 https://cdn-2.pishow.tv/live/1455/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Dhoom Music Bangla
 https://cdn-1.pishow.tv/live/1456/master.m3u8
@@ -305,6 +307,8 @@ https://cdn-3.pishow.tv/live/1479/master.m3u8
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Nandigosha TV
 https://cdn-4.pishow.tv/live/1486/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Nepal 1
+https://cdn-6.pishow.tv/live/1490/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News Nation
 https://cdn-2.pishow.tv/live/1493/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News Time Bangla
@@ -381,3 +385,5 @@ https://cdn-6.pishow.tv/live/10013/master.m3u8
 https://cdn-6.pishow.tv/live/10014/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Northeast Live
 https://cdn-6.pishow.tv/live/10015/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Rang
+https://cdn-7.pishow.tv/live/10017/master.m3u8
