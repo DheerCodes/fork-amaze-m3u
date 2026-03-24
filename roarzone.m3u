@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",TSports
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/tsports
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports",Star Sports 1 HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-1
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="Sports",Star Sports 2 HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-2
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/1.png" group-title="Sports",Gazi TV HD (1)
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=bk/1
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/1.png" group-title="Sports",Gazi TV HD (2)
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/gazi
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/73.png" group-title="Sports",PTV Sports HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/ptv-sports
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/add-sports-1.png" group-title="Sports",A Sports HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/a-sports
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/20.png" group-title="Sports",Sony Sports Ten 1 HD (offline)
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-1-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/21.png" group-title="Sports",Sony Sports Ten 2 HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-2-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/22.png" group-title="Sports",Sony Sports Ten 3 Hindi HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-3-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/24.png" group-title="Sports",Sony Sports Ten 5 HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-5-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/27.png" group-title="Sports",Star Sports Select 1 HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-select-1
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="Sports",Star Sports Select 2 HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-select-2
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="Sports",Eurosport HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/euro-sport-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/dubai-sports.png" group-title="Sports",Dubai Sports
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=bk/dubai-sports
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ten_cricket.png" group-title="Sports",Ten Cricket
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/sony-ten-cricket
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/75.png" group-title="Hindi",Star Gold HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-gold
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/38.png" group-title="Hindi",Sony Entertainment Television
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/sony-entertainment-television-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonymax.png" group-title="Hindi",Sony Max UK
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/sony-max
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/sonymaxhd.png" group-title="Hindi",Sony Max
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/sony-max-hd
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/68.png" group-title="Hindi",Colors HD
+https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/colors
