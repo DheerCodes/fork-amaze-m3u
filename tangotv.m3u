@@ -1,759 +1,771 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",1S News
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/1s-news-in.png",1S News
 https://mumt03.tangotv.in/1SNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",1st India News
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/First_India_News.png",1st India News
 https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
-#EXTINF:-1 tvg-id="",4TV News
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",4TV News
 https://mumt05.tangotv.in/4TVNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",6 TV Telugu
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/6_tv_in.png",6 TV Telugu
 https://mumt03.tangotv.in/6TVTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",7S Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="",9X Jalwa
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",9X Jalwa
 https://mumt03.tangotv.in/9XJALWA/index.m3u8
-#EXTINF:-1 tvg-id="",9X Jhakaas
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540",9X Jhakaas
 https://mumt03.tangotv.in/9XJHAKAAS/index.m3u8
-#EXTINF:-1 tvg-id="",9X Tashan
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540",9X Tashan
 https://mumt01.tangotv.in/9XTASHAN/index.m3u8
-#EXTINF:-1 tvg-id="",10TV
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540",9XM
+https://mumt01.tangotv.in/9XM/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540",10TV
 https://mumt03.tangotv.in/10TV/index.m3u8
-#EXTINF:-1 tvg-id="",24 News
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",24 News
 https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",99 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZA4gel.png",99 TV
 https://mumt02.tangotv.in/99TVTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",Aadinath TV
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aadinath-TV-Transparent.png",Aadinath TV
 https://mumt01.tangotv.in/AADINATHTV/index.m3u8
-#EXTINF:-1 tvg-id="",Aaj Ki Khabar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-ki-khabar-in.png",Aaj Ki Khabar [Link 1]
 https://mumt03.tangotv.in/AAJKIKHABAR/index.m3u8
-#EXTINF:-1 tvg-id="",Aaj Ki Khabar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj-ki-khabar-in.png",Aaj Ki Khabar [Link 2]
 https://mumt04.tangotv.in/AAJKIKHABAR/index.m3u8
-#EXTINF:-1 tvg-id="",Aakaash Aath
+#EXTINF:-1 tvg-logo="",Aakaash Aath
 https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
-#EXTINF:-1 tvg-id="",Aaseervatham TV
+#EXTINF:-1 tvg-logo="",Aaseervatham TV
 https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Aastha
+#EXTINF:-1 tvg-logo="",Aastha
 https://mumt01.tangotv.in/AASTHA/index.m3u8
-#EXTINF:-1 tvg-id="",Aastha Bhajan
+#EXTINF:-1 tvg-logo="",Aastha Bhajan
 https://mumt05.tangotv.in/AASTHABHAJAN/index.m3u8
-#EXTINF:-1 tvg-id="",Aastha Gujarati
+#EXTINF:-1 tvg-logo="",Aastha Gujarati
 https://mumt04.tangotv.in/AASTHAGUJARATI/index.m3u8
-#EXTINF:-1 tvg-id="",Aastha Kannada
+#EXTINF:-1 tvg-logo="",Aastha Kannada
 https://mumt04.tangotv.in/AASTHAKANDA/index.m3u8
-#EXTINF:-1 tvg-id="",Aastha Telugu
+#EXTINF:-1 tvg-logo="",Aastha Telugu
 https://mumt05.tangotv.in/AASTHATELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",ABP Ananda
+#EXTINF:-1 tvg-logo="",ABP Ananda
 https://mumt05.tangotv.in/ABPANANDA/index.m3u8
-#EXTINF:-1 tvg-id="",ABP Asmita
+#EXTINF:-1 tvg-logo="",ABP Asmita
 https://mumt02.tangotv.in/ABPASMITA/index.m3u8
-#EXTINF:-1 tvg-id="",ABP Ganga
+#EXTINF:-1 tvg-logo="",ABP Ganga
 https://mumt05.tangotv.in/ABPGANGA/index.m3u8
-#EXTINF:-1 tvg-id="",ABP Majha
+#EXTINF:-1 tvg-logo="",ABP Majha
 https://mumt05.tangotv.in/ABPMAJHA/index.m3u8
-#EXTINF:-1 tvg-id="",ABP News
+#EXTINF:-1 tvg-logo="",ABP News
 https://mumt04.tangotv.in/ABPNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",ABP News
+#EXTINF:-1 tvg-logo="",ABP News
 https://mumt05.tangotv.in/ABPNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",AKD Calcutta News
+#EXTINF:-1 tvg-logo="",AKD Calcutta News
 https://mumt03.tangotv.in/AKDCALCUTTANEWS/index.m3u8 
-#EXTINF:-1 tvg-id="",All Time Movies
+#EXTINF:-1 tvg-logo="",All Time Movies
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",Amrita TV
+#EXTINF:-1 tvg-logo="",Amrita TV
 https://mumt02.tangotv.in/AMRITATV/index.m3u8
-#EXTINF:-1 tvg-id="",Anandam TV
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_TV.png",Anand TV
+https://mumt03.tangotv.in/ANANDTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Anandam TV
 https://mumt02.tangotv.in/ANANDAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Anandam Abi TV
+#EXTINF:-1 tvg-logo="",Anandam Abi TV
 https://mumt02.tangotv.in/ABITV/index.m3u8
-#EXTINF:-1 tvg-id="",ANB News National
+#EXTINF:-1 tvg-logo="",ANB News National
 https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="",Angel TV HD
+#EXTINF:-1 tvg-logo="",Angel TV HD
 https://mumt01.tangotv.in/ANGELTVHD/index.m3u8
-#EXTINF:-1 tvg-id="",Anjan TV
+#EXTINF:-1 tvg-logo="",Anjan TV
 https://mumt02.tangotv.in/ANJANTV/index.m3u8
-#EXTINF:-1 tvg-id="",APN
+#EXTINF:-1 tvg-logo="",APN
 https://mumt01.tangotv.in/APN/index.m3u8
-#EXTINF:-1 tvg-id="",APN
+#EXTINF:-1 tvg-logo="",APN
 https://mumt04.tangotv.in/PUBLICFIRST/index.m3u8
-#EXTINF:-1 tvg-id="",Apna Punjab
+#EXTINF:-1 tvg-logo="",Apna Punjab
 https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8
-#EXTINF:-1 tvg-id="",Aradana TV
+#EXTINF:-1 tvg-logo="",Aradana TV
 https://mumt03.tangotv.in/ARADANATV/index.m3u8
-#EXTINF:-1 tvg-id="",Argus News
+#EXTINF:-1 tvg-logo="",Argus News
 https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Aryan TV National
+#EXTINF:-1 tvg-logo="",Aryan TV National
 https://mumt04.tangotv.in/ARYANTVNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="",Asianet Middle East
+#EXTINF:-1 tvg-logo="",Asianet Middle East
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 tvg-id="",Asianet News
+#EXTINF:-1 tvg-logo="",Asianet News
 https://mumt05.tangotv.in/ASIANETNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Assam Talks
+#EXTINF:-1 tvg-logo="",Assam Talks
 https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
-#EXTINF:-1 tvg-id="",Awakening TV
+#EXTINF:-1 tvg-logo="",Awakening TV
 https://mumt03.tangotv.in/AWAKENINGTV/index.m3u8
-#EXTINF:-1 tvg-id="",Ayush TV
+#EXTINF:-1 tvg-logo="",Ayush TV
 https://mumt02.tangotv.in/AYUSHTV/index.m3u8
-#EXTINF:-1 tvg-id="",B4U Bhojpuri
+#EXTINF:-1 tvg-logo="",B4U Bhojpuri
 https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="",B4U Kadak
+#EXTINF:-1 tvg-logo="",B4U Kadak
 https://mumt02.tangotv.in/B4UKADAK/index.m3u8
-#EXTINF:-1 tvg-id="",B4U Movies
+#EXTINF:-1 tvg-logo="",B4U Movies
 https://mumt02.tangotv.in/B4UMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",B4U Music
+#EXTINF:-1 tvg-logo="",B4U Music
 https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="",Balle Balle
+#EXTINF:-1 tvg-logo="",Balle Balle
 https://mumt04.tangotv.in/BALLEBALLE/index.m3u8
-#EXTINF:-1 tvg-id="",Bansal News
+#EXTINF:-1 tvg-logo="",Bansal News
 https://mumt02.tangotv.in/BANSALNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Bhakti Sagar
+#EXTINF:-1 tvg-logo="",Bhakti Sagar
 https://mumt05.tangotv.in/BHAKTISAGAR/index.m3u8
-#EXTINF:-1 tvg-id="",Bharat 24
+#EXTINF:-1 tvg-logo="",Bharat 24
 https://mumt02.tangotv.in/BHARAT24/index.m3u8
-#EXTINF:-1 tvg-id="",Bharat Express
+#EXTINF:-1 tvg-logo="",Bharat Express
 https://mumt02.tangotv.in/BHARATEXPRESS/index.m3u8
-#EXTINF:-1 tvg-id="",Bhojpuri Cinema
+#EXTINF:-1 tvg-logo="",Bhojpuri Cinema
 https://mumt05.tangotv.in/BHOJPURICINEMA/index.m3u8
-#EXTINF:-1 tvg-id="",Big Magic
+#EXTINF:-1 tvg-logo="",Big Magic
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
-#EXTINF:-1 tvg-id="",Big TV
+#EXTINF:-1 tvg-logo="",Big TV
 https://mumt01.tangotv.in/BIGTV/index.m3u8
-#EXTINF:-1 tvg-id="",Brio TV
-https://mumt02.tangotv.in/BRIOTV/index.m3u8
-#EXTINF:-1 tvg-id="",BRK News
-https://mumt03.tangotv.in/BRKNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",BS TV
-https://mumt02.tangotv.in/BSTV/index.m3u8
-#EXTINF:-1 tvg-id="",BVG
-https://mumt05.tangotv.in/BVG/index.m3u8
-#EXTINF:-1 tvg-id="",Calvary TV
-https://mumt04.tangotv.in/CALVARYTV/index.m3u8
-#EXTINF:-1 tvg-id="",Captain
-https://mumt01.tangotv.in/CAPTAIN/index.m3u8
-#EXTINF:-1 tvg-id="",Cee-10
-https://mumt03.tangotv.in/C10/index.m3u8
-#EXTINF:-1 tvg-id="",Channel Divya
-https://mumt05.tangotv.in/DIVYA/index.m3u8
-#EXTINF:-1 tvg-id="",Channel WIN
-https://mumt05.tangotv.in/CHANNELWIN/index.m3u8
-#EXTINF:-1 tvg-id="",Chaukas TV
-https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
-#EXTINF:-1 tvg-id="",Classic Hits
-https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
-#EXTINF:-1 tvg-id="",CTVN AKD Plus
-https://mumt03.tangotv.in/CTVNAKDPLUS/index.m3u8
-#EXTINF:-1 tvg-id="",CVR English
-https://mumt03.tangotv.in/CVRNEWSENGLISH/index.m3u8
-#EXTINF:-1 tvg-id="",CVR Health
-https://mumt04.tangotv.in/CVRHEALTH/index.m3u8
-#EXTINF:-1 tvg-id="",CVR News
-https://mumt04.tangotv.in/CVRNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Dabangg
-https://mumt01.tangotv.in/DABANGG/index.m3u8
-#EXTINF:-1 tvg-id="",Daily Post News
-https://mumt01.tangotv.in/DAILYPOST/index.m3u8
-#EXTINF:-1 tvg-id="",Dangal
-https://mumt01.tangotv.in/DANGAL/index.m3u8
-#EXTINF:-1 tvg-id="",Dangal 2
-https://mumt03.tangotv.in/DANGAL2/index.m3u8
-#EXTINF:-1 tvg-id="",Darshan 24
-https://mumt05.tangotv.in/DARSHAN24/index.m3u8
-#EXTINF:-1 tvg-id="",Darshana TV
-https://mumt04.tangotv.in/DARSHANATV/index.m3u8
-#EXTINF:-1 tvg-id="",DD Arunprabha
-https://mumt05.tangotv.in/DDARUNPRABHA/index.m3u8
-#EXTINF:-1 tvg-id="",DD Assam
-https://mumt05.tangotv.in/DDASSAM/index.m3u8
-#EXTINF:-1 tvg-id="",DD Bangla
-https://mumt05.tangotv.in/DDBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",DD Bharati
-https://mumt01.tangotv.in/DDBHARATI/index.m3u8
-#EXTINF:-1 tvg-id="",DD Bihar
-https://mumt03.tangotv.in/DDBIHAR/index.m3u8
-#EXTINF:-1 tvg-id="",DD Girnar
-https://mumt01.tangotv.in/DDGIRNAR/index.m3u8
-#EXTINF:-1 tvg-id="",DD India
-https://mumt05.tangotv.in/DDINDIA/index.m3u8
-#EXTINF:-1 tvg-id="",DD Kashir
-https://mumt05.tangotv.in/DDKASHIR/index.m3u8
-#EXTINF:-1 tvg-id="",DD Kisan
-https://mumt04.tangotv.in/DDKISAN/index.m3u8
-#EXTINF:-1 tvg-id="",DD Madhya Pradesh
-https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8
-#EXTINF:-1 tvg-id="",DD Malayalam
-https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="",DD Nagaland
-https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
-#EXTINF:-1 tvg-id="",DD National HD
-https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
-#EXTINF:-1 tvg-id="",DD News
-https://mumt04.tangotv.in/DDNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",DD Odia
-https://mumt05.tangotv.in/DDODIA/index.m3u8
-#EXTINF:-1 tvg-id="",DD Rajasthan (Fastway)
-https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8
-#EXTINF:-1 tvg-id="",DD Sahyadri
-https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8
-#EXTINF:-1 tvg-id="",DD Saptagiri
-https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
-#EXTINF:-1 tvg-id="",DD Sports
-https://mumt02.tangotv.in/DDSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="",DD Tamil
-https://mumt04.tangotv.in/DDTAMIL/index.m3u8
-#EXTINF:-1 tvg-id="",DD Tripura
-https://mumt01.tangotv.in/DDTRIPURA/index.m3u8
-#EXTINF:-1 tvg-id="",DD Urdu
-https://mumt05.tangotv.in/DDURDU/index.m3u8
-#EXTINF:-1 tvg-id="",DD Uttar Pradesh
-https://mumt01.tangotv.in/DDUTTARPRADESH/index.m3u8
-#EXTINF:-1 tvg-id="",DD Yadagiri
-https://mumt05.tangotv.in/DDYADAGIRI/index.m3u8
-#EXTINF:-1 tvg-id="",Dhamaal
-https://mumt03.tangotv.in/DHAMAAL/index.m3u8
-#EXTINF:-1 tvg-id="",Dhamaka Movies B4U
-https://mumt03.tangotv.in/DHAMAKAMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",Dharm Sandesh
-https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8
-#EXTINF:-1 tvg-id="",Disha TV
-https://mumt04.tangotv.in/DISHATV/index.m3u8
-#EXTINF:-1 tvg-id="",DY 365
-https://mumt04.tangotv.in/DY365/index.m3u8
-#EXTINF:-1 tvg-id="",E 24
-https://mumt04.tangotv.in/E24/index.m3u8
-#EXTINF:-1 tvg-id="",Enterr 10 Bangla
-https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",Evergreen Hits
-https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8
-#EXTINF:-1 tvg-id="",Fakt Marathi
-https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
-#EXTINF:-1 tvg-id="",Fashion TV
-https://mumt01.tangotv.in/FASHIONTV/index.m3u8
-#EXTINF:-1 tvg-id="",Fast Mix
-https://mumt01.tangotv.in/FASTMIX/index.m3u8
-#EXTINF:-1 tvg-id="",Fateh TV
-https://mumt05.tangotv.in/FATEHTV/index.m3u8
-#EXTINF:-1 tvg-id="",FGN Channel
-https://mumt03.tangotv.in/FGNCHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="",FGN Channel
-https://mumt04.tangotv.in/FGNCHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="",Food Food
-https://mumt03.tangotv.in/FOODFOOD/index.m3u8
-#EXTINF:-1 tvg-id="",Gangaur TV
-https://mumt04.tangotv.in/GANGAURTV/index.m3u8
-#EXTINF:-1 tvg-id="",Goldmines
-https://mumt04.tangotv.in/GOLDMINES/index.m3u8
-#EXTINF:-1 tvg-id="",Goldmines 2
-https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
-#EXTINF:-1 tvg-id="",Goldmines Action
-https://mumt03.tangotv.in/GOLDMINESACTION/index.m3u8
-#EXTINF:-1 tvg-id="",Goldmines Bollywood
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-id="",Goodness TV
-https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
-#EXTINF:-1 tvg-id="",Goodnews TV
-https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8
-#EXTINF:-1 tvg-id="",Grace TV
-https://mumt03.tangotv.in/GRACETV/index.m3u8
-#EXTINF:-1 tvg-id="",GS TV
-https://mumt05.tangotv.in/GSTV/index.m3u8
-#EXTINF:-1 tvg-id="",GTC News
-https://mumt03.tangotv.in/GTCNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",GTC News
-https://mumt05.tangotv.in/GTCNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",GTC Punjabi
-https://mumt01.tangotv.in/GTC/index.m3u8
-#EXTINF:-1 tvg-id="",Guarantee News
-https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Gujarat First
-https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8
-#EXTINF:-1 tvg-id="",Gyandarshan HD
-https://mumt05.tangotv.in/GYANDARSHAN/index.m3u8
-#EXTINF:-1 tvg-id="",Har Khabar
-https://mumt01.tangotv.in/HARKHABAR/index.m3u8
-#EXTINF:-1 tvg-id="",Hare Krsna TV
-https://mumt05.tangotv.in/HAREKRSNA/index.m3u8
-#EXTINF:-1 tvg-id="",Harvest TV 24x7
-https://mumt03.tangotv.in/HARVESTTV24X7/index.m3u8
-#EXTINF:-1 tvg-id="",Hi Dost!
-https://mumt03.tangotv.in/HIDOST/index.m3u8
-#EXTINF:-1 tvg-id="",Hindi Hits
-https://mumt01.tangotv.in/HINDIHITS/index.m3u8
-#EXTINF:-1 tvg-id="",Hindi Khabar
-https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8
-#EXTINF:-1 tvg-id="",Hindu Dharmam
-https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8
-#EXTINF:-1 tvg-id="",HMTV
-https://mumt04.tangotv.in/HMTV/index.m3u8
-#EXTINF:-1 tvg-id="",HNN 24x7
-https://mumt02.tangotv.in/HNN24X7/index.m3u8
-#EXTINF:-1 tvg-id="",Hope Channel India
-https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
-#EXTINF:-1 tvg-id="",Hornbill TV
-https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
-#EXTINF:-1 tvg-id="",IBC 24
-https://mumt05.tangotv.in/IBC24/index.m3u8
-#EXTINF:-1 tvg-id="",Ind 24
-https://mumt02.tangotv.in/IND24/index.m3u8
-#EXTINF:-1 tvg-id="",India Ahead
-https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
-#EXTINF:-1 tvg-id="",India Daily 24x7
-https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8
-#EXTINF:-1 tvg-id="",India News
-https://mumt03.tangotv.in/INDIANEWS/index.m3u8
-#EXTINF:-1 tvg-id="",India News Gujarat
-https://mumt03.tangotv.in/INDIANEWSGUJARAT/index.m3u8
-#EXTINF:-1 tvg-id="",India News Madhya Pradesh/Chhattisgarh
-https://mumt03.tangotv.in/INDIANEWSMPCG/index.m3u8
-#EXTINF:-1 tvg-id="",India News Uttar Pradesh
-https://mumt03.tangotv.in/INDIANEWSUP/index.m3u8
-#EXTINF:-1 tvg-id="",India Talkies
-https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
-#EXTINF:-1 tvg-id="",India TV
-https://mumt01.tangotv.in/INDIATV/index.m3u8
-#EXTINF:-1 tvg-id="",India Voice
-https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
-#EXTINF:-1 tvg-id="",I News
-https://mumt03.tangotv.in/INEWS/index.m3u8
-#EXTINF:-1 tvg-id="",INH 24x7
-https://mumt01.tangotv.in/INH24X7/index.m3u8
-#EXTINF:-1 tvg-id="",Insync
-https://mumt04.tangotv.in/INSYNC/index.m3u8
-#EXTINF:-1 tvg-id="",Ishwar Bhakti TV
-https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8
-#EXTINF:-1 tvg-id="",Jai Maharashtra
-https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8
-#EXTINF:-1 tvg-id="",Jaihind TV
-https://mumt03.tangotv.in/JAIHIND/index.m3u8
-#EXTINF:-1 tvg-id="",Jan TV
-https://mumt03.tangotv.in/JANTV/index.m3u8
-#EXTINF:-1 tvg-id="",Janam TV
-https://mumt03.tangotv.in/JANAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Jeevan TV
-https://mumt04.tangotv.in/JEEVANTV/index.m3u8
-#EXTINF:-1 tvg-id="",Jinvani Channel
-https://mumt03.tangotv.in/JINVANI/index.m3u8
-#EXTINF:-1 tvg-id="",Josh TV
-https://mumt03.tangotv.in/JOSHTV/index.m3u8
-#EXTINF:-1 tvg-id="",K News India
-https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
-#EXTINF:-1 tvg-id="",Kairali Arabia
-https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
-#EXTINF:-1 tvg-id="",Kairali News
-https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Kairali TV
-https://mumt01.tangotv.in/KAIRALI/index.m3u8
-#EXTINF:-1 tvg-id="",Kairali We
-https://mumt01.tangotv.in/WETV/index.m3u8
-#EXTINF:-1 tvg-id="",Kalinga TV
-https://mumt01.tangotv.in/KALINGATV/index.m3u8
-#EXTINF:-1 tvg-id="",Kappa TV
-https://mumt03.tangotv.in/KAPPATV/index.m3u8
-#EXTINF:-1 tvg-id="",Kashish News
-https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Kaumudy TV
-https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
-#EXTINF:-1 tvg-id="",Kerala Vision
-https://mumt03.tangotv.in/KERALAVISION/index.m3u8
-#EXTINF:-1 tvg-id="",Khabar Fast
-https://mumt04.tangotv.in/KHABARFAST/index.m3u8
-#EXTINF:-1 tvg-id="",Khabrain Abhi Tak
-https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
-#EXTINF:-1 tvg-id="",Khushboo Bangla
-https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",Kolkata TV
-https://mumt01.tangotv.in/KOLKATATV/index.m3u8
-#EXTINF:-1 tvg-id="",Live Times
-https://mumt01.tangotv.in/LIVETIMES/index.m3u8
-#EXTINF:-1 tvg-id="",Living India News
-https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8
-#EXTINF:-1 tvg-id="",M Nadu TV
-https://mumt01.tangotv.in/MNADU/index.m3u8
-#EXTINF:-1 tvg-id="",M Nadu TV
-https://mumt03.tangotv.in/MNADUTV/index.m3u8
-#EXTINF:-1 tvg-id="",Madha TV
-https://mumt02.tangotv.in/MADHATV/index.m3u8
-#EXTINF:-1 tvg-id="",Maha Movie
-https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
-#EXTINF:-1 tvg-id="",Mahaa Max
-https://mumt03.tangotv.in/MAHAAMAX/index.m3u8
-#EXTINF:-1 tvg-id="",Mahaa News
-https://mumt02.tangotv.in/MAHAANEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Maiboli
-https://mumt01.tangotv.in/MAIBOLI/index.m3u8
-#EXTINF:-1 tvg-id="",Maina TV
-https://mumt03.tangotv.in/MAINATV/index.m3u8
-#EXTINF:-1 tvg-id="",Makkal TV
-https://mumt01.tangotv.in/MAKKALTV/index.m3u8
-#EXTINF:-1 tvg-id="",Malai Murasu TV
-https://mumt04.tangotv.in/MALAIMURASUSEITHIGAL/index.m3u8
-#EXTINF:-1 tvg-id="",Malar TV
-https://mumt04.tangotv.in/MALARTV/index.m3u8
-#EXTINF:-1 tvg-id="",Manoranjan Grand
-https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
-#EXTINF:-1 tvg-id="",Manoranjan Movies
-https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",Manoranjan Prime
-https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8
-#EXTINF:-1 tvg-id="",Manoranjan TV
-https://mumt04.tangotv.in/MANORANJANTV/index.m3u8
-#EXTINF:-1 tvg-id="",Mantavya 24x7 News
-https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Mastiii
-https://mumt02.tangotv.in/MASTIII/index.m3u8
-#EXTINF:-1 tvg-id="",Mathrubhumi News
-https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Matti TV
-https://mumt03.tangotv.in/MATTITV/index.m3u8
-#EXTINF:-1 tvg-id="",Mazhavil Manorama HD
-https://mumt02.tangotv.in/MAZHAVILMANORAMAHD/index.m3u8
-#EXTINF:-1 tvg-id="",MBC TV
-https://mumt03.tangotv.in/MBCTV/index.m3u8
-#EXTINF:-1 tvg-id="",Melody Hits
-https://mumt03.tangotv.in/MELODYHITS/index.m3u8
-#EXTINF:-1 tvg-id="",Mercy TV
-https://mumt03.tangotv.in/MERCYTV/index.m3u8
-#EXTINF:-1 tvg-id="",MH One
-https://mumt04.tangotv.in/MHONE/index.m3u8
-#EXTINF:-1 tvg-id="",MH One Dil Se
-https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
-#EXTINF:-1 tvg-id="",MH One Movies
-https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
-#EXTINF:-1 tvg-id="",MH One Movies
-https://mumt03.tangotv.in/MHONEMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",MH One News
-https://mumt04.tangotv.in/MHONENEWS/index.m3u8
-#EXTINF:-1 tvg-id="",MK Six
-https://mumt05.tangotv.in/MKSIX/index.m3u8
-#EXTINF:-1 tvg-id="",Mojo TV
-https://mumt02.tangotv.in/MOJOTV/index.m3u8
-#EXTINF:-1 tvg-id="",Moon TV
-https://mumt03.tangotv.in/MOONTV/index.m3u8
-#EXTINF:-1 tvg-id="",MoviePlex
-https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
-#EXTINF:-1 tvg-id="",Munsif TV
-https://mumt04.tangotv.in/MUNSIFTV/index.m3u8
-#EXTINF:-1 tvg-id="",Music India
-https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
-#EXTINF:-1 tvg-id="",Nambikkai TV
-https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
-#EXTINF:-1 tvg-id="",Nandighosha TV
-https://mumt05.tangotv.in/NANDIGHOSHATV/index.m3u8
-#EXTINF:-1 tvg-id="",NDTV Marathi
-https://mumt02.tangotv.in/NDTVMARATHI/index.m3u8
-#EXTINF:-1 tvg-id="",NE News
-https://mumt05.tangotv.in/NENEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Nepal 1
-https://mumt05.tangotv.in/NEPAL1/index.m3u8
-#EXTINF:-1 tvg-id="",Network 10
-https://mumt01.tangotv.in/NETWORK10/index.m3u8
-#EXTINF:-1 tvg-id="",News 1 India
-https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8
-#EXTINF:-1 tvg-id="",News 11
-https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
-#EXTINF:-1 tvg-id="",News 1st
-https://mumt03.tangotv.in/NEWS1STKANNADA/index.m3u8
-#EXTINF:-1 tvg-id="",News 24
-https://mumt01.tangotv.in/NEWS24/index.m3u8
-#EXTINF:-1 tvg-id="",News 24
-https://mumt03.tangotv.in/NEWS24/index.m3u8
-#EXTINF:-1 tvg-id="",News 24 Madhya Pradesh/Chhattisgarh
-https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
-#EXTINF:-1 tvg-id="",News 7 Tamil
-https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="",News 9
-https://mumt01.tangotv.in/NEWS9/index.m3u8
-#EXTINF:-1 tvg-id="",News Capital Gujarat
-https://mumt03.tangotv.in/NEWSCAPITALGUJARAT/index.m3u8
-#EXTINF:-1 tvg-id="",News Daily 24
-https://mumt01.tangotv.in/NEWSDAILY24/index.m3u8
-#EXTINF:-1 tvg-id="",News Hour
-https://mumt02.tangotv.in/NEWSHOUR/index.m3u8
-#EXTINF:-1 tvg-id="",News India 24X7
-https://mumt03.tangotv.in/NEWSINDIA24X7/index.m3u8
-#EXTINF:-1 tvg-id="",News J
-https://mumt01.tangotv.in/NEWSJ/index.m3u8
-#EXTINF:-1 tvg-id="",News Malayalam 24x7
-https://mumt03.tangotv.in/NEWSMALAYALAM24X7/index.m3u8
-#EXTINF:-1 tvg-id="",News Nation
-https://mumt03.tangotv.in/NEWSNATION/index.m3u8
-#EXTINF:-1 tvg-id="",News State Madhya Pradesh/Chhattisgarh
-https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8
-#EXTINF:-1 tvg-id="",News State Uttar Pradesh/Uttarakhand
-https://mumt02.tangotv.in/NEWSSTATEUPUK/index.m3u8
-#EXTINF:-1 tvg-id="",News Tamil 24x7
-https://mumt05.tangotv.in/NEWSTAMIL24X7/index.m3u8
-#EXTINF:-1 tvg-id="",News X
-https://mumt01.tangotv.in/NEWSX/index.m3u8
-#EXTINF:-1 tvg-id="",News X WORLD
-https://mumt03.tangotv.in/NEWSXWORLD/index.m3u8
-#EXTINF:-1 tvg-id="",Nireekshana TV
-https://mumt03.tangotv.in/NIREEKSHANATV/index.m3u8
-#EXTINF:-1 tvg-id="",NKR TV
-https://mumt05.tangotv.in/NKRTV/index.m3u8
-#EXTINF:-1 tvg-id="",Northeast Live
-https://mumt01.tangotv.in/NORTHEASTLIVE/index.m3u8
-#EXTINF:-1 tvg-id="",NTV Telugu
-https://mumt01.tangotv.in/NTVTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",NTV Telugu
-https://mumt05.tangotv.in/NTVTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",OM TV
-https://mumt01.tangotv.in/OMTV/index.m3u8
-#EXTINF:-1 tvg-id="",ON TV
-https://mumt03.tangotv.in/ONTV/index.m3u8
-#EXTINF:-1 tvg-id="",Orange Bangla
-https://mumt03.tangotv.in/ORANGEBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",Oscar Movies Bhojpuri
-https://mumt05.tangotv.in/OSCARMOVIESBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="",Padharo Sa
-https://mumt03.tangotv.in/PADHAROSA/index.m3u8
-#EXTINF:-1 tvg-id="",Pankh
-https://mumt04.tangotv.in/PANKH/index.m3u8
-#EXTINF:-1 tvg-id="",Paras Gold
-https://mumt04.tangotv.in/PARASGOLD/index.m3u8
-#EXTINF:-1 tvg-id="",Pasand TV
-https://mumt01.tangotv.in/PASANDTV/index.m3u8
-#EXTINF:-1 tvg-id="",Peace Of Mind TV
-https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
-#EXTINF:-1 tvg-id="",Pear TV
-https://mumt01.tangotv.in/PEARTV/index.m3u8
-#EXTINF:-1 tvg-id="",Peppers TV
-https://mumt02.tangotv.in/PEPPERS/index.m3u8
-#EXTINF:-1 tvg-id="",Pitaara
-https://mumt02.tangotv.in/PITAARA/index.m3u8
-#EXTINF:-1 tvg-id="",Polimer TV
-https://mumt04.tangotv.in/POLIMERTV/index.m3u8
-#EXTINF:-1 tvg-id="",Polimer News
-https://mumt05.tangotv.in/POLIMERNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Powervision
-https://mumt02.tangotv.in/POWERVISION/index.m3u8
-#EXTINF:-1 tvg-id="",Prag News
-https://mumt05.tangotv.in/PRAGNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Prameya News 7
-https://mumt03.tangotv.in/PRAMEYANEWS7/index.m3u8
-#EXTINF:-1 tvg-id="",Prime 9 Plus
-https://mumt01.tangotv.in/PRIME9NEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Prime News
-https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
-#EXTINF:-1 tvg-id="",PTC ChakDe
-https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
-#EXTINF:-1 tvg-id="",PTC Music
-https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="",PTC News
-https://mumt02.tangotv.in/PTCNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",PTC Punjabi
-https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
-#EXTINF:-1 tvg-id="",PTC Punjabi Gold
-https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
-#EXTINF:-1 tvg-id="",PTC Simran
-https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
-#EXTINF:-1 tvg-id="",Public Movies
-https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="",Public Music
-https://mumt04.tangotv.in/PUBLICMUSIC/index.m3u8
-#EXTINF:-1 tvg-id="",Public TV
-https://mumt04.tangotv.in/PUBLICTV/index.m3u8
-#EXTINF:-1 tvg-id="",Pudhari News
-https://mumt04.tangotv.in/PUDHARINEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Punjabi Beats
-https://mumt02.tangotv.in/PUNJABIBEATS/index.m3u8
-#EXTINF:-1 tvg-id="",Punjabi Music HD
-https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
-#EXTINF:-1 tvg-id="",Punjabi TV
-https://mumt02.tangotv.in/PUNJABITV/index.m3u8
-#EXTINF:-1 tvg-id="",Puthiya Thalaimurai
-https://mumt02.tangotv.in/PUTHIYATHALAIMURAI/index.m3u8
-#EXTINF:-1 tvg-id="",Puthuyugam TV
-https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",R Plus
-https://mumt05.tangotv.in/RPLUS/index.m3u8
-#EXTINF:-1 tvg-id="",R Plus Gold
-https://mumt03.tangotv.in/RPLUSGOLD/index.m3u8
-#EXTINF:-1 tvg-id="",Ragni TV
-https://mumt04.tangotv.in/RAGNITV/index.m3u8
-#EXTINF:-1 tvg-id="",Raj Musix Kannada
-https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
-#EXTINF:-1 tvg-id="",Raj Musix Malayalam
-https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="",Raj Musix Telugu
-https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",Raj News Kannada
-https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
-#EXTINF:-1 tvg-id="",Raj News Malayalam
-https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
-#EXTINF:-1 tvg-id="",Raj News Telugu
-https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",Ramdhenu
-https://mumt01.tangotv.in/RAMDHENU/index.m3u8
-#EXTINF:-1 tvg-id="",Rang
-https://mumt01.tangotv.in/RANG/index.m3u8
-#EXTINF:-1 tvg-id="",Rengoni
-https://mumt05.tangotv.in/RENGONI/index.m3u8
-#EXTINF:-1 tvg-id="",Reporter
-https://mumt02.tangotv.in/REPORTERTV/index.m3u8
-#EXTINF:-1 tvg-id="",Republic Bangla
-https://mumt03.tangotv.in/RBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",Republic Bharat
-https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8
-#EXTINF:-1 tvg-id="",Republic Kannada
-https://mumt04.tangotv.in/REPUBLICKANNADA/index.m3u8
-#EXTINF:-1 tvg-id="",Republic TV
-https://mumt05.tangotv.in/REPUBLICTV/index.m3u8
-#EXTINF:-1 tvg-id="",Rongeen TV
-https://mumt05.tangotv.in/RONGEENTV/index.m3u8
-#EXTINF:-1 tvg-id="",Ruposhi Bangla
-https://mumt05.tangotv.in/RUPASIBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",Saam TV
-https://mumt02.tangotv.in/SAAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Saang TV
-https://mumt02.tangotv.in/SAANGTV/index.m3u8
-#EXTINF:-1 tvg-id="",Sach Bedhadak
-https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
-#EXTINF:-1 tvg-id="",Sadhna Plus News
-https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Sadhna TV
-https://mumt05.tangotv.in/SADHNATV/index.m3u8
-#EXTINF:-1 tvg-id="",Safari
-https://mumt04.tangotv.in/SAFARITV/index.m3u8
-#EXTINF:-1 tvg-id="",Sahana News
-https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Sai TV
-https://mumt02.tangotv.in/SAITV/index.m3u8
-#EXTINF:-1 tvg-id="",Sairam TV
-https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Sakshi TV
-https://mumt02.tangotv.in/SAKSHITV/index.m3u8
-#EXTINF:-1 tvg-id="",Sandesh News
-https://mumt01.tangotv.in/SANDESHNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Sangeet Bangla
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",Sangeet Bhojpuri
-https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="",Sangeet Marathi
-https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8
-#EXTINF:-1 tvg-id="",Sanskar TV
-https://mumt05.tangotv.in/SANSKAR/index.m3u8
-#EXTINF:-1 tvg-id="",Santvani Channel
-https://mumt05.tangotv.in/SANTVANI/index.m3u8
-#EXTINF:-1 tvg-id="",Sathiyam TV
-https://mumt02.tangotv.in/SATHIYAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Satsang TV
-https://mumt05.tangotv.in/SATSANG/index.m3u8
-#EXTINF:-1 tvg-id="",Shekinah TV
-https://mumt03.tangotv.in/SHEKINAHTV/index.m3u8
-#EXTINF:-1 tvg-id="",Shekinah TV
-https://mumt04.tangotv.in/SHEKINAHTV/index.m3u8
-#EXTINF:-1 tvg-id="",Shemaroo Marathibana
-https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8
-#EXTINF:-1 tvg-id="",Shemaroo TV
-https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
-#EXTINF:-1 tvg-id="",Shemaroo Umang
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
-#EXTINF:-1 tvg-id="",Shraddha MH One
-https://mumt01.tangotv.in/MHONESHRADDHA/index.m3u8
-#EXTINF:-1 tvg-id="",Shubh Cinema
-https://mumt03.tangotv.in/SHUBHCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="",Shubh TV
-https://mumt03.tangotv.in/SHUBHTV/index.m3u8
-#EXTINF:-1 tvg-id="",Shubhsandesh TV
-https://mumt03.tangotv.in/SHUBHSANDESH/index.m3u8
-#EXTINF:-1 tvg-id="",Sindh TV
-https://mumt01.tangotv.in/SINDHTV/index.m3u8
-#EXTINF:-1 tvg-id="",Siri Kannada
-https://mumt03.tangotv.in/SIRIKANNADA/index.m3u8
-#EXTINF:-1 tvg-id="",Siri Kannada All Time
-https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
-#EXTINF:-1 tvg-id="",Soham TV
-https://mumt03.tangotv.in/SOHAMTV/index.m3u8
-#EXTINF:-1 tvg-id="",Spondon
-https://mumt05.tangotv.in/SPONDON/index.m3u8
-#EXTINF:-1 tvg-id="",Sri Sankara
-https://mumt05.tangotv.in/SRISANKARA/index.m3u8
-#EXTINF:-1 tvg-id="",Studio One Plus
-https://mumt04.tangotv.in/STUDIOONEPLUS/index.m3u8
-#EXTINF:-1 tvg-id="",Studio Yuva
-https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
-#EXTINF:-1 tvg-id="",STV Haryana News
-https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Subharti TV
-https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
-#EXTINF:-1 tvg-id="",Subhavaartha TV
-https://mumt05.tangotv.in/SUBHAVAARTHATV/index.m3u8
-#EXTINF:-1 tvg-id="",Sudarshan News
-https://mumt04.tangotv.in/SUDARSHANNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",SVBC
-https://mumt04.tangotv.in/SVBCTELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",SVBC 2
-https://mumt03.tangotv.in/SVBC2TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="",SVBC 3
-https://mumt01.tangotv.in/SVBC3KANNADA/index.m3u8
-#EXTINF:-1 tvg-id="",SVBC 4
-https://mumt05.tangotv.in/SVBC4HINDI/index.m3u8
-#EXTINF:-1 tvg-id="",Swadesh News
-https://mumt03.tangotv.in/SWADESHNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Swaraj Express SMBC
-https://mumt04.tangotv.in/SWARAJEXPRESS/index.m3u8
-#EXTINF:-1 tvg-id="",T News
-https://mumt03.tangotv.in/TNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Tabbar Hits
-https://mumt04.tangotv.in/TABBARHITS/index.m3u8
-#EXTINF:-1 tvg-id="",Tadka
-https://mumt03.tangotv.in/TADKA/index.m3u8
-#EXTINF:-1 tvg-id="",Tamil Janam
-https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
-#EXTINF:-1 tvg-id="",Tamilan TV
-https://mumt04.tangotv.in/TAMILANTELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="",Tehzeeb TV
-https://mumt05.tangotv.in/TEHZEEBTV/index.m3u8
-#EXTINF:-1 tvg-id="",Thanthi One
-https://mumt02.tangotv.in/THANTHIONE/index.m3u8
-#EXTINF:-1 tvg-id="",Thanthi TV
-https://mumt03.tangotv.in/THANTHITV/index.m3u8
-#EXTINF:-1 tvg-id="",The Q
-https://mumt05.tangotv.in/THEQ/index.m3u8
-#EXTINF:-1 tvg-id="",Times Now Navbharat
-https://mumt03.tangotv.in/TIMESNOWNAVBHARAT/index.m3u8
-#EXTINF:-1 tvg-id="",Total TV
-https://mumt04.tangotv.in/TOTALTV/index.m3u8
-#EXTINF:-1 tvg-id="",TV5 Kannada
-https://mumt02.tangotv.in/TV5KANNADA/index.m3u8
-#EXTINF:-1 tvg-id="",TV5 News
-https://mumt02.tangotv.in/TV5NEWS/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Bangla
-https://mumt05.tangotv.in/TV9BANGLA/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Bharatvarsh
-https://mumt01.tangotv.in/TV9BHARATVARSH/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Bharatvarsh
-https://mumt03.tangotv.in/TV9BHARATVARSH/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Gujarati
-https://mumt03.tangotv.in/TV9GUJARATI/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Kannada
-https://mumt01.tangotv.in/TV9KANNADA/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Marathi
-https://mumt01.tangotv.in/TV9MARATHI/index.m3u8
-#EXTINF:-1 tvg-id="",TV9 Telugu
-https://mumt04.tangotv.in/TV9TELUGU/index.m3u8
-#EXTINF:-1 tvg-id="",TV24
-https://mumt01.tangotv.in/TV24/index.m3u8
-#EXTINF:-1 tvg-id="",TV100
-https://mumt01.tangotv.in/TV100/index.m3u8
-#EXTINF:-1 tvg-id="",TVN News
+#EXTINF:-1 tvg-logo="",Big TV 24x7
 https://mumt01.tangotv.in/TVNNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Unique TV
+#EXTINF:-1 tvg-logo="",Brio TV
+https://mumt02.tangotv.in/BRIOTV/index.m3u8
+#EXTINF:-1 tvg-logo="",BRK News
+https://mumt03.tangotv.in/BRKNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",BS TV
+https://mumt02.tangotv.in/BSTV/index.m3u8
+#EXTINF:-1 tvg-logo="",BVG
+https://mumt05.tangotv.in/BVG/index.m3u8
+#EXTINF:-1 tvg-logo="",Calvary TV
+https://mumt04.tangotv.in/CALVARYTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Captain
+https://mumt01.tangotv.in/CAPTAIN/index.m3u8
+#EXTINF:-1 tvg-logo="",Cee-10
+https://mumt03.tangotv.in/C10/index.m3u8
+#EXTINF:-1 tvg-logo="",Channel Divya
+https://mumt05.tangotv.in/DIVYA/index.m3u8
+#EXTINF:-1 tvg-logo="",Channel WIN
+https://mumt05.tangotv.in/CHANNELWIN/index.m3u8
+#EXTINF:-1 tvg-logo="",Chaukas TV
+https://mumt02.tangotv.in/CHAUKASTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8
+#EXTINF:-1 tvg-logo="",CTVN AKD Plus
+https://mumt03.tangotv.in/CTVNAKDPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="",CVR English
+https://mumt03.tangotv.in/CVRNEWSENGLISH/index.m3u8
+#EXTINF:-1 tvg-logo="",CVR Health
+https://mumt04.tangotv.in/CVRHEALTH/index.m3u8
+#EXTINF:-1 tvg-logo="",CVR News
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Dabangg
+https://mumt01.tangotv.in/DABANGG/index.m3u8
+#EXTINF:-1 tvg-logo="",Daily Post News
+https://mumt01.tangotv.in/DAILYPOST/index.m3u8
+#EXTINF:-1 tvg-logo="",Dangal
+https://mumt01.tangotv.in/DANGAL/index.m3u8
+#EXTINF:-1 tvg-logo="",Dangal 2
+https://mumt03.tangotv.in/DANGAL2/index.m3u8
+#EXTINF:-1 tvg-logo="",Darshan 24
+https://mumt05.tangotv.in/DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-logo="",Darshana TV
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Arunprabha
+https://mumt05.tangotv.in/DDARUNPRABHA/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Assam
+https://mumt05.tangotv.in/DDASSAM/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Bangla
+https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Bharati
+https://mumt01.tangotv.in/DDBHARATI/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Bihar
+https://mumt03.tangotv.in/DDBIHAR/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Girnar
+https://mumt01.tangotv.in/DDGIRNAR/index.m3u8
+#EXTINF:-1 tvg-logo="",DD India
+https://mumt05.tangotv.in/DDINDIA/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Kashir
+https://mumt05.tangotv.in/DDKASHIR/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Kisan
+https://mumt04.tangotv.in/DDKISAN/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Madhya Pradesh
+https://mumt04.tangotv.in/DDMADHYAPRADESH/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Malayalam
+https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Nagaland
+https://mumt01.tangotv.in/DDNAGALAND/index.m3u8
+#EXTINF:-1 tvg-logo="",DD National HD
+https://mumt01.tangotv.in/DDNATIONALHD/index.m3u8
+#EXTINF:-1 tvg-logo="",DD News
+https://mumt04.tangotv.in/DDNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Odia
+https://mumt05.tangotv.in/DDODIA/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Rajasthan (Fastway)
+https://mumt05.tangotv.in/DDRAJASTHAN/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Sahyadri
+https://mumt01.tangotv.in/DDSAHYADRI/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Saptagiri
+https://mumt02.tangotv.in/DDSAPTAGIRI/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Sports
+https://mumt02.tangotv.in/DDSPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Tamil
+https://mumt04.tangotv.in/DDTAMIL/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Tripura
+https://mumt01.tangotv.in/DDTRIPURA/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Urdu
+https://mumt05.tangotv.in/DDURDU/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Uttar Pradesh
+https://mumt01.tangotv.in/DDUTTARPRADESH/index.m3u8
+#EXTINF:-1 tvg-logo="",DD Yadagiri
+https://mumt05.tangotv.in/DDYADAGIRI/index.m3u8
+#EXTINF:-1 tvg-logo="",Dhamaal
+https://mumt03.tangotv.in/DHAMAAL/index.m3u8
+#EXTINF:-1 tvg-logo="",Dhamaka Movies B4U
+https://mumt03.tangotv.in/DHAMAKAMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="",Dharm Sandesh
+https://mumt05.tangotv.in/DHARMSANDESH/index.m3u8
+#EXTINF:-1 tvg-logo="",Disha TV
+https://mumt04.tangotv.in/DISHATV/index.m3u8
+#EXTINF:-1 tvg-logo="",DY 365
+https://mumt04.tangotv.in/DY365/index.m3u8
+#EXTINF:-1 tvg-logo="",E 24
+https://mumt04.tangotv.in/E24/index.m3u8
+#EXTINF:-1 tvg-logo="",Enterr 10 Bangla
+https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",Evergreen Hits
+https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8
+#EXTINF:-1 tvg-logo="",Fakt Marathi
+https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8
+#EXTINF:-1 tvg-logo="",Fashion TV
+https://mumt01.tangotv.in/FASHIONTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Fast Mix
+https://mumt01.tangotv.in/FASTMIX/index.m3u8
+#EXTINF:-1 tvg-logo="",Fateh TV
+https://mumt05.tangotv.in/FATEHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",FGN Channel
+https://mumt03.tangotv.in/FGNCHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="",FGN Channel
+https://mumt04.tangotv.in/FGNCHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="",Food Food
+https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+#EXTINF:-1 tvg-logo="",Gangaur TV
+https://mumt04.tangotv.in/GANGAURTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Goldmines
+https://mumt04.tangotv.in/GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-logo="",Goldmines 2
+https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
+#EXTINF:-1 tvg-logo="",Goldmines Action
+https://mumt03.tangotv.in/GOLDMINESACTION/index.m3u8
+#EXTINF:-1 tvg-logo="",Goldmines Bollywood
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-logo="",Goodness TV
+https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Goodnews TV
+https://mumt05.tangotv.in/GOODNEWSTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Grace TV
+https://mumt03.tangotv.in/GRACETV/index.m3u8
+#EXTINF:-1 tvg-logo="",GS TV
+https://mumt05.tangotv.in/GSTV/index.m3u8
+#EXTINF:-1 tvg-logo="",GTC News
+https://mumt03.tangotv.in/GTCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",GTC News
+https://mumt05.tangotv.in/GTCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",GTC Punjabi
+https://mumt01.tangotv.in/GTC/index.m3u8
+#EXTINF:-1 tvg-logo="",Guarantee News
+https://mumt02.tangotv.in/GUARANTEENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Gujarat First
+https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8
+#EXTINF:-1 tvg-logo="",Gyandarshan HD
+https://mumt05.tangotv.in/GYANDARSHAN/index.m3u8
+#EXTINF:-1 tvg-logo="",Har Khabar
+https://mumt01.tangotv.in/HARKHABAR/index.m3u8
+#EXTINF:-1 tvg-logo="",Hare Krsna TV
+https://mumt05.tangotv.in/HAREKRSNA/index.m3u8
+#EXTINF:-1 tvg-logo="",Harvest TV 24x7
+https://mumt03.tangotv.in/HARVESTTV24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",Hi Dost!
+https://mumt03.tangotv.in/HIDOST/index.m3u8
+#EXTINF:-1 tvg-logo="",Hindi Hits
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8
+#EXTINF:-1 tvg-logo="",Hindi Khabar
+https://mumt04.tangotv.in/HINDIKHABAR/index.m3u8
+#EXTINF:-1 tvg-logo="",Hindu Dharmam
+https://mumt01.tangotv.in/HINDUDHARMAM/index.m3u8
+#EXTINF:-1 tvg-logo="",HMTV
+https://mumt04.tangotv.in/HMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",HNN 24x7
+https://mumt02.tangotv.in/HNN24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",Hope Channel India
+https://mumt01.tangotv.in/HOPECHANNELINDIA/index.m3u8
+#EXTINF:-1 tvg-logo="",Hornbill TV
+https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-logo="",IBC 24
+https://mumt05.tangotv.in/IBC24/index.m3u8
+#EXTINF:-1 tvg-logo="",Ind 24
+https://mumt02.tangotv.in/IND24/index.m3u8
+#EXTINF:-1 tvg-logo="",India Ahead
+https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
+#EXTINF:-1 tvg-logo="",India Daily 24x7
+https://mumt02.tangotv.in/INDIADAILY24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",India News
+https://mumt03.tangotv.in/INDIANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",India News Gujarat
+https://mumt03.tangotv.in/INDIANEWSGUJARAT/index.m3u8
+#EXTINF:-1 tvg-logo="",India News Madhya Pradesh/Chhattisgarh
+https://mumt03.tangotv.in/INDIANEWSMPCG/index.m3u8
+#EXTINF:-1 tvg-logo="",India News Uttar Pradesh
+https://mumt03.tangotv.in/INDIANEWSUP/index.m3u8
+#EXTINF:-1 tvg-logo="",India Talkies
+https://mumt01.tangotv.in/INDIATALKIES/index.m3u8
+#EXTINF:-1 tvg-logo="",India TV
+https://mumt01.tangotv.in/INDIATV/index.m3u8
+#EXTINF:-1 tvg-logo="",India Voice
+https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
+#EXTINF:-1 tvg-logo="",I News
+https://mumt03.tangotv.in/INEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",INH 24x7
+https://mumt01.tangotv.in/INH24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",Insync
+https://mumt04.tangotv.in/INSYNC/index.m3u8
+#EXTINF:-1 tvg-logo="",Ishwar Bhakti TV
+https://mumt05.tangotv.in/ISHWARBHAKTI/index.m3u8
+#EXTINF:-1 tvg-logo="",Jai Maharashtra
+https://mumt03.tangotv.in/JAIMAHARASHTRA/index.m3u8
+#EXTINF:-1 tvg-logo="",Jaihind TV
+https://mumt03.tangotv.in/JAIHIND/index.m3u8
+#EXTINF:-1 tvg-logo="",Jan TV
+https://mumt03.tangotv.in/JANTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Janam TV
+https://mumt03.tangotv.in/JANAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Jeevan TV
+https://mumt04.tangotv.in/JEEVANTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Jinvani Channel
+https://mumt03.tangotv.in/JINVANI/index.m3u8
+#EXTINF:-1 tvg-logo="",Josh TV
+https://mumt03.tangotv.in/JOSHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",K News India
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-logo="",Kairali Arabia
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-logo="",Kairali News
+https://mumt01.tangotv.in/KAIRALINEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Kairali TV
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
+#EXTINF:-1 tvg-logo="",Kairali We
+https://mumt01.tangotv.in/WETV/index.m3u8
+#EXTINF:-1 tvg-logo="",Kalinga TV
+https://mumt01.tangotv.in/KALINGATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Kappa TV
+https://mumt03.tangotv.in/KAPPATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Kashish News
+https://mumt03.tangotv.in/KASHISHNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Kaumudy TV
+https://mumt04.tangotv.in/KAUMUDYTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Kerala Vision
+https://mumt03.tangotv.in/KERALAVISION/index.m3u8
+#EXTINF:-1 tvg-logo="",Khabar Fast
+https://mumt04.tangotv.in/KHABARFAST/index.m3u8
+#EXTINF:-1 tvg-logo="",Khabrain Abhi Tak
+https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
+#EXTINF:-1 tvg-logo="",Khushboo Bangla
+https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",Kolkata TV
+https://mumt01.tangotv.in/KOLKATATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Live Times
+https://mumt01.tangotv.in/LIVETIMES/index.m3u8
+#EXTINF:-1 tvg-logo="",Living India News
+https://mumt01.tangotv.in/LIVINGINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",M Nadu TV
+https://mumt01.tangotv.in/MNADU/index.m3u8
+#EXTINF:-1 tvg-logo="",M Nadu TV
+https://mumt03.tangotv.in/MNADUTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Madha TV
+https://mumt02.tangotv.in/MADHATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Maha Movie
+https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="",Mahaa Max
+https://mumt03.tangotv.in/MAHAAMAX/index.m3u8
+#EXTINF:-1 tvg-logo="",Mahaa News
+https://mumt02.tangotv.in/MAHAANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Maiboli
+https://mumt01.tangotv.in/MAIBOLI/index.m3u8
+#EXTINF:-1 tvg-logo="",Maina TV
+https://mumt03.tangotv.in/MAINATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Makkal TV
+https://mumt01.tangotv.in/MAKKALTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Malai Murasu TV
+https://mumt04.tangotv.in/MALAIMURASUSEITHIGAL/index.m3u8
+#EXTINF:-1 tvg-logo="",Malar TV
+https://mumt04.tangotv.in/MALARTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Manoranjan Grand
+https://mumt02.tangotv.in/MANORANJANGRAND/index.m3u8
+#EXTINF:-1 tvg-logo="",Manoranjan Movies
+https://mumt04.tangotv.in/MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="",Manoranjan Prime
+https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8
+#EXTINF:-1 tvg-logo="",Manoranjan TV
+https://mumt04.tangotv.in/MANORANJANTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Mantavya 24x7 News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Mastiii
+https://mumt02.tangotv.in/MASTIII/index.m3u8
+#EXTINF:-1 tvg-logo="",Mathrubhumi News
+https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Matti TV
+https://mumt03.tangotv.in/MATTITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Mazhavil Manorama HD
+https://mumt02.tangotv.in/MAZHAVILMANORAMAHD/index.m3u8
+#EXTINF:-1 tvg-logo="",MBC TV
+https://mumt03.tangotv.in/MBCTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Melody Hits
+https://mumt03.tangotv.in/MELODYHITS/index.m3u8
+#EXTINF:-1 tvg-logo="",Mercy TV
+https://mumt03.tangotv.in/MERCYTV/index.m3u8
+#EXTINF:-1 tvg-logo="",MH One
+https://mumt04.tangotv.in/MHONE/index.m3u8
+#EXTINF:-1 tvg-logo="",MH One Dil Se
+https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+#EXTINF:-1 tvg-logo="",MH One Movies
+https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="",MH One Movies
+https://mumt03.tangotv.in/MHONEMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="",MH One News
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",MK Six
+https://mumt05.tangotv.in/MKSIX/index.m3u8
+#EXTINF:-1 tvg-logo="",Mojo TV
+https://mumt02.tangotv.in/MOJOTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Moon TV
+https://mumt03.tangotv.in/MOONTV/index.m3u8
+#EXTINF:-1 tvg-logo="",MoviePlex
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 tvg-logo="",Munsif TV
+https://mumt04.tangotv.in/MUNSIFTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Music India
+https://mumt05.tangotv.in/MUSICINDIA/index.m3u8
+#EXTINF:-1 tvg-logo="",Nambikkai TV
+https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Nandighosha TV
+https://mumt05.tangotv.in/NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-logo="",NDTV Marathi
+https://mumt02.tangotv.in/NDTVMARATHI/index.m3u8
+#EXTINF:-1 tvg-logo="",NE News
+https://mumt05.tangotv.in/NENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Nepal 1
+https://mumt05.tangotv.in/NEPAL1/index.m3u8
+#EXTINF:-1 tvg-logo="",Network 10
+https://mumt01.tangotv.in/NETWORK10/index.m3u8
+#EXTINF:-1 tvg-logo="",News 1 India
+https://mumt02.tangotv.in/NEWS1INDIA/index.m3u8
+#EXTINF:-1 tvg-logo="",News 11
+https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="",News 1st
+https://mumt03.tangotv.in/NEWS1STKANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",News 24
+https://mumt01.tangotv.in/NEWS24/index.m3u8
+#EXTINF:-1 tvg-logo="",News 24
+https://mumt03.tangotv.in/NEWS24/index.m3u8
+#EXTINF:-1 tvg-logo="",News 24 Madhya Pradesh/Chhattisgarh
+https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
+#EXTINF:-1 tvg-logo="",News 7 Tamil
+https://mumt02.tangotv.in/NEWS7TAMIL/index.m3u8
+#EXTINF:-1 tvg-logo="",News 9
+https://mumt01.tangotv.in/NEWS9/index.m3u8
+#EXTINF:-1 tvg-logo="",News Capital Gujarat
+https://mumt03.tangotv.in/NEWSCAPITALGUJARAT/index.m3u8
+#EXTINF:-1 tvg-logo="",News Daily 24
+https://mumt01.tangotv.in/NEWSDAILY24/index.m3u8
+#EXTINF:-1 tvg-logo="",News Hour
+https://mumt02.tangotv.in/NEWSHOUR/index.m3u8
+#EXTINF:-1 tvg-logo="",News India 24X7
+https://mumt03.tangotv.in/NEWSINDIA24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",News J
+https://mumt01.tangotv.in/NEWSJ/index.m3u8
+#EXTINF:-1 tvg-logo="",News Malayalam 24x7
+https://mumt03.tangotv.in/NEWSMALAYALAM24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",News Nation
+https://mumt03.tangotv.in/NEWSNATION/index.m3u8
+#EXTINF:-1 tvg-logo="",News State Madhya Pradesh/Chhattisgarh
+https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8
+#EXTINF:-1 tvg-logo="",News State Uttar Pradesh/Uttarakhand
+https://mumt02.tangotv.in/NEWSSTATEUPUK/index.m3u8
+#EXTINF:-1 tvg-logo="",News Tamil 24x7
+https://mumt05.tangotv.in/NEWSTAMIL24X7/index.m3u8
+#EXTINF:-1 tvg-logo="",News X
+https://mumt01.tangotv.in/NEWSX/index.m3u8
+#EXTINF:-1 tvg-logo="",News X WORLD
+https://mumt03.tangotv.in/NEWSXWORLD/index.m3u8
+#EXTINF:-1 tvg-logo="",Nireekshana TV
+https://mumt03.tangotv.in/NIREEKSHANATV/index.m3u8
+#EXTINF:-1 tvg-logo="",NKR TV
+https://mumt05.tangotv.in/NKRTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Northeast Live
+https://mumt01.tangotv.in/NORTHEASTLIVE/index.m3u8
+#EXTINF:-1 tvg-logo="",NTV Telugu
+https://mumt01.tangotv.in/NTVTELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",NTV Telugu
+https://mumt05.tangotv.in/NTVTELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",OM TV
+https://mumt01.tangotv.in/OMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",ON TV
+https://mumt03.tangotv.in/ONTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Orange Bangla
+https://mumt03.tangotv.in/ORANGEBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",Oscar Movies Bhojpuri
+https://mumt05.tangotv.in/OSCARMOVIESBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="",Padharo Sa
+https://mumt03.tangotv.in/PADHAROSA/index.m3u8
+#EXTINF:-1 tvg-logo="",Pankh
+https://mumt04.tangotv.in/PANKH/index.m3u8
+#EXTINF:-1 tvg-logo="",Paras Gold
+https://mumt04.tangotv.in/PARASGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="",Pasand TV
+https://mumt01.tangotv.in/PASANDTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Peace Of Mind TV
+https://mumt03.tangotv.in/PEACEOFMIND/index.m3u8
+#EXTINF:-1 tvg-logo="",Pear TV
+https://mumt01.tangotv.in/PEARTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Peppers TV
+https://mumt02.tangotv.in/PEPPERS/index.m3u8
+#EXTINF:-1 tvg-logo="",Pitaara
+https://mumt02.tangotv.in/PITAARA/index.m3u8
+#EXTINF:-1 tvg-logo="",Polimer TV
+https://mumt04.tangotv.in/POLIMERTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Polimer News
+https://mumt05.tangotv.in/POLIMERNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Powervision
+https://mumt02.tangotv.in/POWERVISION/index.m3u8
+#EXTINF:-1 tvg-logo="",Prag News
+https://mumt05.tangotv.in/PRAGNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Prameya News 7
+https://mumt03.tangotv.in/PRAMEYANEWS7/index.m3u8
+#EXTINF:-1 tvg-logo="",Prime 9 Plus
+https://mumt01.tangotv.in/PRIME9NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Prime News
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",PTC ChakDe
+https://mumt02.tangotv.in/PTCCHAKDE/index.m3u8
+#EXTINF:-1 tvg-logo="",PTC Music
+https://mumt04.tangotv.in/PTCMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="",PTC News
+https://mumt02.tangotv.in/PTCNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",PTC Punjabi
+https://mumt04.tangotv.in/PTCPUNJABI/index.m3u8
+#EXTINF:-1 tvg-logo="",PTC Punjabi Gold
+https://mumt04.tangotv.in/PTCPUNJABIGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="",PTC Simran
+https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
+#EXTINF:-1 tvg-logo="",Public Movies
+https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="",Public Music
+https://mumt04.tangotv.in/PUBLICMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="",Public TV
+https://mumt04.tangotv.in/PUBLICTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Pudhari News
+https://mumt04.tangotv.in/PUDHARINEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Punjabi Beats
+https://mumt02.tangotv.in/PUNJABIBEATS/index.m3u8
+#EXTINF:-1 tvg-logo="",Punjabi Music HD
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
+#EXTINF:-1 tvg-logo="",Punjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Puthiya Thalaimurai
+https://mumt02.tangotv.in/PUTHIYATHALAIMURAI/index.m3u8
+#EXTINF:-1 tvg-logo="",Puthuyugam TV
+https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",R Plus
+https://mumt05.tangotv.in/RPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="",R Plus Gold
+https://mumt03.tangotv.in/RPLUSGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="",Ragni TV
+https://mumt04.tangotv.in/RAGNITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Raj Musix Kannada
+https://mumt01.tangotv.in/RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1 tvg-logo="",Raj Musix Malayalam
+https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-logo="",Raj Musix Telugu
+https://mumt02.tangotv.in/RAJMUSIXTELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",Raj News Kannada
+https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
+#EXTINF:-1 tvg-logo="",Raj News Malayalam
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 tvg-logo="",Raj News Telugu
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",Ramdhenu
+https://mumt01.tangotv.in/RAMDHENU/index.m3u8
+#EXTINF:-1 tvg-logo="",Rang
+https://mumt01.tangotv.in/RANG/index.m3u8
+#EXTINF:-1 tvg-logo="",Rengoni
+https://mumt05.tangotv.in/RENGONI/index.m3u8
+#EXTINF:-1 tvg-logo="",Reporter
+https://mumt02.tangotv.in/REPORTERTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Republic Bangla
+https://mumt03.tangotv.in/RBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",Republic Bharat
+https://mumt02.tangotv.in/REPUBLICBHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="",Republic Kannada
+https://mumt04.tangotv.in/REPUBLICKANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",Republic TV
+https://mumt05.tangotv.in/REPUBLICTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Rongeen TV
+https://mumt05.tangotv.in/RONGEENTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Ruposhi Bangla
+https://mumt05.tangotv.in/RUPASIBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",Saam TV
+https://mumt02.tangotv.in/SAAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Saang TV
+https://mumt02.tangotv.in/SAANGTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Sach Bedhadak
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
+#EXTINF:-1 tvg-logo="",Sadhna Plus News
+https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Sadhna TV
+https://mumt05.tangotv.in/SADHNATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Safari
+https://mumt04.tangotv.in/SAFARITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Sahana News
+https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Sai TV
+https://mumt02.tangotv.in/SAITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Sairam TV
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Sakshi TV
+https://mumt02.tangotv.in/SAKSHITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Sandesh News
+https://mumt01.tangotv.in/SANDESHNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Sangeet Bangla
+https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",Sangeet Bhojpuri
+https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="",Sangeet Marathi
+https://mumt02.tangotv.in/SANGEETMARATHI/index.m3u8
+#EXTINF:-1 tvg-logo="",Sanskar TV
+https://mumt05.tangotv.in/SANSKAR/index.m3u8
+#EXTINF:-1 tvg-logo="",Santvani Channel
+https://mumt05.tangotv.in/SANTVANI/index.m3u8
+#EXTINF:-1 tvg-logo="",Sathiyam TV
+https://mumt02.tangotv.in/SATHIYAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Satsang TV
+https://mumt05.tangotv.in/SATSANG/index.m3u8
+#EXTINF:-1 tvg-logo="",Shekinah TV
+https://mumt03.tangotv.in/SHEKINAHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Shekinah TV
+https://mumt04.tangotv.in/SHEKINAHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Shemaroo Marathibana
+https://mumt02.tangotv.in/SHEMAROOMARATHIBANA/index.m3u8
+#EXTINF:-1 tvg-logo="",Shemaroo TV
+https://mumt02.tangotv.in/SHEMAROOTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Shemaroo Umang
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-logo="",Shraddha MH One
+https://mumt01.tangotv.in/MHONESHRADDHA/index.m3u8
+#EXTINF:-1 tvg-logo="",Shubh Cinema
+https://mumt03.tangotv.in/SHUBHCINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="",Shubh TV
+https://mumt03.tangotv.in/SHUBHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Shubhsandesh TV
+https://mumt03.tangotv.in/SHUBHSANDESH/index.m3u8
+#EXTINF:-1 tvg-logo="",Sindh TV
+https://mumt01.tangotv.in/SINDHTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Siri Kannada
+https://mumt03.tangotv.in/SIRIKANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",Siri Kannada All Time
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
+#EXTINF:-1 tvg-logo="",Soham TV
+https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Spondon
+https://mumt05.tangotv.in/SPONDON/index.m3u8
+#EXTINF:-1 tvg-logo="",Sri Sankara
+https://mumt05.tangotv.in/SRISANKARA/index.m3u8
+#EXTINF:-1 tvg-logo="",Studio One Plus
+https://mumt04.tangotv.in/STUDIOONEPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="",Studio Yuva
+https://mumt01.tangotv.in/STUDIOYUVA/index.m3u8
+#EXTINF:-1 tvg-logo="",STV Haryana News
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Subharti TV
+https://mumt04.tangotv.in/SUBHARTITV/index.m3u8
+#EXTINF:-1 tvg-logo="",Subhavaartha TV
+https://mumt05.tangotv.in/SUBHAVAARTHATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Sudarshan News
+https://mumt04.tangotv.in/SUDARSHANNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",SVBC
+https://mumt04.tangotv.in/SVBCTELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",SVBC 2
+https://mumt03.tangotv.in/SVBC2TAMIL/index.m3u8
+#EXTINF:-1 tvg-logo="",SVBC 3
+https://mumt01.tangotv.in/SVBC3KANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",SVBC 4
+https://mumt05.tangotv.in/SVBC4HINDI/index.m3u8
+#EXTINF:-1 tvg-logo="",Swadesh News
+https://mumt03.tangotv.in/SWADESHNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Swaraj Express SMBC
+https://mumt04.tangotv.in/SWARAJEXPRESS/index.m3u8
+#EXTINF:-1 tvg-logo="",T News
+https://mumt03.tangotv.in/TNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Tabbar Hits
+https://mumt04.tangotv.in/TABBARHITS/index.m3u8
+#EXTINF:-1 tvg-logo="",Tadka
+https://mumt03.tangotv.in/TADKA/index.m3u8
+#EXTINF:-1 tvg-logo="",Tamil Janam
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 tvg-logo="",Tamilan TV
+https://mumt04.tangotv.in/TAMILANTELEVISION/index.m3u8
+#EXTINF:-1 tvg-logo="",Tehzeeb TV
+https://mumt05.tangotv.in/TEHZEEBTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Thanthi One
+https://mumt02.tangotv.in/THANTHIONE/index.m3u8
+#EXTINF:-1 tvg-logo="",Thanthi TV
+https://mumt03.tangotv.in/THANTHITV/index.m3u8
+#EXTINF:-1 tvg-logo="",The Q
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1 tvg-logo="",Times Now Navbharat
+https://mumt03.tangotv.in/TIMESNOWNAVBHARAT/index.m3u8
+#EXTINF:-1 tvg-logo="",Total TV
+https://mumt04.tangotv.in/TOTALTV/index.m3u8
+#EXTINF:-1 tvg-logo="",TV5 Kannada
+https://mumt02.tangotv.in/TV5KANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",TV5 News
+https://mumt02.tangotv.in/TV5NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Bangla
+https://mumt05.tangotv.in/TV9BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Bharatvarsh
+https://mumt01.tangotv.in/TV9BHARATVARSH/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Bharatvarsh
+https://mumt03.tangotv.in/TV9BHARATVARSH/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Gujarati
+https://mumt03.tangotv.in/TV9GUJARATI/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Kannada
+https://mumt01.tangotv.in/TV9KANNADA/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Marathi
+https://mumt01.tangotv.in/TV9MARATHI/index.m3u8
+#EXTINF:-1 tvg-logo="",TV9 Telugu
+https://mumt04.tangotv.in/TV9TELUGU/index.m3u8
+#EXTINF:-1 tvg-logo="",TV 24
+https://mumt01.tangotv.in/TV24/index.m3u8
+#EXTINF:-1 tvg-logo="",TV 27 News
+https://mumt04.tangotv.in/TV27/index.m3u8
+#EXTINF:-1 tvg-logo="",TV 100
+https://mumt01.tangotv.in/TV100/index.m3u8
+#EXTINF:-1 tvg-logo="",Unique TV
 https://mumt05.tangotv.in/UNIQUETV/index.m3u8
-#EXTINF:-1 tvg-id="",UTV Anandam
+#EXTINF:-1 tvg-logo="",UTV Anandam
 https://mumt02.tangotv.in/UTVANANDAM/index.m3u8
-#EXTINF:-1 tvg-id="",V6 News
+#EXTINF:-1 tvg-logo="",V6 News
 https://mumt05.tangotv.in/V6NEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Vaanavil TV
+#EXTINF:-1 tvg-logo="",Vaanavil TV
 https://mumt01.tangotv.in/VAANAVILTV/index.m3u8
-#EXTINF:-1 tvg-id="",Vanitha TV
+#EXTINF:-1 tvg-logo="",Vanitha TV
 https://mumt01.tangotv.in/VANITHA/index.m3u8
-#EXTINF:-1 tvg-id="",Vasanth TV
+#EXTINF:-1 tvg-logo="",Vasanth TV
 https://mumt04.tangotv.in/VASANTHTV/index.m3u8
-#EXTINF:-1 tvg-id="",Vedic
+#EXTINF:-1 tvg-logo="",Vedic
 https://mumt05.tangotv.in/VEDIC/index.m3u8
-#EXTINF:-1 tvg-id="",Vendhar TV
+#EXTINF:-1 tvg-logo="",Vendhar TV
 https://mumt04.tangotv.in/VENDHARTV/index.m3u8
-#EXTINF:-1 tvg-id="",Vissa TV
+#EXTINF:-1 tvg-logo="",Vertent Samachar Plus 24x7
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
+#EXTINF:-1 tvg-logo="",Vissa TV
 https://mumt02.tangotv.in/VISSATV/index.m3u8
-#EXTINF:-1 tvg-id="",Vistaar News
+#EXTINF:-1 tvg-logo="",Vistaar News
 https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8
-#EXTINF:-1 tvg-id="",Win TV
+#EXTINF:-1 tvg-logo="",VTV News
+https://mumt04.tangotv.in/VTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Win TV
 https://mumt03.tangotv.in/WINTV/index.m3u8
+#EXTINF:-1 tvg-logo="",WPN World Punjabi
+https://mumt02.tangotv.in/WPNWORLDPUNJABI/index.m3u8
