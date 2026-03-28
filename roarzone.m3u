@@ -6,7 +6,7 @@ http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYmFuZ2xhdmlzaW9u&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/6.png" group-title="Bengali",Channel I
 http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/7.png" group-title="Bengali",DBC News
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/dbc
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvZGJj&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/8.png" group-title="Bengali",Deepto TV
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/deepto_tv
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/11.png" group-title="Bengali",Ekkator TV
