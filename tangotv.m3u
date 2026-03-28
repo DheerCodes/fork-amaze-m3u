@@ -251,6 +251,8 @@ https://mumt03.tangotv.in/GOLDMINES2/index.m3u8
 https://mumt03.tangotv.in/GOLDMINESACTION/index.m3u8
 #EXTINF:-1 tvg-logo="",Goldmines Bollywood
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-logo="",Goldmines Movies
+https://mumt04.tangotv.in/GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="",Goodness TV
 https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Goodnews TV
@@ -331,6 +333,8 @@ https://mumt03.tangotv.in/JAIHIND/index.m3u8
 https://mumt03.tangotv.in/JANTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Janam TV
 https://mumt03.tangotv.in/JANAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Jantantra TV
+https://mumt05.tangotv.in/JANTANTRA/index.m3u8
 #EXTINF:-1 tvg-logo="",Jeevan TV
 https://mumt04.tangotv.in/JEEVANTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Jinvani Channel
@@ -365,6 +369,8 @@ https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
 https://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="",Kolkata TV
 https://mumt01.tangotv.in/KOLKATATV/index.m3u8
+#EXTINF:-1 tvg-logo="",Kolkata TV
+https://mumt03.tangotv.in/KOLKATATV/index.m3u8
 #EXTINF:-1 tvg-logo="",Live Times
 https://mumt01.tangotv.in/LIVETIMES/index.m3u8
 #EXTINF:-1 tvg-logo="",Living India News
@@ -377,6 +383,8 @@ https://mumt03.tangotv.in/MNADUTV/index.m3u8
 https://mumt02.tangotv.in/MADHATV/index.m3u8
 #EXTINF:-1 tvg-logo="",Maha Movie
 https://mumt02.tangotv.in/MAHAMOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="",Mahaa Bhakti
+https://mumt01.tangotv.in/MAHABHAKTI/index.m3u8
 #EXTINF:-1 tvg-logo="",Mahaa Max
 https://mumt03.tangotv.in/MAHAAMAX/index.m3u8
 #EXTINF:-1 tvg-logo="",Mahaa News
@@ -475,6 +483,8 @@ https://mumt02.tangotv.in/NEWSHOUR/index.m3u8
 https://mumt03.tangotv.in/NEWSINDIA24X7/index.m3u8
 #EXTINF:-1 tvg-logo="",News J
 https://mumt01.tangotv.in/NEWSJ/index.m3u8
+#EXTINF:-1 tvg-logo="",News Live Bangla
+https://mumt01.tangotv.in/NEWSLIVEBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="",News Malayalam 24x7
 https://mumt03.tangotv.in/NEWSMALAYALAM24X7/index.m3u8
 #EXTINF:-1 tvg-logo="",News Nation
@@ -487,10 +497,12 @@ https://mumt02.tangotv.in/NEWSSTATEUPUK/index.m3u8
 https://mumt05.tangotv.in/NEWSTAMIL24X7/index.m3u8
 #EXTINF:-1 tvg-logo="",News X
 https://mumt01.tangotv.in/NEWSX/index.m3u8
-#EXTINF:-1 tvg-logo="",News X WORLD
+#EXTINF:-1 tvg-logo="",News X World
 https://mumt03.tangotv.in/NEWSXWORLD/index.m3u8
 #EXTINF:-1 tvg-logo="",Nireekshana TV
 https://mumt03.tangotv.in/NIREEKSHANATV/index.m3u8
+#EXTINF:-1 tvg-logo="",NKTV Bangla
+https://mumt05.tangotv.in/NKTVPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="",NKR TV
 https://mumt05.tangotv.in/NKRTV/index.m3u8
 #EXTINF:-1 tvg-logo="",Northeast Live
@@ -499,10 +511,12 @@ https://mumt01.tangotv.in/NORTHEASTLIVE/index.m3u8
 https://mumt01.tangotv.in/NTVTELUGU/index.m3u8
 #EXTINF:-1 tvg-logo="",NTV Telugu
 https://mumt05.tangotv.in/NTVTELUGU/index.m3u8
-#EXTINF:-1 tvg-logo="",OM TV
+#EXTINF:-1 tvg-logo="",Om TV
 https://mumt01.tangotv.in/OMTV/index.m3u8
-#EXTINF:-1 tvg-logo="",ON TV
+#EXTINF:-1 tvg-logo="",On TV
 https://mumt03.tangotv.in/ONTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Only Bharat
+https://mumt02.tangotv.in/AMVNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="",Orange Bangla
 https://mumt03.tangotv.in/ORANGEBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="",Oscar Movies Bhojpuri
@@ -565,12 +579,16 @@ https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8
 https://mumt02.tangotv.in/PUNJABITV/index.m3u8
 #EXTINF:-1 tvg-logo="",Puthiya Thalaimurai
 https://mumt02.tangotv.in/PUTHIYATHALAIMURAI/index.m3u8
+#EXTINF:-1 tvg-logo="",Puthiya Thalaimurai Express
+https://mumt02.tangotv.in/PUTHIYAEXPRESS/index.m3u8
 #EXTINF:-1 tvg-logo="",Puthuyugam TV
 https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-logo="",R Plus
 https://mumt05.tangotv.in/RPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="",R Plus Gold
 https://mumt03.tangotv.in/RPLUSGOLD/index.m3u8
+#EXTINF:-1 tvg-logo="",Raftaar Media
+https://mumt04.tangotv.in/RAFTAARMEDIA/index.m3u8
 #EXTINF:-1 tvg-logo="",Ragni TV
 https://mumt04.tangotv.in/RAGNITV/index.m3u8
 #EXTINF:-1 tvg-logo="",Raj Musix Kannada
