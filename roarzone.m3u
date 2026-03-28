@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="Sports",Gazi TV HD (1)
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=bk/1
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="Sports",Gazi TV HD (2)
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/gazi
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="Sports",Gazi TV HD
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvZ2F6aQ==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/3.png" group-title="Bengali",Banglavision TV
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/banglavision
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/5.png" group-title="Bengali",Channel 24
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/channel-24
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvYmFuZ2xhdmlzaW9u&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/6.png" group-title="Bengali",Channel I
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/channel-i
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTMvY2hhbm5lbC1p&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/7.png" group-title="Bengali",DBC News
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/dbc
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/8.png" group-title="Bengali",Deepto TV
@@ -34,9 +30,9 @@ https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-3-hd
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/24.png" group-title="Sports",Sony Sports Ten 5 HD
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/sony-sports-5-hd
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="Sports",Star Sports 1 HD
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-1
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMQ==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/26.png" group-title="Sports",Star Sports 2 HD
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-2
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvc3Rhci1zcG9ydHMtMg==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="Sports",Star Sports Select 1 HD
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/star-sports-select-1
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/28.png" group-title="Sports",Star Sports Select 2 HD
@@ -65,9 +61,7 @@ https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/discovery-hd
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/sony-bbc-earth-hd
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/49.png" group-title="Bengali",ATN News
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/atn-news
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/51.png" group-title="Bengali",Maasranga TV HD (1)
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=bk/2
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/51.png" group-title="Bengali",Maasranga TV HD (2)
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/51.png" group-title="Bengali",Maasranga TV
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/mashraga
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/53.png" group-title="Bengali",BTV
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=bk/53
@@ -102,7 +96,7 @@ https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/zee-bollywood
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/100.png" group-title="Hindi",&pictures UK
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/pictures-hd
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="Sports",TSports
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/tsports
+http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/add-sports-1.png" group-title="Sports",A Sports HD
 https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge2/a-sports
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="Sports",Eurosport HD
