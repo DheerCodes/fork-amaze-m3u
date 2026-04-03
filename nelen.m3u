@@ -11,7 +11,7 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30da751b70f05b5297d18d0c33c29f0c:86796e309d13495992282149f0957f74
 https://login.bheem.tv/bpk-tv/22076/output/index.mpd?
-#EXTINF:-1 tvg-id="22094" tvg-logo="" group-title="Telugu Local",Bheem TV
+#EXTINF:-1 tvg-id="22094" tvg-logo="https://cms.bheem.tv/v1/imageresize/w_1280/h_720/fill/%2Fmount%2Fimages%2Fteplay%2F639323d7e97311c2278a6a40%2Fen%2FLandscape%2FHYiJrwEaaDdMce71680856930.png" group-title="Telugu Local",Bheem TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea072aefcd425db8b131332605228b37:23f613713818e2974f2e6bafc10d5c3d
 https://login.bheem.tv/bpk-tv/22094/output/index.mpd?
