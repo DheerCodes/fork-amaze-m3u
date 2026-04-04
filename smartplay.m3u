@@ -1,121 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NTVTELUGU" tvg-chno="1" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_1_1720509115.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",NTV FHD
+#EXTINF:-1 tvg-id="NTVTELUGU" tvg-chno="1" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_1_1720509115.png" tvg-language="te" group-title="Telugu News",NTV FHD
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
-#EXTINF:-1 tvg-id="BIGTV" tvg-chno="2" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_2_1734957616.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",BIG TV FHD
+#EXTINF:-1 tvg-id="BIGTV" tvg-chno="2" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_2_1734957616.png" tvg-language="te" group-title="Telugu News",BIG TV FHD
 https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_3_1720070827.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",TV5 News FHD
+#EXTINF:-1 tvg-id="3" tvg-chno="3" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_3_1720070827.png" tvg-language="te" group-title="Telugu News",TV5 News FHD
 https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
-#EXTINF:-1 tvg-id="SakshiTV" tvg-chno="5" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C5-1758277814.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",10TV FHD
+#EXTINF:-1 tvg-id="SakshiTV" tvg-chno="5" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C5-1758277814.png" tvg-language="te" group-title="Telugu News",10TV FHD
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
-#EXTINF:-1 tvg-id="ABNAJ" tvg-chno="6" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_6_1743505456.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",ABN FHD
+#EXTINF:-1 tvg-id="ABNAJ" tvg-chno="6" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_6_1743505456.png" tvg-language="te" group-title="Telugu News",ABN FHD
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
-#EXTINF:-1 tvg-id="CVRNEWS" tvg-chno="7" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_7_1720509266.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",CVR News HD
+#EXTINF:-1 tvg-id="CVRNEWS" tvg-chno="7" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_7_1720509266.png" tvg-language="te" group-title="Telugu News",CVR News HD
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_8_1743505433.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",Swatantra TV
+#EXTINF:-1 tvg-id="8" tvg-chno="8" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_8_1743505433.png" tvg-language="te" group-title="Telugu News",Swatantra TV
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="ETVAP" tvg-chno="9" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_9_1743505575.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV Andhra Pradesh FHD
 https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_10_1743505786.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",Prime 9 FHD
+#EXTINF:-1 tvg-id="10" tvg-chno="10" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_10_1743505786.png" tvg-language="te" group-title="Telugu News",Prime 9 FHD
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_11_1720509737.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",Mahaa News HD
+#EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_11_1720509737.png" tvg-language="te" group-title="Telugu News",Mahaa News HD
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
-#EXTINF:-1 tvg-id="HMTV" tvg-chno="12" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_12_1720509822.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",HMTV
+#EXTINF:-1 tvg-id="HMTV" tvg-chno="12" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_12_1720509822.png" tvg-language="te" group-title="Telugu News",HMTV
 https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_13_1743505811.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",T News
+#EXTINF:-1 tvg-id="13" tvg-chno="13" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_13_1743505811.png" tvg-language="te" group-title="Telugu News",T News
 https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
-#EXTINF:-1 tvg-id="V6NEWS" tvg-chno="14" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_14_1743505265.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",V6 News HD
+#EXTINF:-1 tvg-id="V6NEWS" tvg-chno="14" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_14_1743505265.png" tvg-language="te" group-title="Telugu News",V6 News HD
 https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",6TV
+#EXTINF:-1 tvg-id="16" tvg-chno="16" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png" tvg-language="te" group-title="Telugu News",6TV
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
-#EXTINF:-1 tvg-id="TV6" tvg-chno="18" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C18-1770974878.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",TV6
+#EXTINF:-1 tvg-id="TV6" tvg-chno="18" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C18-1770974878.png" tvg-language="te" group-title="Telugu Local",TV6
 https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
-#EXTINF:-1 tvg-id="113" tvg-chno="21" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_113_1721195229.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV TELANGANA
+#EXTINF:-1 tvg-id="99TV" tvg-chno="20" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_16_1737294281.png" tvg-language="te" group-title="Telugu News",6TV
+https://mumbai-edge.smartplaytv.in/99tv/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-chno="21" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_113_1721195229.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV TELANGANA
 https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
-#EXTINF:-1 tvg-id="134" tvg-chno="22" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_114_1743505617.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",I News
+#EXTINF:-1 tvg-id="134" tvg-chno="22" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_114_1743505617.png" tvg-language="te" group-title="Telugu News",I News
 https://mumbai-edge.smartplaytv.in/INews/index.m3u8
-#EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_450_1721195523.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_6_1692909742.png" group-title="Telugu News",CVR English News
+#EXTINF:-1 tvg-id="23" tvg-chno="23" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_450_1721195523.png" tvg-language="te" group-title="Telugu News",CVR English News
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
-#EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_19_1721195667.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",SSLC Mulitiplex  70mm
+#EXTINF:-1 tvg-id="24" tvg-chno="24" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_19_1721195667.png" tvg-language="te" group-title="Telugu Entertainment",SSLC Mulitiplex  70mm
 https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8
-#EXTINF:-1 tvg-id="25" tvg-chno="25" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_20_1721192955.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",Bathukamma TV
+#EXTINF:-1 tvg-id="25" tvg-chno="25" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_20_1721192955.png" tvg-language="te" group-title="Telugu Entertainment",Bathukamma TV
 https://mumbai-edge.smartplaytv.in/BathukammaTV/index.m3u8
-#EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_21_1721196619.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",RKTV
+#EXTINF:-1 tvg-id="26" tvg-chno="26" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C26-1768576004.png" tvg-language="te" group-title="Telugu Entertainment",RKTV
 https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-chno="27" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_22_1721196187.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",SVC
-https://mumbai-edge.smartplaytv.in/SVC/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-chno="28" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_23_1721196109.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",SSLC Gold (Free)
+#EXTINF:-1 tvg-id="KTVNEWS" tvg-chno="27" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C27-1774968658.png" tvg-language="te" group-title="Telugu Local",KTV News
+https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-chno="28" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_23_1721196109.png" tvg-language="te" group-title="Telugu Entertainment",SSLC Gold (Free)
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_24_1721195960.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",SSLC Cinemalu (Free)
+#EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_24_1721195960.png" tvg-language="te" group-title="Telugu Entertainment",SSLC Cinemalu (Free)
 https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_25_1744023786.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",BCT Classic
+#EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_25_1744023786.png" tvg-language="te" group-title="Telugu Entertainment",BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C31-1765071127.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",VCN HD
+#EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C31-1765071127.png" tvg-language="te" group-title="Telugu Entertainment",VCN HD
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_27_1721196423.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",Kathalu
+#EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C32-1768575915.png" tvg-language="te" group-title="Telugu Entertainment",Kathalu
 https://mumbai-edge.smartplaytv.in/SSLCKathalu/index.m3u8
-#EXTINF:-1 tvg-id="VinodamHD" tvg-chno="33" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_28_1728551092.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",Vinodam HD
+#EXTINF:-1 tvg-id="VinodamHD" tvg-chno="33" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_28_1728551092.png" tvg-language="te" group-title="Telugu Entertainment",Vinodam HD
 https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-chno="34" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_29_1721196550.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",2 Telugu (Free)
+#EXTINF:-1 tvg-id="34" tvg-chno="34" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_29_1721196550.png" tvg-language="te" group-title="Telugu Entertainment",2 Telugu (Free)
 https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8
-#EXTINF:-1 tvg-id="MAX" tvg-chno="35" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_30_1730975370.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",MAHA MAX
+#EXTINF:-1 tvg-id="MAX" tvg-chno="35" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_30_1730975370.png" tvg-language="te" group-title="Telugu Entertainment",MAHA MAX
 https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-chno="36" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_31_1738393726.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",DS9 News
+#EXTINF:-1 tvg-id="36" tvg-chno="36" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C36-1763644980.png" tvg-language="te" group-title="Telugu Entertainment",DS9 News
 https://mumbai-edge.smartplaytv.in/DS9/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-chno="37" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_449_1721197140.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",CVR Health
+#EXTINF:-1 tvg-id="37" tvg-chno="37" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_449_1721197140.png" tvg-language="te" group-title="Telugu Entertainment",CVR Health
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
-#EXTINF:-1 tvg-id="VanithaTV" tvg-chno="38" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_454_1728551126.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",Vanitha TV
+#EXTINF:-1 tvg-id="VanithaTV" tvg-chno="38" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_454_1728551126.png" tvg-language="te" group-title="Telugu Entertainment",Vanitha TV
 https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-chno="39" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_470_1722748654.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",S9 News
-https://mumbai-edge.smartplaytv.in/S9News/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-chno="40" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_471_1735830425.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",BCT News
-https://mumbai-edge.smartplaytv.in/BCTNews/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-chno="41" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_472_1748355012.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_7_1692909714.png" group-title="Telugu Entertainment",Shreyas TV
-https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-chno="42" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_42_1721197005.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",SD TV
-https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
-#EXTINF:-1 tvg-id="People Media Point" tvg-chno="43" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C43-1754487145.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",People Media Point
-https://mumbai-edge.smartplaytv.in/PeopleMediaPoint/index.m3u8
-#EXTINF:-1 tvg-id="GEETV" tvg-chno="44" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_34_1721672377.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Gee TV
+#EXTINF:-1 tvg-id="39" tvg-chno="39" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C39-1774421013.png" tvg-language="te" group-title="Telugu Local",Gee TV - Voice of AP
 https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-chno="45" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_35_1721196906.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Tirumala
+#EXTINF:-1 tvg-id="40" tvg-chno="40" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_471_1735830425.png" tvg-language="te" group-title="Telugu Entertainment",BCT News
+https://mumbai-edge.smartplaytv.in/BCTNews/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-chno="41" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_472_1748355012.png" tvg-language="te" group-title="Telugu Entertainment",Shreyas TV
+https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-chno="42" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_42_1721197005.png" tvg-language="te" group-title="Telugu Local",SD TV
+https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
+#EXTINF:-1 tvg-id="CityNewsTelugu" tvg-chno="43" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C43-1772102300.png" tvg-language="te" group-title="Telugu Local",City News Telugu
+https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
+#EXTINF:-1 tvg-id="S9CHANNEL" tvg-chno="44" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C44-1774421077.png" tvg-language="te" group-title="Telugu Local",S9 Channel
+https://mumbai-edge.smartplaytv.in/S9News/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-chno="45" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_35_1721196906.png" tvg-language="te" group-title="Telugu Local",Tirumala
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-chno="46" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_462_1735827728.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Maa Cable
+#EXTINF:-1 tvg-id="46" tvg-chno="46" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_462_1735827728.png" tvg-language="te" group-title="Telugu Local",Maa Cable
 https://mumbai-edge.smartplaytv.in/MaaCable/index.m3u8
-#EXTINF:-1 tvg-id="NEWS9" tvg-chno="47" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C315-1770199375.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",News 9 Today Telugu
+#EXTINF:-1 tvg-id="NEWS9" tvg-chno="47" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C315-1770199375.png" tvg-language="te" group-title="Telugu Local",News 9 Today Telugu
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
-#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_38_1735827949.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",BCT Movies
+#EXTINF:-1 tvg-id="48" tvg-chno="48" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_38_1735827949.png" tvg-language="te" group-title="Telugu Local",BCT Movies
 https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
-#EXTINF:-1 tvg-id="PCN HD" tvg-chno="49" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C49-1760169213.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Anjali TV HD
+#EXTINF:-1 tvg-id="PCN HD" tvg-chno="49" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C49-1760169213.png" tvg-language="te" group-title="Telugu Local",Anjali TV HD
 https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C50-1763884010.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",AB NEWS
+#EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C50-1763884010.png" tvg-language="te" group-title="Telugu Local",AB NEWS
 https://mumbai-edge.smartplaytv.in/ABNews/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1760169524.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Reshya TV
+#EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1760169524.png" tvg-language="te" group-title="Telugu Local",Reshya TV
 https://mumbai-edge.smartplaytv.in/ReshyaTV/index.m3u8
-#EXTINF:-1 tvg-id="HYDECCAN" tvg-chno="52" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C052-1772102864.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Deccan Today Telugu
+#EXTINF:-1 tvg-id="HYDECCAN" tvg-chno="52" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C052-1772102864.png" tvg-language="te" group-title="Telugu Local",Deccan Today Telugu
 https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8
-#EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C53-1769000628.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",TG5 News
+#EXTINF:-1 tvg-id="53" tvg-chno="53" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C53-1769000628.png" tvg-language="te" group-title="Telugu Local",TG5 News
 https://mumbai-edge.smartplaytv.in/TG5/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-chno="54" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C54-1770198675.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",INB TODAY
+#EXTINF:-1 tvg-id="54" tvg-chno="54" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C54-1770198675.png" tvg-language="te" group-title="Telugu Local",INB TODAY
 https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
-#EXTINF:-1 tvg-id="INDIAN_REPUBLIC_TV" tvg-chno="55" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C55-1763884086.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",INDIAN REPUBLIC TV
+#EXTINF:-1 tvg-id="INDIAN_REPUBLIC_TV" tvg-chno="55" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C55-1763884086.png" tvg-language="te" group-title="Telugu Local",INDIAN REPUBLIC TV
 https://mumbai-edge.smartplaytv.in/IRMedia/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-chno="56" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C56-1760173140.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_2_1692909952.png" group-title="Hindu Devotional",Maha Bhakthi
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-chno="57" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_47_1715845510.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Shakthi TV
+#EXTINF:-1 tvg-id="57" tvg-chno="57" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_47_1715845510.png" tvg-language="te" group-title="Telugu Local",Shakthi TV
 https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
-#EXTINF:-1 tvg-id="58" tvg-chno="58" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_48_1715845457.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Shakthi TV
+#EXTINF:-1 tvg-id="58" tvg-chno="58" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_48_1715845457.png" tvg-language="te" group-title="Telugu Local",
 https://mumbai-edge.smartplaytv.in/FAndH/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-chno="59" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_49_1727518055.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_2_1692909952.png" group-title="Hindu Devotional",PMC
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
-#EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C60-1770307644.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",NSTV
+#EXTINF:-1 tvg-id="60" tvg-chno="60" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C60-1770307644.png" tvg-language="te" group-title="Telugu Local",NSTV
 https://mumbai-edge.smartplaytv.in/NSTV/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_467_1735829116.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",BCT Keerthana
+#EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_467_1735829116.png" tvg-language="te" group-title="Telugu Local",BCT Keerthana
 https://mumbai-edge.smartplaytv.in/BCTKeerthana/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-chno="63" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C63-1763645023.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",DS9 Entertainment
+#EXTINF:-1 tvg-id="63" tvg-chno="63" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C63-1763645023.png" tvg-language="te" group-title="Telugu Local",DS9 Entertainment
 https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8
-#EXTINF:-1 tvg-id="GARUDATV" tvg-chno="64" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C64-1767857123.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Garuda TV
+#EXTINF:-1 tvg-id="GARUDATV" tvg-chno="64" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C64-1767857123.png" tvg-language="te" group-title="Telugu Local",Garuda TV
 https://mumbai-edge.smartplaytv.in/GarudaTV/index.m3u8
-#EXTINF:-1 tvg-id="65" tvg-chno="65" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_486_1735830584.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",BCT Music
+#EXTINF:-1 tvg-id="65" tvg-chno="65" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_486_1735830584.png" tvg-language="te" group-title="Telugu Local",BCT Music
 https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
 #EXTINF:-1 tvg-id="66" tvg-chno="66" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_51_1721211096.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",SSLC Janapadlu (Free)
 https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
@@ -127,31 +129,31 @@ https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
 #EXTINF:-1 tvg-id="RKBHAKTHITV" tvg-chno="71" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-71-1753712175.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_2_1692909952.png" group-title="Hindu Devotional",RK Bhakthi TV
 https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
-#EXTINF:-1 tvg-id="SRKNEWS" tvg-chno="72" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_487_1722748309.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",SRK News
+#EXTINF:-1 tvg-id="SRKNEWS" tvg-chno="72" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_487_1722748309.png" tvg-language="te" group-title="Telugu Local",SRK News
 https://mumbai-edge.smartplaytv.in/SRKNews/index.m3u8
-#EXTINF:-1 tvg-id="BCNCHANNEL" tvg-chno="73" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C73-1765374654.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",BCN CHANNEL
+#EXTINF:-1 tvg-id="BCNCHANNEL" tvg-chno="73" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C73-1765374654.png" tvg-language="te" group-title="Telugu Local",BCN CHANNEL
 https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
-#EXTINF:-1 tvg-id="MYTV" tvg-chno="74" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C74-1762845018.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",MYTV FHD
+#EXTINF:-1 tvg-id="MYTV" tvg-chno="74" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C74-1762845018.png" tvg-language="te" group-title="Telugu Local",MYTV FHD
 https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-chno="75" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_494_1748355672.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",Shreyas Music
 https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
-#EXTINF:-1 tvg-id="LOCALTVHD" tvg-chno="76" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C76-1765071691.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Local TV News
+#EXTINF:-1 tvg-id="LOCALTVHD" tvg-chno="76" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C76-1765071691.png" tvg-language="te" group-title="Telugu Local",Local TV News
 https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-chno="81" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C70-1770396319.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",J News
+#EXTINF:-1 tvg-id="81" tvg-chno="81" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C70-1770396319.png" tvg-language="te" group-title="Telugu Local",J News
 https://mumbai-edge.smartplaytv.in/JNews/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-chno="90" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_32_1721200720.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",SV6
+#EXTINF:-1 tvg-id="52" tvg-chno="90" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_32_1721200720.png" tvg-language="te" group-title="Telugu Local",SV6
 https://mumbai-edge.smartplaytv.in/SV6/index.m3u8
-#EXTINF:-1 tvg-id="97" tvg-chno="97" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C62-1770381116.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Vee9 News
+#EXTINF:-1 tvg-id="97" tvg-chno="97" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C62-1770381116.png" tvg-language="te" group-title="Telugu Local",Vee9 News
 https://mumbai-edge.smartplaytv.in/Vee9/index.m3u8
-#EXTINF:-1 tvg-id="TG24" tvg-chno="130" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C130-1770987944.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",TG24 TV
+#EXTINF:-1 tvg-id="TG24" tvg-chno="130" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C130-1770987944.png" tvg-language="te" group-title="Telugu Local",TG24 TV
 https://mumbai-edge.smartplaytv.in/TG24TV/index.m3u8
 #EXTINF:-1 tvg-id="131" tvg-chno="131" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_111_1721408142.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV HD
 https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
 #EXTINF:-1 tvg-id="132" tvg-chno="132" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_112_1721408385.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV Plus
 https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
-#EXTINF:-1 tvg-id="E69News" tvg-chno="133" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0133-1770988296.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",E69 News
+#EXTINF:-1 tvg-id="E69News" tvg-chno="133" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0133-1770988296.png" tvg-language="te" group-title="Telugu Local",E69 News
 https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
-#EXTINF:-1 tvg-id="BAHUJANATV" tvg-chno="134" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0134-1770989093.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Bahujana News TV
+#EXTINF:-1 tvg-id="BAHUJANATV" tvg-chno="134" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0134-1770989093.png" tvg-language="te" group-title="Telugu Local",Bahujana News TV
 https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8
 #EXTINF:-1 tvg-id="135" tvg-chno="135" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_115_1721408224.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV Abhiruchi
 https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
@@ -159,9 +161,9 @@ https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 #EXTINF:-1 tvg-id="139" tvg-chno="139" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_119_1721408512.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_22_1692911061.png" group-title="Eenadu Network (ETV WIN)",ETV Cinema
 https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="AN" tvg-chno="140" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0140-1770986726.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Akshara News
+#EXTINF:-1 tvg-id="AN" tvg-chno="140" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0140-1770986726.png" tvg-language="te" group-title="Telugu Local",Akshara News
 https://mumbai-edge.smartplaytv.in/AksharaNews/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-chno="141" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C141-1771242610.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",A1TV TELUGU NEWS
+#EXTINF:-1 tvg-id="141" tvg-chno="141" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C141-1771242610.png" tvg-language="te" group-title="Telugu Local",A1TV TELUGU NEWS
 https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
 #EXTINF:-1 tvg-id="BHAKTI" tvg-chno="143" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_123_1721310317.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_2_1692909952.png" group-title="Hindu Devotional",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
@@ -171,13 +173,13 @@ https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-chno="146" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_126_1721309978.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_2_1692909952.png" group-title="Hindu Devotional",Aastha Telugu
 https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
-#EXTINF:-1 tvg-id="147" tvg-chno="147" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C149-1765072335.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",PCN HD
+#EXTINF:-1 tvg-id="147" tvg-chno="147" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C149-1765072335.png" tvg-language="te" group-title="Telugu Local",PCN HD
 https://mumbai-edge.smartplaytv.in/PCNHD/index.m3u8
 #EXTINF:-1 tvg-id="148" tvg-chno="148" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C148-1765072489.png" tvg-language="hi" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_13_1692911921.png" group-title="Urdu Channels",MunsifTV
 https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
-#EXTINF:-1 tvg-id="S90NEWS" tvg-chno="151" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0151-1770989606.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",S90 News
+#EXTINF:-1 tvg-id="S90NEWS" tvg-chno="151" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0151-1770989606.png" tvg-language="te" group-title="Telugu Local",S90 News
 https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
-#EXTINF:-1 tvg-id="160" tvg-chno="160" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C160-1765072598.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",SUPER TV
+#EXTINF:-1 tvg-id="160" tvg-chno="160" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C160-1765072598.png" tvg-language="te" group-title="Telugu Local",SUPER TV
 https://mumbai-edge.smartplaytv.in/supertv/index.m3u8
 #EXTINF:-1 tvg-id="DIVYAVANI" tvg-chno="161" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_497_1725878052.png" tvg-language="te" group-title="Christian Devotional",Divyavani
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
@@ -211,29 +213,29 @@ https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/BeepBeep/index.m3u8
 #EXTINF:-1 tvg-id="192" tvg-chno="192" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_167_1722074469.png" tvg-language="en" group-title="Kids",The LEGO
 https://mumbai-edge.smartplaytv.in/TheLego/index.m3u8
-#EXTINF:-1 tvg-id="MEENEWS" tvg-chno="198" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C198-1771157316.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Mee TV News
+#EXTINF:-1 tvg-id="MEENEWS" tvg-chno="198" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C198-1771157316.png" tvg-language="te" group-title="Telugu Local",Mee TV News
 https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8
 #EXTINF:-1 tvg-id="199" tvg-chno="199" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_174_1749057163.png" tvg-language="hi" group-title="Hindi Entertainment",Shemaroo Bollywood
 https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8
-#EXTINF:-1 tvg-id="200" tvg-chno="200" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C200-1768907242.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",BJTV
+#EXTINF:-1 tvg-id="200" tvg-chno="200" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C200-1768907242.png" tvg-language="te" group-title="Telugu Local",BJTV
 https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8
-#EXTINF:-1 tvg-id="Awaaz News" tvg-chno="201" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C201-1771828232.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",DNB NEWS
+#EXTINF:-1 tvg-id="Awaaz News" tvg-chno="201" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C201-1771828232.png" tvg-language="te" group-title="Telugu Local",DNB NEWS
 https://mumbai-edge.smartplaytv.in/DNBNEWS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",DNB NEWS
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-title="Telugu Local",DNB NEWS
 https://mumbai-edge.smartplaytv.in/AWAAZNEWS/index.m3u8
-#EXTINF:-1 tvg-id="PSNEWS" tvg-chno="206" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0206-1771497542.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",PS NEWS
+#EXTINF:-1 tvg-id="PSNEWS" tvg-chno="206" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0206-1771497542.png" tvg-language="te" group-title="Telugu Local",PS NEWS
 https://mumbai-edge.smartplaytv.in/PSNEWS/index.m3u8
-#EXTINF:-1 tvg-id="EYETV" tvg-chno="207" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0207-1771497724.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",EYE TV
+#EXTINF:-1 tvg-id="EYETV" tvg-chno="207" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0207-1771497724.png" tvg-language="te" group-title="Telugu Local",EYE TV
 https://mumbai-edge.smartplaytv.in/EYETV/index.m3u8
-#EXTINF:-1 tvg-id="N24NEWS" tvg-chno="208" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0208-1772616127.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",N24 News
+#EXTINF:-1 tvg-id="N24NEWS" tvg-chno="208" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0208-1772616127.png" tvg-language="te" group-title="Telugu Local",N24 News
 https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
-#EXTINF:-1 tvg-id="IVIEW" tvg-chno="209" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0209-1772698494.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",I VIEW
+#EXTINF:-1 tvg-id="IVIEW" tvg-chno="209" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0209-1772698494.png" tvg-language="te" group-title="Telugu Local",I VIEW
 https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
-#EXTINF:-1 tvg-id="CKNEWS" tvg-chno="210" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0211-1772700646.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",CK NEWS
+#EXTINF:-1 tvg-id="CKNEWS" tvg-chno="210" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0211-1772700646.png" tvg-language="te" group-title="Telugu Local",CK NEWS
 https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
-#EXTINF:-1 tvg-id="BV9" tvg-chno="211" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0210-1771828430.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",BV9 News
+#EXTINF:-1 tvg-id="BV9" tvg-chno="211" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0210-1771828430.png" tvg-language="te" group-title="Telugu Local",BV9 News
 https://mumbai-edge.smartplaytv.in/BV9NEWS/index.m3u8
-#EXTINF:-1 tvg-id="TIME2TIME" tvg-chno="212" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0212-1771308915.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Time 2 Time
+#EXTINF:-1 tvg-id="TIME2TIME" tvg-chno="212" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0212-1771308915.png" tvg-language="te" group-title="Telugu Local",Time 2 Time
 https://mumbai-edge.smartplaytv.in/Time2Time/index.m3u8
 #EXTINF:-1 tvg-id="213" tvg-chno="213" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2130-1770523570.png" tvg-language="hi" group-title="Hindi Entertainment",The Movie Club
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
@@ -241,7 +243,7 @@ https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 #EXTINF:-1 tvg-id="224" tvg-chno="224" tvg-logo="" tvg-language="hi" group-title="Hindi Entertainment",ABZY Movies
 https://mumbai-edge.smartplaytv.in/ABZYMovies/index.m3u8
-#EXTINF:-1 tvg-id="IBTV" tvg-chno="229" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C229-1771247401.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",IBTV TELUGU
+#EXTINF:-1 tvg-id="IBTV" tvg-chno="229" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C229-1771247401.png" tvg-language="te" group-title="Telugu Local",IBTV TELUGU
 https://mumbai-edge.smartplaytv.in/IBTV/index.m3u8
 #EXTINF:-1 tvg-id="236" tvg-chno="236" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_201_1722076488.png" tvg-language="en" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",Only Music
 https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8
@@ -287,8 +289,6 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
 #EXTINF:-1 tvg-id="STUDIO18" tvg-chno="315" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C47-1773837122.png" tvg-language="te" group-title="Telugu Local",STUDIO 18
 https://mumbai-edge.smartplaytv.in/Studio18/index.m3u8
-#EXTINF:-1 tvg-id="CITYNEWSTELUGU" tvg-chno="315" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_37_1729844134.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",City News Telugu
-https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
 #EXTINF:-1 tvg-id="318" tvg-chno="318" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C318-1765979431.png" tvg-language="ta" group-title="Tamil Entertainment",Sana Plus HD
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="323" tvg-chno="323" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_266_1735022512.png" tvg-language="kn" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",Public Music Kannada
@@ -313,7 +313,7 @@ https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 https://mumbai-edge.smartplaytv.in/HorizonSports/index.m3u8
 #EXTINF:-1 tvg-id="DD_madhy_Pradesh" tvg-chno="351" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C433-1759776438.png" tvg-language="hi" group-title="Hindi Entertainment",DD madhya pradesh
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
-#EXTINF:-1 tvg-id="SIRI_TV" tvg-chno="352" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C360-1770631624.png" tvg-language="en" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Janam Sakshi
+#EXTINF:-1 tvg-id="SIRI_TV" tvg-chno="352" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C360-1770631624.png" tvg-language="en" group-title="Telugu Local",Janam Sakshi
 https://mumbai-edge.smartplaytv.in/JanamSakshi/index.m3u8
 #EXTINF:-1 tvg-id="353" tvg-chno="353" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_291_1721039186.png" tvg-language="en" group-title="Wild Animals",Wild Earth
 https://mumbai-edge.smartplaytv.in/wildearth/index.m3u8
@@ -321,7 +321,7 @@ https://mumbai-edge.smartplaytv.in/wildearth/index.m3u8
 https://mumbai-edge.smartplaytv.in/inwild/index.m3u8
 #EXTINF:-1 tvg-id="356" tvg-chno="356" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C356-1762592948.png" tvg-language="en" group-title="Wild Animals",Love Nature
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-id="359" tvg-chno="359" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C359-1770190529.png" tvg-language="en" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Hyderabad Express
+#EXTINF:-1 tvg-id="359" tvg-chno="359" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C359-1770190529.png" tvg-language="en" group-title="Telugu Local",Hyderabad Express
 https://mumbai-edge.smartplaytv.in/HyderabadExpress/index.m3u8
 #EXTINF:-1 tvg-id="TEAMUSA" tvg-chno="360" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C0361-1770661670.png" tvg-language="en" group-title="Sports",Team USA
 https://mumbai-edge.smartplaytv.in/TeamUSA/index.m3u8
@@ -363,7 +363,7 @@ https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 https://mumbai-edge.smartplaytv.in/vedhatv/index.m3u8
 #EXTINF:-1 tvg-id="490" tvg-chno="490" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_407_1716028072.png" tvg-language="ta" group-title="Tamil News",Jaya PLus
 https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
-#EXTINF:-1 tvg-id="564" tvg-chno="564" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C564-1761662323.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",ACN TV
+#EXTINF:-1 tvg-id="564" tvg-chno="564" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C564-1761662323.png" tvg-language="te" group-title="Telugu Local",ACN TV
 https://mumbai-edge.smartplaytv.in/acn/index.m3u8
 #EXTINF:-1 tvg-id="581" tvg-chno="581" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_448_1717154009.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_2_1692909952.png" group-title="Hindu Devotional",CVR OM
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
@@ -435,7 +435,7 @@ https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8
 #EXTINF:-1 tvg-id="904" tvg-chno="904" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C904-1771579427.png" tvg-language="en" group-title="ODIYA CHANNELS",DD ODIYA
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
-#EXTINF:-1 tvg-id="C906" tvg-chno="907" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C907-1760172306.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",MTV
+#EXTINF:-1 tvg-id="C906" tvg-chno="907" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C907-1760172306.png" tvg-language="te" group-title="Telugu Local",MTV
 https://mumbai-edge.smartplaytv.in/MTV/index.m3u8
 #EXTINF:-1 tvg-id="ABP Majha" tvg-chno="910" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_482_1722056498.png" tvg-language="mr" group-title="45",ABP Majha
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
@@ -469,7 +469,7 @@ https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 #EXTINF:-1 tvg-id="DS9 Kathalu" tvg-chno="2006" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2006-1770460706.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_15_1692909886.png" group-title="Music Channels",DS9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-chno="" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_488_1726319141.png" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",Rapid Media
+#EXTINF:-1 tvg-id="73" tvg-chno="" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_488_1726319141.png" tvg-language="te" group-title="Telugu Local",Rapid Media
 https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-logo="http://casomsapi.smartmobiletv.in/uploads/categories/category_14_1692909810.png" group-title="Telugu Local",GS Grameena
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-title="Telugu Local",GS Grameena
 https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
