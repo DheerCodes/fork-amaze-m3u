@@ -53,3 +53,15 @@ http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 http://ajkiptv.ridsys.in/riptv/live/AJK_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png",Auro High Definition
 http://ptuf.ridsys.in/riptv/live/AURO_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Sarah Movie HD
+http://ajkiptv.ridsys.in/riptv/live/SARAH_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540",Vasanth TV
+http://ajkiptv.ridsys.in/riptv/live/VASANTH_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540",Polimer News
+http://ajkiptv.ridsys.in/riptv/live/POLIMER_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UjlbR4o.png",News 7 Tamil
+http://ptuf.ridsys.in/riptv/live/NEWS_7_TAMIL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png",Sun Gemini
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3MWm9nD.png",Vijay Super
+http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
