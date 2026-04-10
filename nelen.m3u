@@ -87,6 +87,10 @@ https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ef0ac2ffe7c56bc9873740402bff248:c1f453a5367057e62a0242d5228e765a
 https://login.bheem.tv/bpk-tv/22431/output/index.mpd?
+#EXTINF:-1 tvg-id="22436" tvg-logo="https://dtil.tmsimg.com/assets/s143693_ld_h15_aa.png?lock=720x540" group-title="Tamil Entertainment",Puthu Yugam
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fea2415c80885ec19609665c8bbbd62c:55a5f420b2ed2b3c9cf408c9c18bb567
+https://login.bheem.tv/bpk-tv/22436/output/index.mpd?
 #EXTINF:-1 tvg-id="22602" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b7de008a1685b9fa1aa9e0b8d5cac0a:9ae9aef552a4182de0eb9ab2fae86a17
