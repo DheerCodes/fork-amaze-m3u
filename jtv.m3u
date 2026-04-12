@@ -628,13 +628,13 @@ http://103.180.212.191:3500/live/817.m3u8
 #EXTINF:-1 tvg-id="824" tvg-name="Puthu Yugam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Puthu_Yugam.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Puthu Yugam
 https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="826" tvg-name="Malaimurasu Seithigal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Malai_Murasu.png" tvg-language="Tamil" tvg-type="News" group-title="News", Malaimurasu Seithigal
-http://103.180.212.191:3500/live/826.m3u8
+https://live-cf-malaimurasu.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="Shubh TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubh_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Shubh TV
-http://103.180.212.191:3500/live/828.m3u8
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 #EXTINF:-1 tvg-id="829" tvg-name="Sri Sankara" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sri_Sankara.png" tvg-language="Kannada" tvg-type="Devotional" group-title="Devotional", Sri Sankara
-http://103.180.212.191:3500/live/829.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/SriSankara.m3u8
 #EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" tvg-language="Tamil" tvg-type="News" group-title="News", Thanthi TV
-http://103.180.212.191:3500/live/830.m3u8
+https://cdn-3.pishow.tv/live/1612/master.m3u8
 #EXTINF:-1 tvg-id="831" tvg-name="Living India News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Living_India_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Living India News
 http://103.180.212.191:3500/live/831.m3u8
 #EXTINF:-1 tvg-id="832" tvg-name="10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/10_TV.png" tvg-language="Telugu" tvg-type="News" group-title="News", 10 TV
