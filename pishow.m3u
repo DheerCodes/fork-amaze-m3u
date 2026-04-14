@@ -97,6 +97,8 @@ https://cdn-1.pishow.tv/live/262/master.m3u8
 https://cdn-7.pishow.tv/live/266/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",News 1st Kannada
 https://cdn-3.pishow.tv/live/268/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Utkrisht Samachar Plus UP/UK
+https://cdn-2.pishow.tv/live/269/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Republic Bangla
 https://cdn-4.pishow.tv/live/270/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Republic TV
@@ -129,8 +131,6 @@ https://cdn-6.pishow.tv/live/395/master.m3u8
 https://cdn-1.pishow.tv/live/397/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Mahaa News
 https://cdn-1.pishow.tv/live/401/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",Studio N News
-https://cdn-1.pishow.tv/live/403/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",ABN Andhra Jyoti
 https://cdn-1.pishow.tv/live/407/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Sakshi TV
@@ -161,6 +161,8 @@ https://cdn-7.pishow.tv/live/450/master.m3u8
 https://cdn-7.pishow.tv/live/453/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",NHK World Japan
 https://cdn-7.pishow.tv/live/455/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",Shubhsandesh TV
+https://cdn-2.pishow.tv/live/457/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Velicham TV
 https://cdn-3.pishow.tv/live/461/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Swadesh News
