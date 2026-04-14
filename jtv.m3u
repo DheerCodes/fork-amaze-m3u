@@ -2240,11 +2240,11 @@ http://103.180.212.191:3500/live/3470.m3u8
 #EXTINF:-1 tvg-id="3471" tvg-name="Punjabi Shorts" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PunjabiShorts.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", Punjabi Shorts
 http://103.180.212.191:3500/live/3471.m3u8
 #EXTINF:-1 tvg-id="3478" tvg-name="Stingray Classic Rock" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-101ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Classic Rock
-http://103.180.212.191:3500/live/3478.m3u8
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="3479" tvg-name="Stingray Greatest Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-155ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Greatest Hits
-http://103.180.212.191:3500/live/3479.m3u8
+https://lotus.stingray.com/ads/ose-155ads-montreal/lgchannels/master.m3u8
 #EXTINF:-1 tvg-id="3481" tvg-name="Stingray Cozy Cafe" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/cozycafe-400ads_cafe001-tokyo.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Cozy Cafe
-http://103.180.212.191:3500/live/3481.m3u8
+https://lotus.stingray.com/ads/cozycafe-400ads-montreal/lgchannels/master.m3u8
 #EXTINF:-1 tvg-id="3483" tvg-name="Amar Ujala" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/amarujala.png" tvg-language="Hindi" tvg-type="News" group-title="News", Amar Ujala
 https://amarujala.ottlive.co.in/amarujala/index.m3u8
 #EXTINF:-1 tvg-id="3484" tvg-name="The Hind24 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheHind24News.png" tvg-language="Hindi" tvg-type="News" group-title="News", The Hind24 News
