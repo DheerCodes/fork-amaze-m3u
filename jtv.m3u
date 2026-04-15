@@ -15,6 +15,8 @@ http://103.180.212.191:3500/live/156.m3u8
 http://103.180.212.191:3500/live/164.m3u8
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNTelugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Cartoon Network Telugu
 http://103.180.212.191:3500/live/166.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Zee TV HD
+http://103.180.212.191:3500/live/167.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Aastha
@@ -493,6 +495,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 http://103.180.212.191:3500/live/718.m3u8
 #EXTINF:-1 tvg-id="719" tvg-name="Nepal one" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nepal_one.png" tvg-language="Nepali" tvg-type="Entertainment" group-title="Entertainment", Nepal one
 https://mumt05.tangotv.in/NEPAL1/index.m3u8
+#EXTINF:-1 tvg-id="722" tvg-name="Zee Sarthak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" tvg-language="Odia" tvg-type="Entertainment" group-title="Entertainment", Zee Sarthak
+http://103.180.212.191:3500/live/722.m3u8
 #EXTINF:-1 tvg-id="723" tvg-name="Amrita TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amrita_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Entertainment", Amrita TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="724" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kalinga.png" tvg-language="Hindi" tvg-type="News" group-title="News", Zee Delhi NCR Haryana
