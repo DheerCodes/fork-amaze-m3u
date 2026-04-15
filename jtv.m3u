@@ -1748,7 +1748,7 @@ http://103.180.212.191:3500/live/3088.m3u8
 #EXTINF:-1 tvg-id="3090" tvg-name="KBC News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", KBC News
 http://103.180.212.191:3500/live/3090.m3u8
 #EXTINF:-1 tvg-id="3095" tvg-name="NDTV Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" tvg-language="Marathi" tvg-type="News" group-title="News", NDTV Marathi
-http://103.180.212.191:3500/live/3095.m3u8
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 #EXTINF:-1 tvg-id="3096" tvg-name="Star Gold 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold 2 HD
 http://103.180.212.191:3500/live/3096.m3u8
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Romance
@@ -1826,7 +1826,7 @@ http://103.180.212.191:3500/live/3141.m3u8
 #EXTINF:-1 tvg-id="3142" tvg-name="DD Sathee 7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_SATHEE_7.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 7
 http://103.180.212.191:3500/live/3142.m3u8
 #EXTINF:-1 tvg-id="3143" tvg-name="Mahaa Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahaa_Max.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Mahaa Max
-http://103.180.212.191:3500/live/3143.m3u8
+https://d8wpu6ewxtzy0.cloudfront.net/mahaamaxx/index.m3u8
 #EXTINF:-1 tvg-id="3145" tvg-name="DD Sathee 8" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_SATHEE_8.png" tvg-language="English" tvg-type="Educational" group-title="Educational", DD Sathee 8
 http://103.180.212.191:3500/live/3145.m3u8
 #EXTINF:-1 tvg-id="3146" tvg-name="All Women's Sports Network" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AWSN.png" tvg-language="English" tvg-type="Sports" group-title="Sports", All Women's Sports Network
