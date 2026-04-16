@@ -1562,7 +1562,7 @@ https://powertvkannada.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="2750" tvg-name="Saga Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Saga Music
 https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusic-lgin/playlist.m3u8
 #EXTINF:-1 tvg-id="2751" tvg-name="Saga Music Haryanvi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Saga Music Haryanvi
-http://103.180.212.191:3500/live/2751.m3u8
+https://amg00223-unisys-amg00223c4-lg-in-2049.playouts.now.amagi.tv/playlist/amg00223-sevencolorsbroadcastingprivatelimited-sagamusicharyanvi-lgin/playlist.m3u8
 #EXTINF:-1 tvg-id="2752" tvg-name="Ghaint Punjab" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ghaint_Punjab.png" tvg-language="Punjabi" tvg-type="Music" group-title="Music", Ghaint Punjab
 http://103.180.212.191:3500/live/2752.m3u8
 #EXTINF:-1 tvg-id="2753" tvg-name="YRF Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", YRF Music
@@ -2174,13 +2174,13 @@ http://103.180.212.191:3500/live/3405.m3u8
 #EXTINF:-1 tvg-id="3406" tvg-name="Metro TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/metrotv.png" tvg-language="Telugu" tvg-type="News" group-title="News", Metro TV
 https://ott.livelegitpro.in:9899/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="3409" tvg-name="Roja TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Roja TV
-http://103.180.212.191:3500/live/3409.m3u8
+https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Roja Movies
-http://103.180.212.191:3500/live/3417.m3u8
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="3425" tvg-name="Discovery Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryMal.png" tvg-language="Malayalam" tvg-type="Infotainment" group-title="Infotainment", Discovery Malayalam
 http://103.180.212.191:3500/live/3425.m3u8
 #EXTINF:-1 tvg-id="3427" tvg-name="Sansad TV 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SansadTV1HD.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV 1 HD
-http://103.180.212.191:3500/live/3427.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="Infotainment", Discovery HD Bengali
 http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1 tvg-id="3429" tvg-name="Discovery Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKan.png" tvg-language="Kannada" tvg-type="Infotainment" group-title="Infotainment", Discovery Kannada
@@ -2204,7 +2204,7 @@ http://103.180.212.191:3500/live/3438.m3u8
 #EXTINF:-1 tvg-id="3439" tvg-name="Akhon kolkata" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png" tvg-language="Bengali" tvg-type="News" group-title="News", Akhon kolkata
 http://103.180.212.191:3500/live/3439.m3u8
 #EXTINF:-1 tvg-id="3440" tvg-name="TOI Global" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/npnhm84gz9.png" tvg-language="English" tvg-type="News" group-title="News", TOI Global
-http://103.180.212.191:3500/live/3440.m3u8
+https://live.sli.ke/live/npnhm84gz9/fhd/stream.m3u8
 #EXTINF:-1 tvg-id="3443" tvg-name="Raatdin Tripura" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdintripura.png" tvg-language="Bengali" tvg-type="News" group-title="News", Raatdin Tripura
 https://server.playontv.in/raatdintripura/index.m3u8
 #EXTINF:-1 tvg-id="3444" tvg-name="Discovery HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery HD Hindi
@@ -2246,15 +2246,15 @@ http://103.180.212.191:3500/live/3462.m3u8
 #EXTINF:-1 tvg-id="3463" tvg-name="Times of Maharashtra" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TimesofMaharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="News", Times of Maharashtra
 https://newsliveindia.com:4433/timesofmaharashtra/index.m3u8
 #EXTINF:-1 tvg-id="3464" tvg-name="Guarantee News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GuaranteeNews.png" tvg-language="Kannada" tvg-type="News" group-title="News", Guarantee News
-http://103.180.212.191:3500/live/3464.m3u8
+https://guaranteenews.in:8443/live/gnews/index.m3u8
 #EXTINF:-1 tvg-id="3467" tvg-name="Green Gold TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/greengold.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Green Gold TV
-http://103.180.212.191:3500/live/3467.m3u8
+https://prod-runn.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 #EXTINF:-1 tvg-id="3469" tvg-name="NSC9 News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nsc9.png" tvg-language="Hindi" tvg-type="News" group-title="News", NSC9 News
 https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-id="3470" tvg-name="GTC Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GTCPunjabi.png" tvg-language="Punjabi" tvg-type="Entertainment" group-title="Entertainment", GTC Punjabi
-http://103.180.212.191:3500/live/3470.m3u8
+https://vglivessai.akamaized.net/ptnr-yupptv/title-GTC_Punjabi/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0abf23f0-9db1-4879-9822-a414ae3a3ffa/index.m3u8
 #EXTINF:-1 tvg-id="3471" tvg-name="Punjabi Shorts" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PunjabiShorts.png" tvg-language="Punjabi" tvg-type="Movies" group-title="Movies", Punjabi Shorts
-http://103.180.212.191:3500/live/3471.m3u8
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1 tvg-id="3478" tvg-name="Stingray Classic Rock" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-101ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="3479" tvg-name="Stingray Greatest Hits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-155ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Greatest Hits
