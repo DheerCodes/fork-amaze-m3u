@@ -79,8 +79,6 @@ http://103.180.212.191:3500/live/291.m3u8
 http://103.180.212.191:3500/live/317.m3u8
 #EXTINF:-1 tvg-id="336" tvg-name="Star Pravah HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Star Pravah HD
 http://103.180.212.191:3500/live/336.m3u8
-#EXTINF:-1 tvg-id="368" tvg-name="Star Vijay HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Star Vijay HD
-http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY_HD/index.m3u8
 #EXTINF:-1 tvg-id="370" tvg-name="Suvarna HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_HD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Suvarna HD
 http://103.180.212.191:3500/live/370.m3u8
 #EXTINF:-1 tvg-id="383" tvg-name="Times NOW" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
@@ -118,7 +116,7 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Jaya TV HD
 http://103.180.212.191:3500/live/419.m3u8
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Jaya Max
-http://ajkiptv.ridsys.in/riptv/live/JAYA_MAX/index.m3u8
+http://103.180.212.191:3500/live/420.m3u8
 #EXTINF:-1 tvg-id="421" tvg-name="GOA 365" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goa365.png" tvg-language="English" tvg-type="News" group-title="News", GOA 365
 https://ktismaservers.in:3086/live/goa365live.m3u8
 #EXTINF:-1 tvg-id="422" tvg-name="In Goa 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/InGoa24x7.png" tvg-language="Marathi" tvg-type="Infotainment" group-title="Infotainment", In Goa 24x7
@@ -232,17 +230,17 @@ https://cdn-1.pishow.tv/live/36/master.m3u8
 #EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Discovery Turbo
 http://103.180.212.191:3500/live/541.m3u8
 #EXTINF:-1 tvg-id="542" tvg-name="Pogo Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Pogo Tamil
-http://ajkiptv.ridsys.in/riptv/live/POGO/index.m3u8
+http://ptuf.ridsys.in/riptv/live/POGO/index.m3u8
 #EXTINF:-1 tvg-id="543" tvg-name="Nick Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Telugu.png" tvg-language="Telugu" tvg-type="Kids" group-title="Kids", Nick Telugu
 http://103.180.212.191:3500/live/543.m3u8
 #EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick Junior
-http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
+http://103.180.212.191:3500/live/544.m3u8
 #EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nick Hindi
 http://103.180.212.191:3500/live/545.m3u8
 #EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Nick Tamil
-http://103.180.212.191:3500/live/546.m3u8
+http://ptuf.ridsys.in/riptv/live/NICK/index.m3u8
 #EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Nickelodeon Jr.
-http://ajkiptv.ridsys.in/riptv/live/NICK_JR/index.m3u8
+http://103.180.212.191:3500/live/548.m3u8
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryKidsTam.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", Discovery Kids Tamil
 http://103.180.212.191:3500/live/550.m3u8
 #EXTINF:-1 tvg-id="551" tvg-name="TEST14 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEST14_HD.png" tvg-language="English" tvg-type="Kids" group-title="Kids", TEST14 HD
@@ -438,7 +436,7 @@ https://mumt02.tangotv.in/PUTHIYATHALAIMURAI/index.m3u8
 #EXTINF:-1 tvg-id="678" tvg-name="Sun Udaya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png" tvg-language="Kannada" tvg-type="Movies" group-title="Movies", Sun Udaya Movies
 http://103.180.212.191:3500/live/678.m3u8
 #EXTINF:-1 tvg-id="682" tvg-name="Sun Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Sun Life
-http://ajkiptv.ridsys.in/riptv/live/SUN_LIFE/index.m3u8
+http://ptuf.ridsys.in/riptv/live/SUN_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="683" tvg-name="Raj Digital Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Raj Digital Plus
 http://103.180.212.191:3500/live/683.m3u8
 #EXTINF:-1 tvg-id="684" tvg-name="Sun Gemini Life" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Life.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Sun Gemini Life
@@ -480,7 +478,7 @@ http://103.180.212.191:3500/live/707.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="Makkal TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Makkal TV
 https://mumt01.tangotv.in/MAKKALTV/index.m3u8
 #EXTINF:-1 tvg-id="709" tvg-name="Adithya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Adithya TV
-http://ajkiptv.ridsys.in/riptv/live/ADITHYA_TV/index.m3u8
+http://ptuf.ridsys.in/riptv/live/ADITYA_TV/index.m3u8
 #EXTINF:-1 tvg-id="710" tvg-name="Kairali TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Entertainment", Kairali TV
 https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="712" tvg-name="DD urdu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png" tvg-language="Urdu" tvg-type="Entertainment" group-title="Entertainment", DD urdu
@@ -542,7 +540,7 @@ http://103.180.212.191:3500/live/744.m3u8
 #EXTINF:-1 tvg-id="747" tvg-name="Sun Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" tvg-language="Malayalam" tvg-type="Music" group-title="Music", Sun Surya Music
 http://103.180.212.191:3500/live/747.m3u8
 #EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Raj Musix
-http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8
+http://103.180.212.191:3500/live/748.m3u8
 #EXTINF:-1 tvg-id="751" tvg-name="Tarang Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tarang_Music.png" tvg-language="Odia" tvg-type="Music" group-title="Music", Tarang Music
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="755" tvg-name="Colors Marathi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Colors Marathi HD
@@ -710,11 +708,11 @@ https://live.ottlive.co.in/vedantswarshree/vedantswarshree/index.m3u8
 #EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Sports.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Jio Sports HD
 http://103.180.212.191:3500/live/889.m3u8
 #EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD
-http://ajkiptv.ridsys.in/riptv/live/KTV_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/K_TV/index.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Sun Music HD
-http://ajkiptv.ridsys.in/riptv/live/SUN_MUSIC_HD/index.m3u8
+http://103.180.212.191:3500/live/895.m3u8
 #EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Sun TV HD
-http://ajkiptv.ridsys.in/riptv/live/SUN_TV_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/SUN_TV/index.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Sun Gemini HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV_HD.png" tvg-language="Telugu" tvg-type="Entertainment" group-title="Entertainment", Sun Gemini HD
 https://mumbai-edge.smartplaytv.in/GeminiTVHD/index.m3u8
 #EXTINF:-1 tvg-id="898" tvg-name="Sun Gemini Music HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music_HD.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Sun Gemini Music HD
@@ -925,8 +923,10 @@ http://103.180.212.191:3500/live/1117.m3u8
 http://103.180.212.191:3500/live/1119.m3u8
 #EXTINF:-1 tvg-id="1129" tvg-name="Maa Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Maa Music
 http://103.180.212.191:3500/live/1129.m3u8
+#EXTINF:-1 tvg-id="1130" tvg-name="Star Vijay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Star Vijay
+http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
 #EXTINF:-1 tvg-id="1131" tvg-name="Vijay Super" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Vijay Super
-http://ajkiptv.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
+http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
 #EXTINF:-1 tvg-id="1136" tvg-name="Star Utsav Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Utsav Movies
 http://103.180.212.191:3500/live/1136.m3u8
 #EXTINF:-1 tvg-id="1137" tvg-name="Maa Gold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png" tvg-language="Telugu" tvg-type="Movies" group-title="Movies", Maa Gold
@@ -1098,9 +1098,9 @@ http://103.180.212.191:3500/live/1369.m3u8
 #EXTINF:-1 tvg-id="1370" tvg-name="Colors Kannada SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Colors Kannada SD
 http://103.180.212.191:3500/live/1370.m3u8
 #EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png" tvg-language="Tamil" tvg-type="Entertainment" group-title="Entertainment", Colors Tamil
-http://ajkiptv.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8
+http://103.180.212.191:3500/live/1371.m3u8
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Disney Channel
-http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
+http://ptuf.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="1374" tvg-name="Disney Junior" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Disney Junior
 http://103.180.212.191:3500/live/1374.m3u8
 #EXTINF:-1 tvg-id="1375" tvg-name="Disney International HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Disney International HD
@@ -1108,7 +1108,7 @@ http://103.180.212.191:3500/live/1375.m3u8
 #EXTINF:-1 tvg-id="1388" tvg-name="Goodness" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Goodness_TV.png" tvg-language="Malayalam" tvg-type="Devotional" group-title="Devotional", Goodness
 https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 #EXTINF:-1 tvg-id="1391" tvg-name="Hungama" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Hungama
-http://ajkiptv.ridsys.in/riptv/live/HUNGAMA/index.m3u8
+http://103.180.212.191:3500/live/1391.m3u8
 #EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyWAH.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Wah
 http://103.180.212.191:3500/live/1393.m3u8
 #EXTINF:-1 tvg-id="1394" tvg-name="Jai Maharashtra" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" tvg-language="Marathi" tvg-type="News" group-title="News", Jai Maharashtra
@@ -1722,7 +1722,7 @@ http://103.180.212.191:3500/live/3049.m3u8
 #EXTINF:-1 tvg-id="3050" tvg-name="Indian News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Indian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Indian News
 http://103.180.212.191:3500/live/3050.m3u8
 #EXTINF:-1 tvg-id="3051" tvg-name="Zee Thirai HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", Zee Thirai HD
-http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8
+http://ptuf.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8
 #EXTINF:-1 tvg-id="3053" tvg-name="TNP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/tnpnews.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNP News
 https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8
 #EXTINF:-1 tvg-id="3058" tvg-name="News Capital Gujarat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapital_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", News Capital Gujarat
@@ -2047,24 +2047,24 @@ https://account23.livebox.co.in/Mnsnewshls/live.m3u8
 https://newsliveindia.com:4433/gjdeshi/index.m3u8
 #EXTINF:-1 tvg-id="3313" tvg-name="LOVEWORLD TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Love_World.png" tvg-language="English" tvg-type="Devotional" group-title="Devotional", LOVEWORLD TV
 http://103.180.212.191:3500/live/3313.m3u8
-#EXTINF:-1 tvg-id="3314" tvg-name="Gujarat  Wild TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png" tvg-language="Gujarati" tvg-type="Infotainment" group-title="Infotainment", Gujarat  Wild TV
+#EXTINF:-1 tvg-id="3314" tvg-name="Gujarat Wild TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_Wild_TV.png" tvg-language="Gujarati" tvg-type="Infotainment" group-title="Infotainment", Gujarat  Wild TV
 http://103.180.212.191:3500/live/3314.m3u8
 #EXTINF:-1 tvg-id="3317" tvg-name="Zillar Barta" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" tvg-language="Bengali" tvg-type="News" group-title="News", Zillar Barta
-http://103.180.212.191:3500/live/3317.m3u8
+https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="3319" tvg-name="ZB Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" tvg-language="Bengali" tvg-type="Music" group-title="Music", ZB Music
-http://103.180.212.191:3500/live/3319.m3u8
+https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="3320" tvg-name="ZB Bhakti" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbbhakti.png" tvg-language="Bengali" tvg-type="Devotional" group-title="Devotional", ZB Bhakti
-http://103.180.212.191:3500/live/3320.m3u8
+https://server.zillarbarta.com/zbbhakti/index.m3u8
 #EXTINF:-1 tvg-id="3321" tvg-name="ZB Cartoon" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" tvg-language="Bengali" tvg-type="Kids" group-title="Kids", ZB Cartoon
-http://103.180.212.191:3500/live/3321.m3u8
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="3322" tvg-name="ZB Cinema " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" tvg-language="Bengali" tvg-type="Movies" group-title="Movies", ZB Cinema 
-http://103.180.212.191:3500/live/3322.m3u8
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="3323" tvg-name="Stingray The Spa" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-122ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray The Spa
-http://103.180.212.191:3500/live/3323.m3u8
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="3324" tvg-name="Stingray Todays K-Pop" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-317ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Todays K-Pop
-http://103.180.212.191:3500/live/3324.m3u8
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="3325" tvg-name="Stingray Easy Listening" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-137ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray Easy Listening
-http://103.180.212.191:3500/live/3325.m3u8
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="3327" tvg-name="Stingray 2000s" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ose-232ads-montreal.png" tvg-language="English" tvg-type="Music" group-title="Music", Stingray 2000s
 http://103.180.212.191:3500/live/3327.m3u8
 #EXTINF:-1 tvg-id="3328" tvg-name="Aagaaz Times" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aagaaztimes.png" tvg-language="Hindi" tvg-type="News" group-title="News", Aagaaz Times
@@ -2082,15 +2082,15 @@ http://103.180.212.191:3500/live/3333.m3u8
 #EXTINF:-1 tvg-id="3334" tvg-name="Sanatan Vedic TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanatan_Vedic_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sanatan Vedic TV
 http://103.180.212.191:3500/live/3334.m3u8
 #EXTINF:-1 tvg-id="3336" tvg-name="NH BollyFlix" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyflx.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH BollyFlix
-http://103.180.212.191:3500/live/3336.m3u8
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 #EXTINF:-1 tvg-id="3338" tvg-name="NH BollyGold" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blygld.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", NH BollyGold
-http://103.180.212.191:3500/live/3338.m3u8
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1 tvg-id="3343" tvg-name="NH BollyRaga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", NH BollyRaga
-http://103.180.212.191:3500/live/3343.m3u8
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTINF:-1 tvg-id="3345" tvg-name="Superfine Films" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_supjio.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Superfine Films
-http://103.180.212.191:3500/live/3345.m3u8
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 #EXTINF:-1 tvg-id="3346" tvg-name="Yahoo Finance" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Yahoo_Finance.png" tvg-language="English" tvg-type="Business" group-title="Business", Yahoo Finance
-http://103.180.212.191:3500/live/3346.m3u8
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="3352" tvg-name="Janataa TV Kannada" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/janataanews.png" tvg-language="Kannada" tvg-type="News" group-title="News", Janataa TV Kannada
 https://live1.ottlive.co.in/janataanews/index.m3u8
 #EXTINF:-1 tvg-id="3353" tvg-name="NE Bharat24" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png" tvg-language="Assamese" tvg-type="News" group-title="News", NE Bharat24
@@ -2220,7 +2220,7 @@ http://103.180.212.191:3500/live/3448.m3u8
 #EXTINF:-1 tvg-id="3450" tvg-name="Animal Planet Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetTam.png" tvg-language="Tamil" tvg-type="Infotainment" group-title="Infotainment", Animal Planet Tamil
 http://103.180.212.191:3500/live/3450.m3u8
 #EXTINF:-1 tvg-id="3451" tvg-name="Animal Planet HD Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AnimalPlanetHDHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD Hindi
-http://103.180.212.191:3500/live/3451.m3u8
+http://149.71.34.166:8002/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="3452" tvg-name="Investigation Discovery English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/IDEnglish.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery English
 http://103.180.212.191:3500/live/3452.m3u8
 #EXTINF:-1 tvg-id="3453" tvg-name="Discovery Science Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryScienceHin.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Discovery Science Hindi
