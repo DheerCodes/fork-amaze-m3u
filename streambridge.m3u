@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Telugu",4 Sides TV Telugu
+https://mars.streambridge.cloud/4sidestv/telugu/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",AJ TV
+https://mars.streambridge.link:8052/telugu/ajtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",AN TV
+https://mars.streambridge.link:8052/telugu/antv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Anjali TV
+https://venus.streambridge.link:8047/telugu/anjalitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Ashwaveega News 24x7
+https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Avishkaar News 17 Kannada
+https://venus.streambridge.link:8047/kannada/avishkaar1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",BB Davanagere
+https://venus.streambridge.link:8047/kannada/avishkaar2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",BB Davanagere
+https://venus.streambridge.link:8047/kannada/rightnews/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",DVG Voice TV Kannada
+https://venus.streambridge.link:8047/kannada/dvgvoice/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Garuda TV
+https://mercury.streambridge.link:8042/telugu/garudatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",J7 TV News 24x7
+https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",KTV Entertainment
+https://mars.streambridge.link:8052/telugu/ktventertainment/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",Metro TV
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",One Kannada News
+https://mars.streambridge.cloud/onekannadanews/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Telugu",TGN
+https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",U Channel
+https://mars.streambridge.cloud/uchannel/live/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kannada",Virat TV
+https://venus.streambridge.link:8047/kannada/virattv/index.m3u8
