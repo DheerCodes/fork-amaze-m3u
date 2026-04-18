@@ -27,8 +27,12 @@ https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8
 https://amigofx.com:1936/rashtratv/rashtratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/sbhakti.png",S Bhakti
 https://amigofx.com:1936/SBhakti/SBhakti/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/smarathi.png",S Marathi
+https://amigofx.com:1936/SMarathi/SMarathi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/smusic.png",S Music
 https://amigofx.com:1936/SMusic/SMusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/snews.png",S News
+https://amigofx.com:1936/SChannel/SChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://amigofx.com/livetvlogo/sitichannel.png",Siti Channel
 https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="",STV Gold
