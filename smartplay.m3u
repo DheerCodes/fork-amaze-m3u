@@ -49,14 +49,16 @@ https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8
 https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-chno="29" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_24_1721195960.png" tvg-language="te" group-title="Telugu Entertainment",SSLC Cinemalu (Free)
 https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
+#EXTINF:-1 tvg-id="VinodamHD" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C30-1776056264.png" tvg-language="te" group-title="Telugu Entertainment",Vinodam HD
+https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-chno="30" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_25_1744023786.png" tvg-language="te" group-title="Telugu Entertainment",BCT Classic
 https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-chno="31" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C31-1765071127.png" tvg-language="te" group-title="Telugu Entertainment",VCN HD
 https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-chno="32" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C32-1768575915.png" tvg-language="te" group-title="Telugu Entertainment",Kathalu
 https://mumbai-edge.smartplaytv.in/SSLCKathalu/index.m3u8
-#EXTINF:-1 tvg-id="VinodamHD" tvg-chno="33" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_28_1728551092.png" tvg-language="te" group-title="Telugu Entertainment",Vinodam HD
-https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
+#EXTINF:-1 tvg-id="VedukaHD" tvg-chno="33" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C33-1775917489.png" tvg-language="te" group-title="Telugu Entertainment",Veduka HD
+https://mumbai-edge.smartplaytv.in/VedukaHD/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-chno="34" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_29_1721196550.png" tvg-language="te" group-title="Telugu Entertainment",2 Telugu (Free)
 https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8
 #EXTINF:-1 tvg-id="MAX" tvg-chno="35" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_30_1730975370.png" tvg-language="te" group-title="Telugu Entertainment",MAHA MAX
@@ -77,11 +79,13 @@ https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
 #EXTINF:-1 tvg-id="CityNewsTelugu" tvg-chno="43" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C43-1772102300.png" tvg-language="te" group-title="Telugu Local",City News Telugu
 https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
+#EXTINF:-1 tvg-id="PRAJAVANI" tvg-chno="44" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C44-1775978414.png" tvg-language="te" group-title="Telugu Local",Prajavani
+https://mumbai-edge.smartplaytv.in/Prajavani/index.m3u8
 #EXTINF:-1 tvg-id="S9CHANNEL" tvg-chno="44" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C44-1774421077.png" tvg-language="te" group-title="Telugu Local",S9 Channel
 https://mumbai-edge.smartplaytv.in/S9News/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-chno="45" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_35_1721196906.png" tvg-language="te" group-title="Telugu Local",Tirumala
 https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
-#EXTINF:-1 tvg-id="46" tvg-chno="46" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_462_1735827728.png" tvg-language="te" group-title="Telugu Local",Maa Cable
+#EXTINF:-1 tvg-id="46" tvg-chno="46" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_462_1735827728.png" tvg-language="te" group-title="Telugu Local",MAA CABLE
 https://mumbai-edge.smartplaytv.in/MaaCable/index.m3u8
 #EXTINF:-1 tvg-id="NEWS9" tvg-chno="47" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C315-1770199375.png" tvg-language="te" group-title="Telugu Local",News 9 Today Telugu
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
@@ -91,6 +95,8 @@ https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
 https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-chno="50" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C50-1763884010.png" tvg-language="te" group-title="Telugu Local",AB NEWS
 https://mumbai-edge.smartplaytv.in/ABNews/index.m3u8
+#EXTINF:-1 tvg-id="AVNTV" tvg-chno="51" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1776094219.png" tvg-language="te" group-title="Telugu Local",AVN TV
+https://mumbai-edge.smartplaytv.in/AVNTV/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-chno="51" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C51-1760169524.png" tvg-language="te" group-title="Telugu Local",Reshya TV
 https://mumbai-edge.smartplaytv.in/ReshyaTV/index.m3u8
 #EXTINF:-1 tvg-id="HYDECCAN" tvg-chno="52" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C052-1772102864.png" tvg-language="te" group-title="Telugu Local",Deccan Today Telugu
@@ -485,6 +491,8 @@ https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
 https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
 #EXTINF:-1 tvg-id="DS9 Kathalu" tvg-chno="2006" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C2006-1770460706.png" tvg-language="te" group-title="Music Channels",DS9 Kathalu
 https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
+#EXTINF:-1 tvg-id="2009" tvg-chno="2009" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-c2009-1773479940.png" tvg-language="pa" group-title="PUNJAB NEWS",Global Punjab
+https://mumbai-edge.smartplaytv.in/Globalpunjab/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-chno="" tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel_488_1726319141.png" tvg-language="te" group-title="Telugu Local",Rapid Media
 https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" tvg-language="te" group-title="Telugu Local",GS Grameena
