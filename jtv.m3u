@@ -953,6 +953,12 @@ http://103.154.3.101:5001/live/1113.m3u8
 http://103.154.3.101:5001/live/1115.m3u8
 #EXTINF:-1 tvg-id="1117" tvg-name="Suvarna" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna.png" tvg-language="Kannada" tvg-type="Entertainment" group-title="Entertainment", Suvarna
 http://103.154.3.101:5001/live/1117.m3u8
+#EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet.png" tvg-language="Malayalam" tvg-type="Entertainment" group-title="Entertainment", Asianet
+#EXTVLCOPT:http-referrer=https://tulnit.com
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com"
+#KODIPROP:mimetype=application/dash+xml
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="1119" tvg-name="Star Gold Select" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold Select
 http://103.154.3.101:5001/live/1119.m3u8
 #EXTINF:-1 tvg-id="1129" tvg-name="Maa Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png" tvg-language="Telugu" tvg-type="Music" group-title="Music", Maa Music
