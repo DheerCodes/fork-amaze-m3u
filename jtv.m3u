@@ -2234,7 +2234,7 @@ http://103.154.3.101:5001/live/3398.m3u8
 #EXTINF:-1 tvg-id="3399" tvg-name="Sony LIV Sports 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony LIV Sports 5
 http://103.154.3.101:5001/live/3399.m3u8
 #EXTINF:-1 tvg-id="3401" tvg-name="Swastik Stories" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Swastik Stories
-http://103.154.3.101:5001/live/3401.m3u8
+https://csm-e-cesharedlsgsin2live-87593184.bln1.yospace.com/csm/extlive/runntvprd01,swastikrunn/master.m3u8
 #EXTINF:-1 tvg-id="3402" tvg-name="DocuBay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DocuBay.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", DocuBay
 http://103.154.3.101:5001/live/3402.m3u8
 #EXTINF:-1 tvg-id="3405" tvg-name="BHP News Gujarati" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHP_News_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", BHP News Gujarati
