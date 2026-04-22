@@ -14,7 +14,7 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%205%20HD.m3u8
 #EXTINF:-1 tvg-id="156" tvg-name="Star Gold HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Star Gold HD
 http://103.72.101.252:8080/live/156.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="Sony Ten 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
-https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u
+https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%201%20HD.m3u8
 #EXTINF:-1 tvg-id="164" tvg-name="Travelxp HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
 http://103.72.101.252:8080/live/164.m3u8
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Zee Cinemsa HD
