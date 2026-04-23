@@ -121,8 +121,6 @@ https://mumt05.tangotv.in/BHOJPURICINEMA/index.m3u8
 https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-logo="",Big TV
 https://mumt01.tangotv.in/BIGTV/index.m3u8
-#EXTINF:-1 tvg-logo="",Big TV 24x7
-https://mumt01.tangotv.in/TVNNEWS/index.m3u8
 #EXTINF:-1 tvg-logo="",Brio TV
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
 #EXTINF:-1 tvg-logo="",BRK News
@@ -639,6 +637,8 @@ https://mumt05.tangotv.in/SADHNATV/index.m3u8
 https://mumt04.tangotv.in/SAFARITV/index.m3u8
 #EXTINF:-1 tvg-logo="",Sahana News
 https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
+#EXTINF:-1 tvg-logo="",Sai TV
+https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8
 #EXTINF:-1 tvg-logo="",Sai TV
 https://mumt02.tangotv.in/SAITV/index.m3u8
 #EXTINF:-1 tvg-logo="",Sairam TV
