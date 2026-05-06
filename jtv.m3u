@@ -1768,7 +1768,7 @@ https://mumt05.tangotv.in/RUPASIBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="3006" tvg-name="Dhoom Music Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhoom_Music_Bangla.png" tvg-language="Bengali" tvg-type="Music" group-title="Music", Dhoom Music Bangla
 http://103.159.180.34:5001/live/3006.m3u8
 #EXTINF:-1 tvg-id="3007" tvg-name="AMV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AMV.png" tvg-language="Hindi" tvg-type="News" group-title="News", AMV
-https://mumt02.tangotv.in/AMVNETWORK/index.m3u8
+http://103.159.180.34:5001/live/3007.m3u8
 #EXTINF:-1 tvg-id="3008" tvg-name="Maya Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maya_Tv.png" tvg-language="Bengali" tvg-type="Entertainment" group-title="Entertainment", Maya Tv
 http://103.159.180.34:5001/live/3008.m3u8
 #EXTINF:-1 tvg-id="3011" tvg-name="Lancs TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Lancs TV HD
