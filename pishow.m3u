@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="",9X Jhakaas
-https://cdn-3.pishow.tv/live/6/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Urdu
 https://cdn-4.pishow.tv/live/8/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",DD Kisan
@@ -61,8 +59,6 @@ https://cdn-4.pishow.tv/live/38/master.m3u8
 https://cdn-2.pishow.tv/live/39/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Sansad TV 2 HD
 https://cdn-7.pishow.tv/live/40/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="",IBC 24
-https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Ayush TV
 https://cdn-6.pishow.tv/live/221/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Hi Dost
