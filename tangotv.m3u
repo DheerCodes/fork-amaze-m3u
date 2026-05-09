@@ -695,6 +695,8 @@ https://mumt03.tangotv.in/SIRIKANNADA/index.m3u8
 https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-logo="",Soham TV
 https://mumt03.tangotv.in/SOHAMTV/index.m3u8
+#EXTINF:-1 tvg-logo="",Soneri Cinema
+https://mumt04.tangotv.in/SONERICINEMA/playlist.m3u8
 #EXTINF:-1 tvg-logo="",Spondon
 https://mumt05.tangotv.in/SPONDON/index.m3u8
 #EXTINF:-1 tvg-logo="",Sri Sankara
