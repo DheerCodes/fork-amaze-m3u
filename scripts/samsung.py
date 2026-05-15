@@ -1,5 +1,5 @@
 import requests
-import os
+import pathlib
 import xml.etree.ElementTree as ET
 
 regioncodes=['all','at','ca','ch','de','es','fr','gb','in','it','kr','us']
@@ -22,11 +22,11 @@ for region in regioncodes:
         playlist.append(f'#EXTINF:-1 tvg-id="{chnlid}" tvg-name="{name}" tvg-logo="{ico}",{name}')
         playlist.append(f'https://jmp2.uk/stvp-{chnlid}')
 
-    with open(f'samsung_{region}.m3u', 'w') as g:
+    with open(f'./samsungtvplus/{region}.m3u', 'w') as g:
         for line in playlist:
             g.write(f"{line}\n")
 
     g.close()
 
-    if os.path.exists(f"samsung_{region}.xml"):
-        os.remove(f"samsung_{region}.xml")
+    pathlib.Path.unlink(f"samsung_{region}.xml")
+
