@@ -72,6 +72,6 @@ for i in jsonresp['response']['data']:
 
 with open('./yupptv.m3u', 'w', newline='') as f:
     for lines in playlist:
-        f.write('%s\n' %lines)
-    print("M3U exported!")
+        f.write(f'{lines}\n')
+
 f.close()
