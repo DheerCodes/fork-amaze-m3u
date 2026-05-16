@@ -28,7 +28,7 @@ https://animax.live/hls/stream.m3u8
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="webchnl" radio="true",Whiplash FM
-https://haus.webchnl.com/memfs/ab193305-dd2b-423b-a5d6-867fe68b8750.m3u8
+#https://haus.webchnl.com/memfs/ab193305-dd2b-423b-a5d6-867fe68b8750.m3u8
 #EXTINF:-1 tvg-id="yub" tvg-name="Yub Network" tvg-logo="https://webchnl.com/assets/img/channelicons/yub.png" group-title="webchnl",Yub Network
 https://stream.oqua.tv/live/Yub/master.m3u8
 #EXTINF:-1 tvg-id="znth" tvg-name="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png" group-title="webchnl",zén!th
