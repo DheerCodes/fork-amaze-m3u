@@ -39,3 +39,5 @@ https://twitch-m3u8.bastypro112.workers.dev/2x2_english/index.m3u8
 https://twitch-m3u8.bastypro112.workers.dev/kaspertivi/index.m3u8
 #EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras
 https://twitch-m3u8.bastypro112.workers.dev/backupextras/index.m3u8
+#EXTINF:-1 tvg-id="boomerangreborn" tvg-name="Boomerang Reborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="webchnl",Boomerang Reborn
+https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
