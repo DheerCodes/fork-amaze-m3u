@@ -65,6 +65,9 @@ xmltv.append('</tv>')
 with open('./epg/distrotv.xml', 'w', newline='', encoding="utf-8") as f:
     for lines in xmltv:
         f.write(f'{lines}\n')
+f.close()
+
+with open('./epg/distrotv.xml', 'rb') as f:
     with gzip.open('./epg/distrotv.xml.gz', 'wb') as g:
         shutil.copyfileobj(f, g)
 f.close()
