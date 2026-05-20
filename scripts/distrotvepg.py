@@ -1,6 +1,7 @@
 import urllib3
 import json
 import gzip
+import shutil
 
 resp = urllib3.request(
     "GET",
@@ -64,9 +65,6 @@ xmltv.append('</tv>')
 with open('./epg/distrotv.xml', 'w', newline='', encoding="utf-8") as f:
     for lines in xmltv:
         f.write(f'{lines}\n')
+    with gzip.open('./epg/distrotv.xml.gz', 'wb') as g:
+        shutil.copyfileobj(f, g)
 f.close()
-
-with gzip.open('./epg/distrotv.xml.gz', 'wb') as g:
-    for lines in xmltv:
-        g.write(f'{lines}')
-g.close()
