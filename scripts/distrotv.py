@@ -31,7 +31,7 @@ for i in ids:
 #KODIPROP:mimetype=application/dash+xml''')
     playlist.append(url)
 
-with open('distro.m3u', 'w', newline='') as f:
+with open('./distrotv.m3u', 'w', newline='') as f:
     for lines in playlist:
         f.write(f'{lines}\n')
 
