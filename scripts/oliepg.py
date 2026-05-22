@@ -16,7 +16,7 @@ chnl = ET.SubElement(root, 'channel')
 chnl.set('id', 'OLI TV')
 dspl = ET.SubElement(chnl, 'display-name')
 icon = ET.SubElement(chnl, 'icon')
-dspl.text = titles[epgs.index(i)]
+dspl.text = "Oli TV"
 icon.set('src', "https://i.ibb.co/XfvTQyJn/main-removebg-preview.png")
 
 for type_tag in epgroot.findall('programme'):
