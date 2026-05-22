@@ -21,11 +21,13 @@ for i in resp['data']['items']:
     channel_data = json.loads(stringdata)
     if channel_data['epg'] != None and ".php" not in channel_data['epg']:
         epg = channel_data['epg']
-    else:
+    elif ".php" in channel_data['epg':
         if "oli" in channel_data['epg']:
             epg = channel_data['epg']
         else:
             epg = ""
+    else:
+        epg = ""
     epgs.append(epg)
     chno = channel_data['sort_value']
     name = channel_data['channel_name']
