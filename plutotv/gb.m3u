@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz"
+#EXTINF:-1 tvg-id="69b422590306b277746f48cb" tvg-name="The Raccoons" tvg-logo="https://images.pluto.tv/channels/69b422590306b277746f48cb/colorLogoPNG_1778237197659.png",The Raccoons
+https://jmp2.uk/plu-69b422590306b277746f48cb.m3u8
 #EXTINF:-1 tvg-id="69c6a93486431735d974bc2a" tvg-name="Deal Masters" tvg-logo="https://images.pluto.tv/channels/69c6a93486431735d974bc2a/colorLogoPNG_1778165757861.png",Deal Masters
 https://jmp2.uk/plu-69c6a93486431735d974bc2a.m3u8
 #EXTINF:-1 tvg-id="69d51f98fcb9bf5e303ca0c1" tvg-name="Dinner Date" tvg-logo="https://images.pluto.tv/channels/69d51f98fcb9bf5e303ca0c1/colorLogoPNG_1777472699054.png",Dinner Date
@@ -11,8 +13,6 @@ https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
 https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 #EXTINF:-1 tvg-id="6981cc6a644861a57c3bd8ad" tvg-name="Shockwave" tvg-logo="https://images.pluto.tv/channels/6981cc6a644861a57c3bd8ad/colorLogoPNG_1774540226536.png",Shockwave
 https://jmp2.uk/plu-6981cc6a644861a57c3bd8ad.m3u8
-#EXTINF:-1 tvg-id="697a2f8b3991484f03064614" tvg-name="Super Mario Bros." tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png",Super Mario Bros.
-https://jmp2.uk/plu-697a2f8b3991484f03064614.m3u8
 #EXTINF:-1 tvg-id="655b7cbb2c46f300086f0afa" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 tvg-id="67063e78b2ffb10008195d08" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png",MODUS Super Series Darts
@@ -373,6 +373,8 @@ https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
 #EXTINF:-1 tvg-id="68b5a97fc8ef6afa31138718" tvg-name="The Smurfs" tvg-logo="https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/colorLogoPNG_1760380526292.png",The Smurfs
 https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8
+#EXTINF:-1 tvg-id="697a2f8b3991484f03064614" tvg-name="Super Mario Bros." tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png",Super Mario Bros.
+https://jmp2.uk/plu-697a2f8b3991484f03064614.m3u8
 #EXTINF:-1 tvg-id="694178a8026be6e9d3ea7d7a" tvg-name="Mona The Vampire" tvg-logo="https://images.pluto.tv/channels/694178a8026be6e9d3ea7d7a/colorLogoPNG_1767865545603.png",Mona The Vampire
 https://jmp2.uk/plu-694178a8026be6e9d3ea7d7a.m3u8
 #EXTINF:-1 tvg-id="64c37e710e086a0009e824ab" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG_1771232729979.png",That's 70s
