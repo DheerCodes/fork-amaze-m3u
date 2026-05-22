@@ -1,17 +1,17 @@
 import urllib3
-import urllib
-import json
 import xml.etree.ElementTree as ET
 import pathlib
 from lxml import etree
 import gzip
 
+root = ET.Element('tv')
+root.set('generator-info-url', 'https://github.com/amazeyourself/m3u')
 resp = urllib3.request("GET", "https://olidigital.space/olitv-epg.php")
 with open('olitv.xml', 'wb') as f:
     f.write(resp.data)
 with open('olitv.xml', 'r', encoding="utf-8-sig") as f:
     text = f.read()
-root = ET.fromstring(text, parser=etree.XMLParser(recover=True,encoding='utf-8'))
+epgroot = ET.fromstring(text, parser=etree.XMLParser(recover=True,encoding='utf-8'))
 chnl = ET.SubElement(root, 'channel')
 chnl.set('id', 'OLI TV')
 dspl = ET.SubElement(chnl, 'display-name')
