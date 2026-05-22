@@ -21,7 +21,7 @@ for i in resp['data']['items']:
     channel_data = json.loads(stringdata)
     if channel_data['epg'] != None and ".php" not in channel_data['epg']:
         epg = channel_data['epg']
-    elif ".php" in channel_data['epg':
+    elif ".php" in channel_data['epg']:
         if "oli" in channel_data['epg']:
             epg = channel_data['epg']
         else:
