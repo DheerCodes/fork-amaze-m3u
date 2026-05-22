@@ -31,9 +31,6 @@ for i in resp['data']['items']:
     logo = channel_data['image']
     logos.append(logo)
     genre = channel_data['genre']
-print(epgs)
-print(titles)
-print(logos)
 for i in epgs:
     if ".php" not in i:
         epgid = i.replace('https://epg.neotvapp.com/','').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
@@ -48,8 +45,6 @@ for i in epgs:
                 epgroot = ET.fromstring(clean, parser=etree.XMLParser(recover=True,encoding='utf-8'))
                 chnl = ET.SubElement(root, 'channel')
                 chnl.set('id',epgid)
-                print(epgid)
-                print(titles[epgs.index(i)])
                 dspl = ET.SubElement(chnl, 'display-name')
                 icon = ET.SubElement(chnl, 'icon')
                 dspl.text = titles[epgs.index(i)]
@@ -91,5 +86,5 @@ with open('./epg/neotv.xml', 'wb') as f:
 f.close()
 
 with gzip.open('./epg/neotv.xml.gz', 'wb') as g:
-    f.write(xml_data)
-f.close()
+    g.write(xml_data)
+g.close()
