@@ -44,7 +44,7 @@ https://mci01.nive.live/17/index.m3u8
 #EXTINF:-1 tvg-id="znth" tvg-name="zenith" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png" group-title="webchnl",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://webchnl.com/assets/img/channelicons/2x2.png" group-title="webchnl",2x2_english
-https://twitch-m3u8.bastypro112.workers.dev/2x2_english/index.m3u8
+https://mci01.nive.live/18/index.m3u8
 #EXTINF:-1 tvg-id="kaspertv" tvg-name="KasperTV" tvg-logo="https://webchnl.com/assets/img/channelicons/kaspertv.png" group-title="webchnl",KasperTV
 https://twitch-m3u8.bastypro112.workers.dev/kaspertivi/index.m3u8
 #EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras
