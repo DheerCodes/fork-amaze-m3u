@@ -37,6 +37,7 @@ for i in range(1, 106):
 
     channellist = test.json()['programDetailsByChannel']
     for j in channellist:
+        print(j['channelname'])
         epgid = j['channelid']
         chnl = ET.SubElement(root, 'channel')
         chnl.set('id', epgid)
