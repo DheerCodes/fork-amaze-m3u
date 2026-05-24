@@ -11,21 +11,20 @@ date = datetime.now().strftime("%d/%m/%Y")
 resp = urllib3.request("POST",
                        "https://www.dishtv.in/services/epg/signin")
 
-http = urllib3.PoolManager()
 token_data = resp.json()
 
 token = token_data['token']
 
 for i in range(1, 106):
     encoded_body = json.dumps({
-        "channelgenre": "",
-        "language": "",
-        "allowPastEvents": "true",
-        "dataSize": "large",
-        "pageNum": i,
-        "date": datetime.now().strftime("%d/%m/%Y")
+          "channelgenre": "",
+          "language": "",
+          "allowPastEvents": "true",
+          "dataSize": "large",
+          "pageNum": i,
+          "date": datetime.now().strftime("%d/%m/%Y")
     })
-    test = http.request("POST",
+    test = urllib3.request("POST",
                         f"https://www.dishtv.in/services/epg/channels?pageNum={i}&date={date}",
                         body=encoded_body,
                         headers={"Authorization-Token": token,
@@ -36,6 +35,17 @@ for i in range(1, 106):
                                  "X-Requested-With": "XMLHttpRequest"})
 
     channellist = test.json()['programDetailsByChannel']
+    while channellist == []:
+          test = urllib3.request("POST",
+                             f"https://www.dishtv.in/services/epg/channels?pageNum={num}&date={date}",
+                             body=encoded_body,
+                             headers={"Authorization-Token": token,
+                                      "Content-Type": "multipart/form-data; boundary=----WebKitFormBoundaryqdpVYTfDycoyAdQG",
+                                      "Origin": "https://www.dishtv.in",
+                                      "Referer": "https://www.dishtv.in/channel-guide.html",
+                                      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+                                      "X-Requested-With": "XMLHttpRequest"})
+          channellist = test.json()['programDetailsByChannel']
     for j in channellist:
         print(j['channelname'])
         epgid = j['channelid']
