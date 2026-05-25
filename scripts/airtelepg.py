@@ -19,54 +19,55 @@ resp = urllib3.request("GET",
 json = resp.json()
 channellist = json['data']
 for i in channellist:
-    if 'LOGO_HD' in i['images']:
-        ico = i['images']['LOGO_HD']
-    elif 'LOGO' in i['images']:
-        ico = i['images']['LOGO']
-    chnl = ET.SubElement(root, 'channel')
-    chnl.set('id', i['id'])
-    dspl = ET.SubElement(chnl, 'display-name')
-    icon = ET.SubElement(chnl, 'icon')
-    dspl.text = i['title']
-    icon.set('src', ico)
-    lcn = ET.SubElement(chnl, 'lcn')
-    if 'lcn' in i:
-        lcn.text = i['lcn']
-    epgid = i['id']
-    print(dspl.text)
-
-    resp = urllib3.request("GET",
-                           f"https://epg.airtel.tv/app/v2/content/channel/epg?channelId={epgid}&startTime={startEpoch}&endTime={endEpoch}&appId=WEB")
-    json = resp.json()
-    programlist = json['programGuide']
-    for prg in programlist[list(programlist.keys())[0]]:
-        startepoch = prg['startTime'] / 1000
-        start = datetime.fromtimestamp(startepoch)
-        stopepoch = prg['endTime'] / 1000
-        stop = datetime.fromtimestamp(stopepoch)
-        prog = ET.SubElement(root, 'programme')
-        prog.set('channel', epgid)
-        prog.set('start', start.strftime('%Y%m%d%H%M%S +0530'))
-        prog.set('stop', stop.strftime('%Y%m%d%H%M%S +0530'))
-        prog.set('catchup-id', prg['id'])
-        title = prg['title']
-        if 'desc' in prg:
-            desc = prg['desc']
-        else:
-            desc = ""
-        date = start.strftime("%Y%m%d")
-        if 'LANDSCAPE_169_HD' in prg['images']:
-            thumb = prg['images']['LANDSCAPE_169_HD']
-        elif 'LANDSCAPE_169' in prg['images']:
-            thumb = prg['images']['LANDSCAPE_169']
-        prgtitle = ET.SubElement(prog, 'title')
-        prgtitle.text = title
-        prgdesc = ET.SubElement(prog, 'desc')
-        prgdesc.text = desc
-        prgdate = ET.SubElement(prog, 'date')
-        prgdate.text = date
-        prgico = ET.SubElement(prog, 'icon')
-        prgico.set("src", thumb)
+    if "DISTROTV" not in i['id'] or "AAJTAK" not in i['id'] or "HOTSTAR" not in i['id'] or ("TIMESPLAY" not in i['id'] and i['id'] != "TIMESPLAY_LIVECHANNEL_channel_20"):
+        if 'LOGO_HD' in i['images']:
+            ico = i['images']['LOGO_HD']
+        elif 'LOGO' in i['images']:
+            ico = i['images']['LOGO']
+        chnl = ET.SubElement(root, 'channel')
+        chnl.set('id', i['id'])
+        dspl = ET.SubElement(chnl, 'display-name')
+        icon = ET.SubElement(chnl, 'icon')
+        dspl.text = i['title']
+        icon.set('src', ico)
+        lcn = ET.SubElement(chnl, 'lcn')
+        if 'lcn' in i:
+            lcn.text = i['lcn']
+        epgid = i['id']
+        print(dspl.text)
+    
+        resp = urllib3.request("GET",
+                               f"https://epg.airtel.tv/app/v2/content/channel/epg?channelId={epgid}&startTime={startEpoch}&endTime={endEpoch}&appId=WEB")
+        json = resp.json()
+        programlist = json['programGuide']
+        for prg in programlist[list(programlist.keys())[0]]:
+            startepoch = prg['startTime'] / 1000
+            start = datetime.fromtimestamp(startepoch)
+            stopepoch = prg['endTime'] / 1000
+            stop = datetime.fromtimestamp(stopepoch)
+            prog = ET.SubElement(root, 'programme')
+            prog.set('channel', epgid)
+            prog.set('start', start.strftime('%Y%m%d%H%M%S +0530'))
+            prog.set('stop', stop.strftime('%Y%m%d%H%M%S +0530'))
+            prog.set('catchup-id', prg['id'])
+            title = prg['title']
+            if 'desc' in prg:
+                desc = prg['desc']
+            else:
+                desc = ""
+            date = start.strftime("%Y%m%d")
+            if 'LANDSCAPE_169_HD' in prg['images']:
+                thumb = prg['images']['LANDSCAPE_169_HD']
+            elif 'LANDSCAPE_169' in prg['images']:
+                thumb = prg['images']['LANDSCAPE_169']
+            prgtitle = ET.SubElement(prog, 'title')
+            prgtitle.text = title
+            prgdesc = ET.SubElement(prog, 'desc')
+            prgdesc.text = desc
+            prgdate = ET.SubElement(prog, 'date')
+            prgdate.text = date
+            prgico = ET.SubElement(prog, 'icon')
+            prgico.set("src", thumb)
         
 
 xml_data = ET.tostring(root)
