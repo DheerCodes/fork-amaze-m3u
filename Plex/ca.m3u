@@ -209,6 +209,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6699937717c9985deeb74e39.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-name="FilmRise Free Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15ec663b-70d0-450c-9cfa-c22eab2b1cd5/FilmRise_FreeMovies_1500x1000_logo_light.png",FilmRise Free Movies
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69332df6ac5b3f9f53442370" tvg-name="FilmRise Black TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1cea00fe-27e9-4de3-95f5-5bdc80f62c04/channel_logo_1500x1000_WHT.png",FilmRise Black TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69332df6ac5b3f9f53442370.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-689fb7110a486aeba3c7917c" tvg-name="The Addams Family" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae901652-7714-41cd-8ff7-cb31fb07f6df/AddamsFamily_logo_Attribution_-_Carl_HoffelderRDX.png",The Addams Family
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-689fb7110a486aeba3c7917c.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6196c9241d310bf925e02616" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png",Lone Star
@@ -465,8 +467,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-680ad9f73f3c406c06d7392b.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6685bf522deb7f424133b087.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5801" tvg-name="Dick Van Dyke" tvg-logo="https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png",Dick Van Dyke
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5801.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69332df6ac5b3f9f53442370" tvg-name="FilmRise Black TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1cea00fe-27e9-4de3-95f5-5bdc80f62c04/channel_logo_1500x1000_WHT.png",FilmRise Black TV
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69332df6ac5b3f9f53442370.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-678fe95d389daa346544d501" tvg-name="Triton Poker" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3083db91-a573-4a57-aa4b-5313378c4b7f/Triton_1500x1000_white_-_Eddie_Hunter-Higgins.png",Triton Poker
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-678fe95d389daa346544d501.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757" tvg-name="Tastemade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76c60f0e-ded8-4260-91c9-fab50a3347b9/LogosPLEX_FLAGSHIP_1500X1000_ForDarkBackground.png",Tastemade
