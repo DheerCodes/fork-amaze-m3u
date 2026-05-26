@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/amazeyourself/m3u/refs/heads/main/epg/whiplash.xml.gz"
 #EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="webchnl",Whiplash
 https://cdn.whiplash.cc/whiplash/index.m3u8
+#EXTINF:-1 tvg-id="whiplash" tvg-name="Whiplash" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="webchnl",Whiplash (nive.live)
+https://mci01.nive.live/10/index.m3u8
 #EXTINF:-1 tvg-id="whiplashii" tvg-name="Whiplash 2" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="webchnl",Whiplash II
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
 #EXTINF:-1 tvg-id="whiplashcinema" tvg-name="Whiplash Cinema" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="webchnl",Whiplash Cinema
