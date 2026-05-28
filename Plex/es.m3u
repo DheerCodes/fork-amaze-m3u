@@ -53,12 +53,12 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-692234015028288613484a8a.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-61d73ab0a7b7c7f703418516.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-656236cc5dbccec83a87b647" tvg-name="Andromeda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png",Andromeda
 https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
+https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",UFC
 https://jmp2.uk/plex-643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-656237c55dbccec83a87b649" tvg-name="Mutant X" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png",Mutant X
 https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
-https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6490e17c18a55242eea95991" tvg-name="Cine Friki" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e8b55ca-ef52-42c6-8390-45b1561f3d15/CINE_FRIKI_-_Logo_blanc_1500x1000_-_JC_DERSOIR.png",Cine Friki
 https://jmp2.uk/plex-643054b1fc3be59477853717-6490e17c18a55242eea95991.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66840707cd6f1d3940941153" tvg-name="Curro Jimenez" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69a3e9ee-ac42-4afd-970d-f8c7a7caad63/Runtime_ES_Curro_Jimenez_Dark_Mode_Logordx.png",Curro Jimenez
@@ -435,8 +435,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-60b0f65c0c8ffb002c821a75.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-6164a963766ab4f9f57e81b1.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",Pac-12 Insider
 https://jmp2.uk/plex-643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png",Kidz Bop TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-656fb124cb7e8e6a9bc3f36a.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",Surf Cinema
 https://jmp2.uk/plex-643054b1fc3be59477853717-656fbbd6dbcce28c3a41741b.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66fd3e25216b603e031725fe" tvg-name="ZenLIFE by Stingray" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png",ZenLIFE by Stingray
