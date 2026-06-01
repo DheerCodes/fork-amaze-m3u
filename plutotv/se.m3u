@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/se.xml.gz"
+#EXTINF:-1 tvg-id="685139b0f7d8b74b62f41c96" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/685139b0f7d8b74b62f41c96/colorLogoPNG_1750947104659.png",MTV Pride
+https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 #EXTINF:-1 tvg-id="691ed77b1308fa77bb2d5562" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed77b1308fa77bb2d5562/colorLogoPNG_1775047038535.png",Inter 24/7
 https://jmp2.uk/plu-691ed77b1308fa77bb2d5562.m3u8
 #EXTINF:-1 tvg-id="69b16e2b65c1df7564fc750b" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b16e2b65c1df7564fc750b/colorLogoPNG_1775118637657.png",Space Live
@@ -9,12 +11,6 @@ https://jmp2.uk/plu-693ae39cc2fa3abe8ad8208c.m3u8
 https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
 #EXTINF:-1 tvg-id="69afecd4686531d5faac86e2" tvg-name="The 4400" tvg-logo="https://images.pluto.tv/channels/69afecd4686531d5faac86e2/colorLogoPNG_1776175930155.png",The 4400
 https://jmp2.uk/plu-69afecd4686531d5faac86e2.m3u8
-#EXTINF:-1 tvg-id="693ae4ee25e9a6646b198fb0" tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae4ee25e9a6646b198fb0/colorLogoPNG_1768340037390.png",The L Word
-https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
-#EXTINF:-1 tvg-id="699c1998d5b4d030870ff998" tvg-name="Renegade" tvg-logo="https://images.pluto.tv/channels/699c1998d5b4d030870ff998/colorLogoPNG_1771837888384.png",Renegade
-https://jmp2.uk/plu-699c1998d5b4d030870ff998.m3u8
-#EXTINF:-1 tvg-id="699c1c633d27d6da460bbcae" tvg-name="Farscape" tvg-logo="https://images.pluto.tv/channels/699c1c633d27d6da460bbcae/colorLogoPNG_1771838615547.png",Farscape
-https://jmp2.uk/plu-699c1c633d27d6da460bbcae.m3u8
 #EXTINF:-1 tvg-id="61c18e1e0cd4cc00076bc4b3" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c18e1e0cd4cc00076bc4b3/colorLogoPNG.png",Paradise Hotel
 https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
 #EXTINF:-1 tvg-id="65e97cd118036500082ed0ce" tvg-name="Best of Paradise Hotel: Skolveckan" tvg-logo="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png",Best of Paradise Hotel: Skolveckan
@@ -119,6 +115,8 @@ https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd.m3u8
 https://jmp2.uk/plu-68f0fb155d6fb43948165d32.m3u8
 #EXTINF:-1 tvg-id="68f0f7dea362b63a8df50bd4" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png",Dr. Quinn, Medicine Woman
 https://jmp2.uk/plu-68f0f7dea362b63a8df50bd4.m3u8
+#EXTINF:-1 tvg-id="693ae4ee25e9a6646b198fb0" tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae4ee25e9a6646b198fb0/colorLogoPNG_1768340037390.png",The L Word
+https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
 #EXTINF:-1 tvg-id="6728cab6e482950008b76d8c" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728cab6e482950008b76d8c/colorLogoPNG.png",7th Heaven
 https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
 #EXTINF:-1 tvg-id="6964b9e19bf57be1537fc7d7" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b9e19bf57be1537fc7d7/colorLogoPNG_1770901125039.png",Bull
@@ -157,10 +155,10 @@ https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
 https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
 #EXTINF:-1 tvg-id="63dbe8c8a9957100087798a3" tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe8c8a9957100087798a3/colorLogoPNG.png",Pluto TV Kultfilmer
 https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
-#EXTINF:-1 tvg-id="63a19da6847a090007f230da" tvg-name="Pluto TV Romantik" tvg-logo="https://images.pluto.tv/channels/63a19da6847a090007f230da/colorLogoPNG_1767773691782.png",Pluto TV Romantik
-https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 #EXTINF:-1 tvg-id="68c01bed508ba507f0d0dd60" tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01bed508ba507f0d0dd60/colorLogoPNG_1770018447511.png",Pluto TV Harlequin
 https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
+#EXTINF:-1 tvg-id="63a19da6847a090007f230da" tvg-name="Pluto TV Romantik" tvg-logo="https://images.pluto.tv/channels/63a19da6847a090007f230da/colorLogoPNG_1767773691782.png",Pluto TV Romantik
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 #EXTINF:-1 tvg-id="62f64ec9eb1045000728cad6" tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62f64ec9eb1045000728cad6/colorLogoPNG.png",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 #EXTINF:-1 tvg-id="6304854ac6073d0007259fe1" tvg-name="Merry Christmas from Viafree" tvg-logo="https://images.pluto.tv/channels/6304854ac6073d0007259fe1/colorLogoPNG.png",Merry Christmas from Viafree
@@ -217,12 +215,10 @@ https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
 https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
 #EXTINF:-1 tvg-id="68dfa1e7fae18f8db6218703" tvg-name="Ridiculousness - Nya avsnitt" tvg-logo="https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png",Ridiculousness - Nya avsnitt
 https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
-#EXTINF:-1 tvg-id="62cda0dfddc1040008fccacc" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cda0dfddc1040008fccacc/colorLogoPNG_1762769882540.png",MTV Ridiculousness
-https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
 #EXTINF:-1 tvg-id="685140f121f49d1b9d178249" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/685140f121f49d1b9d178249/colorLogoPNG_1750843258864.png",MTV Dating
 https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
-#EXTINF:-1 tvg-id="685139b0f7d8b74b62f41c96" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685139b0f7d8b74b62f41c96/colorLogoPNG_1750947104659.png",MTV Reality
-https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
+#EXTINF:-1 tvg-id="62cda0dfddc1040008fccacc" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/62cda0dfddc1040008fccacc/colorLogoPNG_1762769882540.png",MTV Ridiculousness
+https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
 #EXTINF:-1 tvg-id="61c08d7c73bdb800070eef0a" tvg-name="The Hills" tvg-logo="https://images.pluto.tv/channels/61c08d7c73bdb800070eef0a/colorLogoPNG.png",The Hills
 https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
 #EXTINF:-1 tvg-id="64424be3e94c380008d0a66d" tvg-name="Geordie Shore" tvg-logo="https://images.pluto.tv/channels/64424be3e94c380008d0a66d/colorLogoPNG.png",Geordie Shore
@@ -257,6 +253,8 @@ https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 #EXTINF:-1 tvg-id="62a0b114a1c8650007e93688" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/62a0b114a1c8650007e93688/colorLogoPNG.png",Walker Texas Ranger
 https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8
+#EXTINF:-1 tvg-id="699c1998d5b4d030870ff998" tvg-name="Renegade" tvg-logo="https://images.pluto.tv/channels/699c1998d5b4d030870ff998/colorLogoPNG_1771837888384.png",Renegade
+https://jmp2.uk/plu-699c1998d5b4d030870ff998.m3u8
 #EXTINF:-1 tvg-id="68c017bf337652ee75db201f" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c017bf337652ee75db201f/colorLogoPNG_1761920427770.png",Pluto TV Wild West
 https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 #EXTINF:-1 tvg-id="6964bb3640c8de392514a0c6" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/6964bb3640c8de392514a0c6/colorLogoPNG_1768209281938.png",Rawhide
@@ -283,6 +281,8 @@ https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1 tvg-id="617807a1a3a6160007f615e4" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/617807a1a3a6160007f615e4/colorLogoPNG.png",Andromeda
 https://jmp2.uk/plu-617807a1a3a6160007f615e4.m3u8
+#EXTINF:-1 tvg-id="699c1c633d27d6da460bbcae" tvg-name="Farscape" tvg-logo="https://images.pluto.tv/channels/699c1c633d27d6da460bbcae/colorLogoPNG_1771838615547.png",Farscape
+https://jmp2.uk/plu-699c1c633d27d6da460bbcae.m3u8
 #EXTINF:-1 tvg-id="6181498caf6afc0007de9e72" tvg-name="Unsolved Mysteries" tvg-logo="https://images.pluto.tv/channels/6181498caf6afc0007de9e72/colorLogoPNG.png",Unsolved Mysteries
 https://jmp2.uk/plu-6181498caf6afc0007de9e72.m3u8
 #EXTINF:-1 tvg-id="62b1e4189f5db20007ff03be" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62b1e4189f5db20007ff03be/colorLogoPNG.png",Pluto TV Paranormal
