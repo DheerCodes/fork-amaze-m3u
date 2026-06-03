@@ -15,7 +15,7 @@ https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 https://mci01.nive.live/22/index.m3u8
 #EXTINF:-1 tvg-id="C7.151.ersatztv.org" tvg-name="Atlas" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Whiplash",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
-#EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="false",Whiplash FM
+#EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="true",Whiplash FM
 https://cdn.whiplash.cc/whiplash-fm/index.m3u8
 #EXTINF:-1 tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://webchnl.com/assets/img/channelicons/eel_ch.png" group-title="webchnl",Eel Channel
 https://mci01.nive.live/28/index.m3u8
