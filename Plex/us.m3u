@@ -305,6 +305,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-654a6d313713a28d9f0b917f.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-635c5c6ac3585aefbd236576.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a1acc577649467da169f0c" tvg-name="Sweet Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9dd98df-f895-4fbd-94c6-ca6496426043/SweetEscapes_Logo_Dark_1500x1000.png",Sweet Escapes
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66a1acc577649467da169f0c.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66b141e2a9ef8c41ec0841b2" tvg-name="No Reservations" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71ad0c57-33d2-4085-a852-c76966ccab43/NoReservations_Logo_Dark_1500x1000.png",No Reservations
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-66b141e2a9ef8c41ec0841b2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63c97610187b3c9f3581fdf6" tvg-name="Ice Road Truckers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2162050a-0737-4a33-b2a2-c3e8135d7504/IRT_channel_logo_4c_RDX.png",Ice Road Truckers
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63c97610187b3c9f3581fdf6.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705eb052f6f002ef46057" tvg-name="IFC Films Picks" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png",IFC Films Picks
@@ -473,8 +475,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6308eda9ac9983739c8a29bb.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-650299cdec4e38daa56e9c7c.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5ef51c802ddee5003f1c0225" tvg-name="Tastemade" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8ccf64ea199095b2d5aab71b73a7ed1c.png",Tastemade
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5ef51c802ddee5003f1c0225.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66b141e2a9ef8c41ec0841b2" tvg-name="No Reservations" tvg-logo="https://provider-static.plex.tv/epg/cms/production/71ad0c57-33d2-4085-a852-c76966ccab43/NoReservations_Logo_Dark_1500x1000.png",No Reservations
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-66b141e2a9ef8c41ec0841b2.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413" tvg-name="INWONDER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eaa03a9e-c480-4a0a-be8b-a641aa4d7973/inwinder_logo_color_1500x1000_-_Itay_Pollak.png",INWONDER
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6668b2b5e4f56766e556a413.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63ec0b739866d8d2120ac759" tvg-name="PickleTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",PickleTV
