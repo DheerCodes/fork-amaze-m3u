@@ -507,6 +507,12 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-644b13a3a1c0a5b2024c8403.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68645d7719cc2e163e38d163.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60d4edd6b2fdec002c141123" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",Johnny Carson TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4edd6b2fdec002c141123.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",Crime Beat TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-640205c68ecb41f2d89d5814.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-639ba57d3f4612cc150a5723.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-622805c85e753e6288a86f31" tvg-name="BlackPix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a727115b-4ef0-4b61-927b-b484223e36ea/blackpix_logo_dark.png",BlackPix
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-622805c85e753e6288a86f31.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64d2c6acb18b113e0c61012a" tvg-name="Beyond Paranormal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/896a3833-8bc3-4d75-8562-756070f8c4f0/beyond_paranormal_WHITE_Bryan_Mcdaid.png",Beyond Paranormal
@@ -595,8 +601,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f0641d3e8ffda004033b16e.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68b9f495fcc3cf129dc29960.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7fb89d72-5b7f-4814-a1fb-ac688ca7f03d/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",Journy
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",Crime Beat TV
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6578e7b5eef129f30fb38df7" tvg-name="Operation Repo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png",Operation Repo
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6578e7b5eef129f30fb38df7.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-61a945156547ba4d6d238dc9" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png",Racing America
@@ -701,8 +705,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-621672e42c2627c068e73ad8.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60e737a4ebef9d002c4d0a0c.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-68894b6e10df0c242e4136cc" tvg-name="XITE Hip-Hop Evolution" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ded154a4-17ee-4e40-b7dc-cb3dc5696a9d/xitehiphopevolution_logo_light_-_Arlette_FiranRDX.png",XITE Hip-Hop Evolution
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68894b6e10df0c242e4136cc.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-640205c68ecb41f2d89d5814.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-653d9d28d3e2e30d889226be" tvg-name="Dungeons & Dragons Adventures" tvg-logo="https://provider-static.plex.tv/epg/cms/production/628a1ec4-3547-46b1-ac1b-5efe28d38088/DungeonsAndDragonsAdventures_Logo_1500x1000_-_RSD.png",Dungeons & Dragons Adventures
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-653d9d28d3e2e30d889226be.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5f0ff263d71dcb00449ec021" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png",People are Awesome
@@ -871,8 +873,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6245cd154f27f4e9c76d67e9.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86" tvg-name="Caracol Mix" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",Caracol Mix
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-639ba57d3f4612cc150a5723.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d" tvg-name="Euronews Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eea28bcc-26ea-4266-81b4-2945f334c3d9/Plex-WURL_Euronews-Logos_ES_-_astrid_collomb.png",Euronews Español
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60089d97f682a3002c34829d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6245f13093b402a3d1097789" tvg-name="Euronews Italiano" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",Euronews Italiano

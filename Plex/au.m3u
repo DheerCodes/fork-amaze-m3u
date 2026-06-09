@@ -293,6 +293,12 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-66be955c8711311880995282.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68c98e7460586565cc56baab" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",Crime Beat TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-68c98e7460586565cc56baab.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",Death Valley Days
+https://jmp2.uk/plex-697140a85d851f5e69414688-6674b68af04cf4bb9233c916.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
+https://jmp2.uk/plex-697140a85d851f5e69414688-640205c68ecb41f2d89d5814.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-639ba57d3f4612cc150a5723.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68e0388d8bbd79d66c631ab4" tvg-name="Preston & Brianna" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a494aee0-92e2-42bf-887e-7facb9a94d59/FilmRise_PrestonAndBrianna_Logo_Color.png",Preston & Brianna
 https://jmp2.uk/plex-697140a85d851f5e69414688-68e0388d8bbd79d66c631ab4.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
@@ -333,8 +339,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-66a2e7fe94b6a49cb5054d7b.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-5ef11487d33ab9004048a1d9.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-67642f277c5e3b38af72dcdb" tvg-name="Cirque du Soleil" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",Cirque du Soleil
 https://jmp2.uk/plex-697140a85d851f5e69414688-67642f277c5e3b38af72dcdb.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6674b68af04cf4bb9233c916" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",Death Valley Days
-https://jmp2.uk/plex-697140a85d851f5e69414688-6674b68af04cf4bb9233c916.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68645e804051ba2be659baac" tvg-name="Stars Central" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae2c7909-5beb-4651-878d-c74b2512f87b/Star_Central_whitRDXe.png",Stars Central
 https://jmp2.uk/plex-697140a85d851f5e69414688-68645e804051ba2be659baac.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-652a8b001b5c74bc83cf727c" tvg-name="Dog Whisperer" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",Dog Whisperer
@@ -347,8 +351,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-69814bbff871095eafc65925.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-6349ed0eb1adc4cfa571fd37.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-5f0ff262d71dcb00449ec018" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",Judge Nosey
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f0ff262d71dcb00449ec018.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-640205c68ecb41f2d89d5814" tvg-name="The Ed Sullivan Show" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png",The Ed Sullivan Show
-https://jmp2.uk/plex-697140a85d851f5e69414688-640205c68ecb41f2d89d5814.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487" tvg-name="TED" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png",TED
 https://jmp2.uk/plex-697140a85d851f5e69414688-62ab5aabbb869dd0df6a3487.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615522e50e81fa51eb0df60" tvg-name="Sonic The Hedgehog" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",Sonic The Hedgehog
@@ -551,8 +553,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-61aaa17a784a2161d3caf801.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-5fc705daa2236e002d69f108.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-66be8cd4871131188099527e" tvg-name="TRACE UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png",TRACE UK
 https://jmp2.uk/plex-697140a85d851f5e69414688-66be8cd4871131188099527e.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-639ba57d3f4612cc150a5723.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-65b1568052aa31b8f64da064" tvg-name="C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",C4 en Alerta
 https://jmp2.uk/plex-697140a85d851f5e69414688-65b1568052aa31b8f64da064.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",El Conflicto TV
