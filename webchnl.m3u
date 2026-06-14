@@ -17,12 +17,14 @@ https://mci01.nive.live/22/index.m3u8
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="true",Whiplash FM
 https://cdn.whiplash.cc/whiplash-fm/index.m3u8
+#EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="Whiplash" radio="true",Whiplash FM (audio only)
+https://radiocdn.whiplash.cc/listen/wlfm/radio.mp3
 #EXTINF:-1 tvg-id="eel_ch" tvg-name="Eel Channel" tvg-logo="https://webchnl.com/assets/img/channelicons/eel_ch.png" group-title="webchnl",Eel Channel
 https://mci01.nive.live/28/index.m3u8
 #EXTINF:-1 tvg-id="toon_d" tvg-name="Toon Disney" tvg-logo="https://webchnl.com/assets/img/channelicons/toon_d.png" group-title="webchnl",Toon Disney
 https://mci01.nive.live/29/index.m3u8
 #EXTINF:-1 tvg-id="spark" tvg-name="Spark" tvg-logo="https://webchnl.com/assets/img/channelicons/spark.png" group-title="webchnl",Spark
-https://mci01.nive.live/11/index.m3u8
+https://cdn.40mediagroup.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA
 https://animax.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA (nive.live)
