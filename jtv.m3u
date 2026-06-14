@@ -8,11 +8,7 @@ http://202.70.146.135:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" tvg-language="English" group-title="Movies", Movies Now HD
 http://202.70.146.135:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png" tvg-language="Marathi" group-title="Movies", Zee Talkies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-9z5383489/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-9z5383489/index.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-language="Hindi" group-title="Entertainment", Sony SAB
 #https://ottbanglaplatform.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Sony Ten 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" tvg-language="English" group-title="Sports", Sony Ten 5 HD
@@ -213,11 +209,7 @@ http://149.71.34.166:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-language="Hindi" group-title="Movies", Sony MAX2
 https://sonyliv.07in.workers.dev/live/999/999/sony-max-2.m3u8
 #EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinema.png" tvg-language="Hindi" group-title="Movies", Zee Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeecinema/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecinema/index.m3u8
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBollywood.png" tvg-language="Hindi" group-title="Movies", Zee Bollywood
 http://149.71.34.166:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png" tvg-language="Hindi" group-title="Movies", Zee Action
@@ -537,11 +529,7 @@ https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="687" tvg-name="News Time TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Time_TV.png" tvg-language="Bengali" group-title="News", News Time TV
 https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="689" tvg-name="Zee Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannada.png" tvg-language="Kannada" group-title="Entertainment", Zee Kannada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-9z5383466/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-9z5383466/index.m3u8
 #EXTINF:-1 tvg-id="690" tvg-name="DD Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png" tvg-language="Bengali" group-title="News", DD Bangla
 https://cdn-4.pishow.tv/live/37/master.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saam_Tv.png" tvg-language="Marathi" group-title="News", Saam Tv
@@ -1209,9 +1197,9 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="1315" tvg-name="HHDL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/HHDL.png" tvg-language="English" group-title="Devotional", HHDL
 http://103.159.180.34:5001/live/1315.m3u8
-#EXTINF:-1 tvg-id="1319" tvg-name="Zee Cafe HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCafeHD.png" tvg-language="English" group-title="Entertainment", Zee Cafe HD
+#EXTINF:-1 tvg-id="1319" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCafeHD.png" tvg-language="English" group-title="Sports", Unite8 Sports 1 HD
 http://103.159.180.34:5001/live/1319.m3u8
-#EXTINF:-1 tvg-id="1319" tvg-name="And Flix HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndFlixHD.png" tvg-language="English" group-title="Movies", And Flix HD
+#EXTINF:-1 tvg-id="1319" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AndFlixHD.png" tvg-language="English" group-title="Sports", Unite8 Sports 2 HD
 http://103.159.180.34:5001/live/1322.m3u8
 #EXTINF:-1 tvg-id="1324" tvg-name="Colors Gujarati Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" tvg-language="Gujarati" group-title="Movies", Colors Gujarati Cinema
 http://103.159.180.34:5001/live/1324.m3u8
@@ -1246,19 +1234,11 @@ http://103.159.180.34:5001/live/1345.m3u8
 #EXTINF:-1 tvg-id="1346" tvg-name="Sonic Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Marathi.png" tvg-language="Marathi" group-title="Kids", Sonic Marathi
 http://103.159.180.34:5001/live/1346.m3u8
 #EXTINF:-1 tvg-id="1351" tvg-name="Zee TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png" tvg-language="Telugu" group-title="Entertainment", Zee TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeetv/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetv/index.m3u8
 #EXTINF:-1 tvg-id="1354" tvg-name="Zee Telugu HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png" tvg-language="Telugu" group-title="Entertainment", Zee Telugu HD
 https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 #EXTINF:-1 tvg-id="1356" tvg-name="Zee Tamil HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTamilHD.png" tvg-language="Tamil" group-title="Entertainment", Zee Tamil HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeetamil/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetamil/index.m3u8
 #EXTINF:-1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkiesHD.png" tvg-language="Marathi" group-title="Movies", Zee Talkies HD
 http://103.159.180.34:5001/live/1358.m3u8
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" tvg-language="Hindi" group-title="Entertainment", Big Magic
@@ -1266,11 +1246,7 @@ https://mumt05.tangotv.in/BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" tvg-language="Marathi" group-title="Entertainment", Zee Marathi HD
 http://103.159.180.34:5001/live/1360.m3u8
 #EXTINF:-1 tvg-id="1362" tvg-name="Zee Kannada HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeKannadaHD.png" tvg-language="Kannada" group-title="Entertainment", Zee Kannada HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeekannada/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeekannada/index.m3u8
 #EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" tvg-language="Telugu" group-title="Movies", Zee Cinemalu HD
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-language="Hindi" group-title="Entertainment", Colors SD
@@ -1438,11 +1414,7 @@ https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8
 #EXTINF:-1 tvg-id="1635" tvg-name="News State MPCG " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_MPCG.png" tvg-language="Hindi" group-title="News", News State MPCG 
 https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8
 #EXTINF:-1 tvg-id="1641" tvg-name="Zee Keralam HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeKeralamHD.png" tvg-language="Malayalam" group-title="Entertainment", Zee Keralam HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-129/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-129/index.m3u8
 #EXTINF:-1 tvg-id="1643" tvg-name="Harvest TV 24x7" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Harvest_TV_24x7.png" tvg-language="Malayalam" group-title="Devotional", Harvest TV 24x7
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-id="1644" tvg-name="Powervision TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Powervision_TV.png" tvg-language="Malayalam" group-title="Devotional", Powervision TV
@@ -1516,19 +1488,11 @@ https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
 #KODIPROP:mimetype=application/dash+xml
 http://103.175.73.12:8080/live/347/347_0.m3u8
 #EXTINF:-1 tvg-id="1746" tvg-name="Zee Power HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeePowerHD.png" tvg-language="Kannada" group-title="Movies", Zee Power HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-241/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-241/index.m3u8
 #EXTINF:-1 tvg-id="1747" tvg-name="India News Gujarat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png" tvg-language="Gujarati" group-title="News", India News Gujarat
 https://mumt03.tangotv.in/INDIANEWSGUJARAT/index.m3u8
 #EXTINF:-1 tvg-id="1751" tvg-name="Zee Punjabi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeePunjabi.png" tvg-language="Punjabi" group-title="Movies", Zee Punjabi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-215/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-215/index.m3u8
 #EXTINF:-1 tvg-id="1754" tvg-name="Sun Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" tvg-language="Malayalam" group-title="Movies", Sun Surya Movies
 http://airtel-07.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SURYA_MOVIES&uid=999&pass=999
 #EXTINF:-1 tvg-id="1757" tvg-name="NK TV Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NK_TV.png" tvg-language="Assamese" group-title="News", NK TV Plus
@@ -1582,11 +1546,7 @@ http://103.159.180.34:5001/live/1826.m3u8
 #EXTINF:-1 tvg-id="1834" tvg-name="Green Chillies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Green_Chillies_TV.png" tvg-language="Hindi" group-title="Entertainment", Green Chillies
 https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/playlist.m3u8
 #EXTINF:-1 tvg-id="1843" tvg-name="And Pictures" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/AndPictures.png" tvg-language="Hindi" group-title="Movies", And Pictures
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-pictures/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-pictures/index.m3u8
 #EXTINF:-1 tvg-id="1847" tvg-name="Z10 TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Harpal_TV.png" tvg-language="Hindi" group-title="Devotional", Z10 TV
 http://103.159.180.34:5001/live/1847.m3u8
 #EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC.png" tvg-language="Tamil" group-title="Devotional", SVBC
@@ -1666,11 +1626,7 @@ https://live.legitpro.co.in/gujaratfirst/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="PMC Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PMC_Telugu.png" tvg-language="Telugu" group-title="Devotional", PMC Telugu
 https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="Zee Bangla HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBanglaHD.png" tvg-language="Bengali" group-title="Entertainment", Zee Bangla HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15"
-#KODIPROP:mimetype=application/dash+xml
-https://zee5.cr7x.workers.dev/live/999/999/0-9-zeebangla/master.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeebangla/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-language="Hindi" group-title="Sports", Star Sports 2 Hindi HD
 http://202.70.146.135:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="1998" tvg-name="Star Sports Khel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" tvg-language="Hindi" group-title="Sports", Star Sports Khel
@@ -2606,9 +2562,9 @@ http://103.159.180.34:5001/live/3556.m3u8
 #EXTINF:-1 tvg-id="3557" tvg-name="Lokmat Bharat" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png" tvg-language="Hindi" group-title="News", Lokmat Bharat
 http://103.159.180.34:5001/live/3557.m3u8
 #EXTINF:-1 tvg-id="3558" tvg-name="ETV News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" tvg-language="Telugu" group-title="News", ETV News
-http://103.159.180.34:5001/live/3558.m3u8
+https://jmp2.uk/stvp-IN4900001AQ
 #EXTINF:-1 tvg-id="3561" tvg-name="ETV Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-language="Telugu" group-title="Entertainment", ETV Comedy
-http://103.159.180.34:5001/live/3561.m3u8
+https://jmp2.uk/stvp-IN4900003U3
 #EXTINF:-1 tvg-id="3562" tvg-name="Akhon Kolkata Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/debjit.png" tvg-language="Bengali" group-title="Entertainment", Akhon Kolkata Plus
 http://103.159.180.34:5001/live/3562.m3u8
 #EXTINF:-1 tvg-id="3563" tvg-name="Pure Pink" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PurePink.png" tvg-language="Hindi" group-title="Entertainment", Pure Pink
