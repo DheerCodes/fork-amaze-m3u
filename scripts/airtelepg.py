@@ -85,7 +85,7 @@ newroot = ET.Element('tv')
 newroot.set('generator-info-url', 'https://github.com/amazeyourself')
 
 for i in channellist:
-    if "RUNNTV" in i[id]:
+    if "RUNNTV" in i['id']:
         if 'LOGO_HD' in i['images']:
             ico = i['images']['LOGO_HD']
         elif 'LOGO' in i['images']:
