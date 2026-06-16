@@ -28,7 +28,8 @@ for i in channellist:
         dspl = ET.SubElement(chnl, 'display-name')
         icon = ET.SubElement(chnl, 'icon')
         dspl.text = i['title']
-        icon.set('src', ico)
+        if 'LOGO_HD' in i['images'] or 'LOGO' in i['images']:
+            icon.set('src', ico)
         lcn = ET.SubElement(chnl, 'lcn')
         if 'lcn' in i:
             lcn.text = i['lcn']
