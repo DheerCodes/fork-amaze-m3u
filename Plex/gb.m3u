@@ -541,8 +541,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-65a061008b6d8fe79ee1ddc9.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-5ef11487d33ab9004048a1d3.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-643f0ecd76de2b4015ae6c01" tvg-name="PFL MMA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",PFL MMA
 https://jmp2.uk/plex-64305451fc3be5947773c339-643f0ecd76de2b4015ae6c01.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",Trailers From Hell
-https://jmp2.uk/plex-64305451fc3be5947773c339-61d738b5a7b7c7f703418514.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-61e9d9979da6ee6e05278269" tvg-name="Wellbeing TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d0037dd-924f-4cfb-8d3d-a227b1dbb489/WellbeingTV_logo_darkBG_-_Antoine_Dailliet.png",Wellbeing TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-61e9d9979da6ee6e05278269.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-62ba4aaff663580a7238f327" tvg-name="Sonic TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png",Sonic TV
@@ -687,6 +685,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69153808ca8cd63ab14ece0d.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-5eea605574085f0040ddc794.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60db63d29ec966002c9ea6f0" tvg-name="Made In Hollywood" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png",Made In Hollywood
 https://jmp2.uk/plex-64305451fc3be5947773c339-60db63d29ec966002c9ea6f0.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61d738b5a7b7c7f703418514" tvg-name="Trailers From Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",Trailers From Hell
+https://jmp2.uk/plex-64305451fc3be5947773c339-61d738b5a7b7c7f703418514.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68e9436dda6bb987138625c7" tvg-name="Metal.Rocks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png",Metal.Rocks
 https://jmp2.uk/plex-64305451fc3be5947773c339-68e9436dda6bb987138625c7.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68b74890b5b437bf872b6b72" tvg-name="TV5MONDE Chefs" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",TV5MONDE Chefs
