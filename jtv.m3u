@@ -2569,3 +2569,7 @@ https://jmp2.uk/stvp-IN4900003U3
 http://103.159.180.34:5001/live/3562.m3u8
 #EXTINF:-1 tvg-id="3563" tvg-name="Pure Pink" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/PurePink.png" tvg-language="Hindi" group-title="Entertainment", Pure Pink
 http://103.159.180.34:5001/live/3563.m3u8
+#EXTINF:-1 tvg-id="3564" tvg-name="Rashtram" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rashtram.png" tvg-language="Hindi" group-title="Devotional", Rashtram
+http://103.159.180.34:5001/live/3564.m3u8
+#EXTINF:-1 tvg-id="3565" tvg-name="Globeon Television" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GlobeonTelevision.png" tvg-language="Malayalam" group-title="Entertainment", Globeon Television
+http://103.159.180.34:5001/live/3565.m3u8
