@@ -167,7 +167,7 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-692719bf5d6063fc5b96b699.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-5ef4e1b40d9ad000423c4430.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-69ad9e60e657bab5f7a9b7e6" tvg-name="Intervention" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01661c3b-201e-4085-9c9b-de6d8f06035c/Intervention_COLOR_WIDE_Logo_RDX.png",Intervention
 https://jmp2.uk/plex-697140a85d851f5e69414688-69ad9e60e657bab5f7a9b7e6.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-666e16f9d91d13cb4c8cbb69" tvg-name="Go Xplorer" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4efc8da-e38b-4b1f-9d2d-fcff937d1784/channel_logo_1500x1000_light.png.png",Go Xplorer
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-666e16f9d91d13cb4c8cbb69" tvg-name="Xtreme Caution" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b91868f-69e0-4451-b813-1dda56cbeee8/xtreme_caution_white.png",Xtreme Caution
 https://jmp2.uk/plex-697140a85d851f5e69414688-666e16f9d91d13cb4c8cbb69.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-651600fb2ff655e77635c62a" tvg-name="Fear Factor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4cae556e-d238-4383-b6dc-84de0ff69940/FearFactor_Logo_Dark_1500x1000_-_Harry_Marshall_COLOR_WHITE.png",Fear Factor
 https://jmp2.uk/plex-697140a85d851f5e69414688-651600fb2ff655e77635c62a.m3u8
@@ -201,6 +201,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-6995ec70d1359019f3b06434.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a10994ab05301ef36a6a8e2.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6470477fe536e0faaf10be9d" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",Robot Wars by Mech+
 https://jmp2.uk/plex-697140a85d851f5e69414688-6470477fe536e0faaf10be9d.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-64ac687b4192b4e1bab96279" tvg-name="PokerGO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",PokerGO
+https://jmp2.uk/plex-697140a85d851f5e69414688-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-67d9a3d663c5439aeaf61305" tvg-name="The Bold and the Beautiful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",The Bold and the Beautiful
 https://jmp2.uk/plex-697140a85d851f5e69414688-67d9a3d663c5439aeaf61305.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-69bb1f002028859eafc637e1" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",Legacy
@@ -415,7 +417,7 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-621671d05abdd3d5556a1baf.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",Fight Network
 https://jmp2.uk/plex-697140a85d851f5e69414688-606605549dbfca002d2ae877.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15c628ca-8ef6-4074-873c-8f491ed51f55/crime_scene_tv_white.png",Crime Scene TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6533e9b1df3ccc650a965646" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7eaa4b-57dd-43dd-80b7-55161ce05135/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png",Adventure Earth
 https://jmp2.uk/plex-697140a85d851f5e69414688-6533e9b1df3ccc650a965646.m3u8

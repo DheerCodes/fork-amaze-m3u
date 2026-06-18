@@ -89,7 +89,7 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-671ff65b29bcfe7b69d4fef7.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-64487508af92c31f4a190bc0.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6757689a30e1e3d0bb138d6b" tvg-name="Grjngo - Films de Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/500c7234-b12c-49a7-80dc-33dee191511a/Plex_channel_logo_Grjngo_bright_Toni_Newesil.png",Grjngo - Films de Western
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6757689a30e1e3d0bb138d6b.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-685f150c593aba51f211823f" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0e7ca5ae-d7a9-4e1a-8d46-1503280f1de6/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-685f150c593aba51f211823f" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5f7971e-9d1c-4084-a9b9-5f5e3d40c9d5/crime_scene_tv_white.png",Crime Scene TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-685f150c593aba51f211823f.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-606605549dbfca002d2ae873" tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png",TNA Wrestling Channel
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-606605549dbfca002d2ae873.m3u8
@@ -99,6 +99,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-64b1d8d67d4037206787f380.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68b9f334fc12601028c5651e.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",Billiard TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6334a8e48a7b2a349d903b8c.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-64ac687b4192b4e1bab96279" tvg-name="PokerGO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",PokerGO
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-65028a4bec4e38daa56e9c76" tvg-name="Scream'IN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4b80eef6-826f-4413-8e51-ed3e16091f9d/SCREAM_IN_-_Logo_1500x1000_-_Zylo_Paris.png",Scream'IN
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-65028a4bec4e38daa56e9c76.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6448ba1baf92c31f4a190c27" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",JAIL

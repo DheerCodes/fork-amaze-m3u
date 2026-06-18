@@ -197,6 +197,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-5f6b8e7900b0950040d0f2b2.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-6582a1316b91be4547aa153c.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-652a8b001b5c74bc83cf727c" tvg-name="Dog Whisperer" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",Dog Whisperer
 https://jmp2.uk/plex-643054b1fc3be59477853717-652a8b001b5c74bc83cf727c.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-64ac687b4192b4e1bab96279" tvg-name="PokerGO" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",PokerGO
+https://jmp2.uk/plex-643054b1fc3be59477853717-64ac687b4192b4e1bab96279.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-635195e9ccee3e1547a8831a" tvg-name="Farscape" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77115f01-d00a-4ef0-bb00-dcb3896e1c09/f5c7ee72e5a980b3ac2a31fd94e112e8.png",Farscape
 https://jmp2.uk/plex-643054b1fc3be59477853717-635195e9ccee3e1547a8831a.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-606605549dbfca002d2ae873" tvg-name="TNA Wrestling Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png",TNA Wrestling Channel
