@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/us.xml.gz"
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a2c3fd5699622bf0f7a8185" tvg-name="Tony Robbins Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3bbdbf1-c83d-4b89-9a0b-e6322d6597fe/TRN_Light_Logo_1500X1000.png",Tony Robbins Network
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a2c3fd5699622bf0f7a8185.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66635fc0ca7b22f4c3a2d743" tvg-name="CW Forever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9418a5d-f191-4b8a-bf3a-2eda3d2cd137/PLEX_CWFOREVER_UPDATEDLOGO_RDX.png",CW Forever
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66635fc0ca7b22f4c3a2d743.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f3ba" tvg-name="Stories by AMC" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png",Stories by AMC
@@ -535,6 +533,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-651600fb2ff655e77635c62a.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-656229e4b7d737841f30a4fb.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6516023b1fc969615e69d172" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c21d6f3-1bf2-414e-aee0-c2b1365d228b/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1_.png",Deal Or No Deal
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6516023b1fc969615e69d172.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a2c3fd5699622bf0f7a8185" tvg-name="Tony Robbins Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3bbdbf1-c83d-4b89-9a0b-e6322d6597fe/TRN_Light_Logo_1500X1000.png",Tony Robbins Network
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a2c3fd5699622bf0f7a8185.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b" tvg-name="MrBeast" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f543ede1-40f6-4c84-9ac5-ab5db78d82f3/MB_LOGO_1500X1000_WHITEandCOLOR_TRANSPARENT.png",MrBeast
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6876f82754325376973fd316" tvg-name="Paternity Court" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4108fe4-e876-41a3-904d-39148f3e2e30/PaternityCourt_logo_dark_-_Carl_HoffelderRDX.png",Paternity Court
