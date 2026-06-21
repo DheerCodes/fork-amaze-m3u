@@ -40,7 +40,7 @@ for i in channels:
     channel_data = json.loads(stringdata)
     epg = channel_data['channel_id']
     name = channel_data['channel_name']
-    logo = urllib.parse.quote_plus(channel_data['channel_image'])
+    logo = channel_data['channel_image'].replace(" ","%20")
     group = channel_data['category_name']
     playlist.append(f'#EXTINF:-1 tvg-id="{epg}" tvg-chno="{epg}" tvg-name="{name}" tvg-logo="https://livetv.ashokadigital.net/upload/logo/{logo}" group-title"{group}",{epg} {name}')
     if channel_data['channel_url'] != "":
