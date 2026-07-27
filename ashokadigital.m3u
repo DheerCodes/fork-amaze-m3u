@@ -90,7 +90,7 @@ https://app.ashokadigital.net/app/78b1bc36/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-chno="126" tvg-name="Shakthi Channel" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777567856_SALRHI%20TV%20LOGO%20PNG%20copy.png" group-title"Tamil Nadu Channels",126 Shakthi Channel
 https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
 #EXTINF:-1 tvg-id="172" tvg-chno="172" tvg-name="Delta Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1770896079_deltha%20tv.png" group-title"Tamil Nadu Channels",172 Delta Tv
-
+http://deltatv-hls.stream.nellaiiptv.com/deltatv/deltatv/index.m3u8
 #EXTINF:-1 tvg-id="184" tvg-chno="184" tvg-name="smart sri" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773823026_Smart%20Sri%20Tv%20logo.png" group-title"Tamil Nadu Channels",184 smart sri
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="185" tvg-chno="185" tvg-name="star media" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773809677_WhatsApp%20Image%202026-03-18%20at%209.42.26%20AM.jpeg" group-title"Tamil Nadu Channels",185 star media
