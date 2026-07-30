@@ -151,10 +151,6 @@ https://app.ashokadigital.net/app/7fff5003/index.m3u8
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="311" tvg-chno="311" tvg-name="nila tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila%20Tv_00151.png" group-title"Tamil Nadu Channels",311 nila tv
 
-#EXTINF:-1 tvg-id="321" tvg-chno="321" tvg-name="Sv Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776537006_valan%20tv.png" group-title"Tamil Nadu Channels",321 Sv Tv
-https://stream.ashokadigital.net/velantv/velantv/index.m3u8
-#EXTINF:-1 tvg-id="322" tvg-chno="322" tvg-name="SRI THANGAMAYIL MURUGAN" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775060426_WhatsApp%20Image%202026-04-01%20at%209.45.49%20PM.jpeg" group-title"Tamil Nadu Channels",322 SRI THANGAMAYIL MURUGAN
-rtmp://stmtv.sscloud7.in/stmtv/srithangamalaimurugantv
 #EXTINF:-1 tvg-id="326" tvg-chno="326" tvg-name="shalini tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737815564_Shalini%20Tv%20logo%20New%2028-04-2012.png" group-title"Tamil Nadu Channels",326 shalini tv
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="333" tvg-chno="333" tvg-name="Coimbatore " tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733334938_IMG-20241204-WA0141.jpg" group-title"Tamil Nadu Channels",333 Coimbatore 
@@ -201,6 +197,12 @@ https://mumbai-edge.smartplaytv.in/musicbeats/index.m3u8
 https://mumbai-edge.smartplaytv.in/akashtv/index.m3u8
 #EXTINF:-1 tvg-id="697" tvg-chno="697" tvg-name="Amman Tv Plus" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1764597422_WhatsApp%20Image%202025-12-01%20at%206.44.54%20PM.png" group-title"Salem | Namakkal | Dharmapuri ",697 Amman Tv Plus
 rtmp://ammatv.stream.ashokadigital.net:1935/ammatv/ammatv
+#EXTINF:-1 tvg-id="726" tvg-chno="726" tvg-name="UDHAYAM TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775134393_UDHAYAM%20TV.png" group-title"Tamil Nadu Channels",726 UDHAYAM TV
+
+#EXTINF:-1 tvg-id="737" tvg-chno="737" tvg-name="Sv Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1776537006_valan%20tv.png" group-title"Tamil Nadu Channels",737 Sv Tv
+https://stream.ashokadigital.net/velantv/velantv/index.m3u8
+#EXTINF:-1 tvg-id="745" tvg-chno="745" tvg-name="SRI THANGAMAYIL MURUGAN" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775060426_WhatsApp%20Image%202026-04-01%20at%209.45.49%20PM.jpeg" group-title"Tamil Nadu Channels",745 SRI THANGAMAYIL MURUGAN
+rtmp://stmtv.sscloud7.in/stmtv/srithangamalaimurugantv
 #EXTINF:-1 tvg-id="900" tvg-chno="900" tvg-name="Chanakya news india (national)" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1744204347_national%20tv%20logo%20png.png" group-title"Delhi Channels",900 Chanakya news india (national)
 https://newsliveindia.com:4433/chanakyanational/index.m3u8
 #EXTINF:-1 tvg-id="901" tvg-chno="901" tvg-name="Chanakya up/uk" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748443446_1748378448_3.png" group-title"Tamil Nadu Channels",901 Chanakya up/uk
