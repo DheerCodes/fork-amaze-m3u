@@ -194,7 +194,7 @@ hgchgv
 #EXTINF:-1 tvg-id="760" tvg-chno="760" tvg-name="shalini tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737815564_Shalini%20Tv%20logo%20New%2028-04-2012.png" group-title"Tamil Nadu Channels",760 shalini tv
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="761" tvg-chno="761" tvg-name="Jayaam tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732251489_Jayaam%20copy.png" group-title"Salem | Namakkal | Dharmapuri ",761 Jayaam tv
-	https://app.ashokadigital.net/app/67a779e9/index.m3u8
+	https://app.ashoapp/67a779e9/index.m3u8
 #EXTINF:-1 tvg-id="762" tvg-chno="762" tvg-name="Shalini Tv Thanjavur" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1730741877_uxsXR_hp_400x400-removebg-preview.png" group-title"Tamil Nadu Channels",762 Shalini Tv Thanjavur
 https://app.ashokadigital.net/app/34dc7fe5/index.m3u8
 #EXTINF:-1 tvg-id="763" tvg-chno="763" tvg-name="kallai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774607362_Kallai%20Tv.png" group-title"Tamil Nadu Channels",763 kallai tv
